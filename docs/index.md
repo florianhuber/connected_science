@@ -1,6 +1,6 @@
 # Master table
 
-* Chemie
+* [Chemie](Chemie.md)
 * Physik
 * Personen
 * Geschichte
