@@ -1,2 +1,2 @@
-# connected_science
-A blog about some selected items in the scientific world that are connected with each other.
+# connected_world
+A blog about some selected items in this world that are connected with each other.
