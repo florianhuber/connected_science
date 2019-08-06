@@ -1,5 +1,8 @@
-* Coca-cola
+# Coca-Cola
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Coca-Cola_logo.svg" height="200" alt="Coca-Cola logo">
+
+---
 Coca-Cola, kurz Coke,[1] ist eine Marke der Coca-Cola Company für ein kohlensäurehaltiges Erfrischungsgetränk. Sie ist die umsatzstärkste Cola-Marke. Der Coca-Cola-Schriftzug ist ein weltweit bekanntes geschütztes Markenzeichen.
 
 
@@ -30,9 +33,8 @@ Vom Firmensitz von Coca-Cola in Atlanta aus sagte der Unternehmenssprecher Rafae
 
 Eine Dokumentation über die Kontroverse mit dem Titel The Coca-Cola Case wurde 2010 veröffentlicht.[66]
 
-
 [wikipedia](https://de.wikipedia.org/wiki/Coca-Cola)
-
+---
 
 Videos
 
