@@ -1,6 +1,12 @@
 # Ferrero
 
-![Ferrero logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Ferrero.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Ferrero.svg" height="200" alt="Ferrero logo">
+
+[official website](https://www.ferrero.com/)
+
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Ferrero_(Unternehmen))
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Ferrero_SpA)
+---
 
 Ferrero S.p.A. ist einer der größten international tätigen italienischen Süßwarenhersteller.
 
