@@ -8,7 +8,7 @@
 
 ---
 
-> Milka ist ein Markenname für Schokoladenprodukte des US-amerikanischen Nahrungsmittelkonzerns [Mondelēz International](/connected_world/konzerne/mondelez_international.html).  
+> Milka ist ein Markenname für [Schokoladenprodukte](/connected_world/nahrung/schokolade.html) des US-amerikanischen Nahrungsmittelkonzerns [Mondelēz International](/connected_world/konzerne/mondelez_international.html).  
 ---
 
 ## Inhaltsstoffe
