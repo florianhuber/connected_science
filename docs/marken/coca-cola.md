@@ -8,7 +8,7 @@
 
 ---
 
-> ... ist eine Marke der [Coca-Cola Company](/connected_world/konzerne/coca-cola_co.html) für ein kohlensäurehaltiges Erfrischungsgetränk. Sie ist die umsatzstärkste Cola-Marke. Der Coca-Cola-Schriftzug ist ein weltweit bekanntes geschütztes Markenzeichen.
+> ... ist eine Marke der [Coca-Cola Company](../konzerne/coca-cola_co.html) für ein kohlensäurehaltiges Erfrischungsgetränk. Sie ist die umsatzstärkste Cola-Marke. Der Coca-Cola-Schriftzug ist ein weltweit bekanntes geschütztes Markenzeichen.
 
 ---
 

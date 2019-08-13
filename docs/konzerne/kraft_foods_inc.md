@@ -6,4 +6,4 @@
 
 ---
 
->... was an American multinational confectionery, food and beverage conglomerate.[1] It marketed many brands in more than 170 countries. 12 of its brands annually earned more than $1 billion worldwide: Cadbury, Jacobs, Kraft, LU, Maxwell House, Milka, Nabisco, Oreo, Oscar Mayer, Philadelphia, Trident, and Tang.
+>... was an American multinational confectionery, food and beverage conglomerate. It marketed many brands in more than 170 countries. 12 of its brands annually earned more than $1 billion worldwide: Cadbury, Jacobs, Kraft, LU, Maxwell House, [Milka](../marken/milka.html), Nabisco, Oreo, Oscar Mayer, Philadelphia, Trident, and Tang.
