@@ -2,9 +2,15 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Coca-Cola_logo.svg" height="200" alt="Coca-Cola logo">
 
----
-... ist eine Marke der [Coca-Cola Company](/connected_world/konzerne/coca-cola_co.md) für ein kohlensäurehaltiges Erfrischungsgetränk. Sie ist die umsatzstärkste Cola-Marke. Der Coca-Cola-Schriftzug ist ein weltweit bekanntes geschütztes Markenzeichen.
+[official website](http://www.coca-cola.com/)
 
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Coca-Cola)
+
+---
+
+> ... ist eine Marke der [Coca-Cola Company](/connected_world/konzerne/coca-cola_co.html) für ein kohlensäurehaltiges Erfrischungsgetränk. Sie ist die umsatzstärkste Cola-Marke. Der Coca-Cola-Schriftzug ist ein weltweit bekanntes geschütztes Markenzeichen.
+
+---
 
 Zucker und Säure
 
