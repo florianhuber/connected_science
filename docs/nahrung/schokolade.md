@@ -6,7 +6,7 @@
 
 ---
 
-> ... ist ein Lebens- und Genussmittel, dessen wesentliche Bestandteile Kakaoerzeugnisse und Zuckerarten, im Falle von Milchschokolade auch Milcherzeugnisse sind. Schokolade wird in reiner Form genossen und als Halbfertigprodukt weiterverarbeitet.
+> ... ist ein Lebens- und Genussmittel, dessen wesentliche Bestandteile [Kakaoerzeugnisse](kakao.html) und [Zuckerarten](zucker.html), im Falle von Milchschokolade auch [Milcherzeugnisse](milch.html) sind.
 
 ---
 
