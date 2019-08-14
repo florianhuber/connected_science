@@ -12,6 +12,10 @@
 
 ---
 
+## Alternativen, Produktvergleiche und Tests
+
+* Schokoladetafeln: Übersicht mit Produktbewertungen - [codecheck.info](https://www.codecheck.info/essen/suesswaren/schokoladetafeln.kat)
+
 ## Tipps   
 
 * "Warum du [faire](../siegel/fair_trade_siegel.html) Schokolade kaufen solltest" - [codecheck.info](https://www.codecheck.info/news/Warum-Du-faire-Schokolade-kaufen-solltest-181244)
