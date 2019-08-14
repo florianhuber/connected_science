@@ -1,3 +1,5 @@
+[Nahrungsmittel](../nahrungsmittel.html)   
+
 # Schokolade
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chocolate_%28blue_background%29.jpg/800px-Chocolate_%28blue_background%29.jpg" height="200" alt="Schokolade">
