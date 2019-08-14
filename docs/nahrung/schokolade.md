@@ -12,5 +12,11 @@
 
 ---
 
+## Tipps   
+
+* "Warum du [faire](../siegel/fair_trade_siegel.html) Schokolade kaufen solltest" - [codecheck.info](https://www.codecheck.info/news/Warum-Du-faire-Schokolade-kaufen-solltest-181244)
+
+---
+
 News about chocolate, published in
 * [The Guardian](https://www.theguardian.com/food/chocolate)
