@@ -22,3 +22,7 @@ Heute wird die größte Menge Kakao pro Staat in der Elfenbeinküste hergestellt
 Aus der Kakaobohne wird Kakaomasse gewonnen, und aus dieser werden Kakaobutter und Kakaopulver hergestellt. Diese Produkte werden als Zutaten für Lebensmittel und in der Kosmetikindustrie verwendet.
 Das Getränk aus Kakaobohnen wurde von den Azteken als „xocóatl“, nach „xócoc“ (bitter) und „atl“ (Wasser), also als Bitterwasser, bezeichnet. Das davon abgeleitete Wort Schokolade bezeichnet heute ein festes, aber leicht schmelzbares Lebensmittel aus Bestandteilen der Kakaobohne und Zucker (und gegebenenfalls Butter und Vanille), das im 19. Jahrhundert erfunden und im 20. Jahrhundert weiterentwickelt wurde.
 Kakaohaltige Getränke werden aus Getränkepulver hergestellt und zählen zu den Zuckerwaren, hingegen zählt Trinkschokolade (auch als Kakao bezeichnet) zu Kakao (Getränk).
+
+## Herkunft und Anbau
+
+## Verarbeitung
