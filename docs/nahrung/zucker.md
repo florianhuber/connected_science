@@ -1,6 +1,6 @@
 [Nahrungsmittel](../nahrungsmittel.html)   
 
-# Zucker
+# Zucker 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Sugar_cubes_V1.jpg" height="200" alt="Würfelzucker">
 
