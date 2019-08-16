@@ -23,3 +23,7 @@ Plants For A Future: A resource and information centre for edible and otherwise 
 
 ### [Das ist drin](http://das-ist-drin.de/)
 > Informationen über die Inhaltsstoffe, Zusatzstoffe und Nährwerte von Lebensmitteln. Das Portal ist nach dem Wikiprinzip aufgebaut. Jeder kann mitmachen, Produkte ergänzen, bearbeiten oder neu anlegen und so dazu beitragen, dass die Fülle der auf dem Markt erhältlichen Produkte so umfassend wie möglich abgebildet wird.
+
+### [CodeCheck](https://www.codecheck.info/)
+> Unsere Vision ist es, für mehr Transparenz bei den Produkten zu sorgen, die täglich in unserem Einkaufswagen landen. Wir wollen es Menschen einfach machen, gesunde und nachhaltige Kaufentscheidungen für sich persönlich oder ihre Familie zu treffen.
+Um dieses Ziel zu erreichen, bietet CodeCheck einen unabhängigen Produktcheck für Lebensmittel, Kosmetika sowie Wasch- und Reinigungsmittel. Dieser prüft über App oder Web, ob ein Produkt gesund und umweltverträglich ist. Hierfür bewertet unsere wissenschaftliche Abteilung mehr als 13.000 verschiedene Inhaltsstoffe von Lebensmitteln und Kosmetika.
