@@ -4,7 +4,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Trinkwasser-Wasserhahn.jpg" height="200" alt="Trinkwasser">
 
-[wikipedia (de)](https://de.wikipedia.org/wiki/Trinkwasser)
+[wikipedia (de)](https://de.wikipedia.org/wiki/Trinkwasser)   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Drinking_water)
 
 ---
