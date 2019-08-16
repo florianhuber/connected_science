@@ -9,6 +9,19 @@
 ---
 > ... ist eine Nuss-Nougat-Creme des italienischen Herstellers [Ferrero](../konzerne/ferrero.html). Sie besteht überwiegend aus [Zucker](../nahrung/zucker.html) mit Zutaten von [Palmöl](..//nahrung/palmoel.html), gerösteten [Haselnüssen](../nahrung/haselnuss.html), Milchpulver, [Kakao](../nahrung/kakao.html), [Sojalecithin](../nahrung/sojalecithin.html) und Vanillin. Nutella ist heute unter anderem in den meisten Ländern Europas, den USA, Kanada, Mexiko, China, Japan, den Philippinen, Türkei, Australien, Südafrika und einigen Ländern Südamerikas erhältlich. In Deutschland gibt es Nutella seit 1965.  
 
+
 ---
 
 [Nährwertangaben](https://www.nutella.com/de/de/naehrwertangaben)
+
+## Alternativen
+
+* 'Schokoaufstrich ohne Palmöl' - [utopia.de](https://utopia.de/bestenlisten/schokoaufstrich-ohne-palmoel)
+* 'Nutella selber machen | BakeClub' - [![YouTube.com](http://i3.ytimg.com/vi/81Gyy9QdduU/hqdefault.jpg)](https://www.youtube.com/watch?v=81Gyy9QdduU)
+
+## Links
+* 'Diese Zutaten stecken in einem Glas Nutella' - [![YouTube.com](http://i3.ytimg.com/vi/rz5b2yKOaKw/hqdefault.jpg)](https://youtu.be/rz5b2yKOaKw?t=13)
+
+* 'Das steckt in Nutella' - [utopia.de](https://utopia.de/das-steckt-nutella-8680/)
+* Poster von der Verbraucherzentrale Habmurg: [Nutella – Das steckt drin](https://shop.vzhh.de/ernaehrung/492012/nutella-das-steckt-drin.aspx)   
+<img src="https://www.vzhh.de/sites/default/files/medien/feeds/bilder/Plakat_Nutella.jpg" height="200" alt="Nutella - Das steckt drin">

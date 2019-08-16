@@ -25,4 +25,5 @@ Kakaohaltige Getränke werden aus Getränkepulver hergestellt und zählen zu den
 
 ## Herkunft und Anbau
 
-## Verarbeitung
+
+## Nutzung und Anwendung

@@ -12,6 +12,7 @@
 
 TODO:
 
-Anbau
+## Anbau, Transport und Verarbeitung
 
-Produktion
+
+## Nutzung und Anwendung

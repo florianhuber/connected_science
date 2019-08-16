@@ -22,5 +22,6 @@
 
 ---
 
-News about chocolate, published in
-* [The Guardian](https://www.theguardian.com/food/chocolate)
+## Links
+* News about chocolate, published in
+** [The Guardian](https://www.theguardian.com/food/chocolate)

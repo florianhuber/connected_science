@@ -15,3 +15,5 @@
 > Die Lambertshasel ist kälteempfindlicher als die in Mitteleuropa heimische Gemeine Hasel. Ihr Hauptanbaugebiet liegt in der türkischen Schwarzmeerregion. Dort werden drei Viertel der weltweit erzeugten im Handel erhältlichen „Haselnüsse“ erzeugt; nur der kleinere Teil der Weltproduktion an Haselnüssen stammt von der Gemeinen Hasel (Corylus avellana).
 
 ---
+
+## Anbau, Transport und Verarbeitung
