@@ -23,7 +23,7 @@ Aus der Kakaobohne wird Kakaomasse gewonnen, und aus dieser werden Kakaobutter u
 Das Getränk aus Kakaobohnen wurde von den Azteken als „xocóatl“, nach „xócoc“ (bitter) und „atl“ (Wasser), also als Bitterwasser, bezeichnet. Das davon abgeleitete Wort Schokolade bezeichnet heute ein festes, aber leicht schmelzbares Lebensmittel aus Bestandteilen der Kakaobohne und Zucker (und gegebenenfalls Butter und Vanille), das im 19. Jahrhundert erfunden und im 20. Jahrhundert weiterentwickelt wurde.
 Kakaohaltige Getränke werden aus Getränkepulver hergestellt und zählen zu den Zuckerwaren, hingegen zählt Trinkschokolade (auch als Kakao bezeichnet) zu Kakao (Getränk).
 
-## Herkunft und Anbau
+## Anbau, Transport und Verarbeitung
 
 
 ## Nutzung und Anwendung
