@@ -11,3 +11,9 @@
 ---
 
 > ... (Kurzform für Hennes & Mauritz) ist ein schwedisches Textilhandels­unternehmen aus Stockholm. Über Ladengeschäfte und den Onlineshop bietet H&M weltweit Kleidung, Accessoires und Schuhe für Damen, Herren und Kinder sowie Wohnaccessoires an. Zum Konzern gehören seit 2007 nach Unternehmenskäufen weitere Marken, die zum Teil über eigene Ladengeschäfte vertrieben werden.
+
+## Kritik
+
+## Aktivitäten
+
+H&M Conscious
