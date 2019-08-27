@@ -6,5 +6,6 @@
 
 [official website](http://www.coca-colacompany.com/)
 
-[Wikipedia (de)]()
+[Wikipedia (de)](https://de.wikipedia.org/wiki/The_Coca-Cola_Company)
+[Wikipedia (en)](https://en.wikipedia.org/wiki/The_Coca-Cola_Company)
 ---
