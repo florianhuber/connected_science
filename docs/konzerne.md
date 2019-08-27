@@ -12,7 +12,7 @@
 * [Zotter](konzerne/zotter_schokoladen_manufaktur.html)
 
 ## Öl- und Gasprodukte
-* [ExxonMobil](konzerne/exxon-mobil.html)
+* [ExxonMobil](konzerne/exxon-mobile.html)
 
 ## Pharma- und Medizinprodukte
 * [Johnson & Johnson](konzerne/johnson&johnson.html)
