@@ -1,5 +1,7 @@
 # Nachrichten und Berichte
 
+* Opioidkrise: [Johnson & Johnson](/konzerne/johnson&johnson.html) muss 572 Mio. Dollar zahlen [orf.at](https://orf.at/#/stories/3135037/)
+
 * Studie wirft [H&M](konzerne/h&m.html) [Kinderarbeit](probleme/kinderarbeit.html) vor - [Spiegel online](
 https://www.spiegel.de/wirtschaft/service/h-m-primark-takko-studie-wirft-modeketten-kinderarbeit-in-burma-vor-a-1133370.html)
 

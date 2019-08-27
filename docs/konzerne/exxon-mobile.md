@@ -1,6 +1,6 @@
 [Konzerne](../konzerne.html)   
 
-# Exxon
+# ExxonMobil
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/ExxonMobil_Logo.svg" height="200" alt="ExxonMobil logo">
 

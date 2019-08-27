@@ -1,5 +1,8 @@
 # Konzerne
 
+## Bekleidungsindustrie
+* [H&M](konzerne/h&m.html)
+
 ## Nahrungsmittelindustrie
 * [Coca-Cola Company](konzerne/coca-cola_co.html)
 * [Ferrero](konzerne/ferrero.html)
@@ -8,6 +11,8 @@
 * [Nestlé](konzerne/nestle.html)
 * [Zotter](konzerne/zotter_schokoladen_manufaktur.html)
 
-## Bekleidungsindustrie
+## Öl- und Gasprodukte
+* [ExxonMobil](konzerne/exxon-mobil.html)
 
-* [H&M](konzerne/h&m.html)
+## Pharma- und Medizinprodukte
+* [Johnson & Johnson](konzerne/johnson&johnson.html)
