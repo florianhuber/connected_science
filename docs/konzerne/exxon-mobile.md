@@ -10,7 +10,9 @@
 [Wikipedia (en)](https://en.wikipedia.org/wiki/ExxonMobil)   
 ---
 
-## Kritik
+## <a name="kritik">Kritik</a>
 
-* [Exxon Knew about Climate Change almost 40 years ago - (Scientific American)](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago)
+### <a name="desinformation">Desinformation durch ExxonMobil</a> 
+** [Exxon Knew about Climate Change almost 40 years ago - (Scientific American)](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago)
+
 * [Out of Balance: ExxonMobil’s Impact on Climate Change - Trailer (youtube.com)](https://www.youtube.com/watch?v=wJpgeyf4BU4)
