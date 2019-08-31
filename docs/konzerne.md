@@ -3,6 +3,9 @@
 ## Bekleidungsindustrie
 * [H&M](konzerne/h&m.html)
 
+## Finanzdienstleister
+* [The Vanguard Group](konzerne/vanguard_group.html)
+
 ## Nahrungsmittelindustrie
 * [Coca-Cola Company](konzerne/coca-cola_co.html)
 * [Ferrero](konzerne/ferrero.html)
@@ -16,3 +19,6 @@
 
 ## Pharma- und Medizinprodukte
 * [Johnson & Johnson](konzerne/johnson&johnson.html)
+
+## Verbrauchsgüter
+* [Unilever](konzerne/unilever.html)
