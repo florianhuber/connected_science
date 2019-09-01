@@ -5,6 +5,7 @@
 
 ## Finanzdienstleister
 * [The Vanguard Group](konzerne/vanguard_group.html)
+* [BlackRock](konzerne/blackrock.html)
 
 ## Nahrungsmittelindustrie
 * [Coca-Cola Company](konzerne/coca-cola_co.html)
