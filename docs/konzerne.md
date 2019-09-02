@@ -3,6 +3,9 @@
 ## Bekleidungsindustrie
 * [H&M](konzerne/h&m.html)
 
+## Elektronikindustrie
+* [Apple](konzerne/apple_inc.html)
+
 ## Finanzdienstleister
 * [The Vanguard Group](konzerne/vanguard_group.html)
 * [BlackRock](konzerne/blackrock.html)

@@ -10,5 +10,5 @@ Desinformation kann entweder direkt (Lügen, Betrug) oder indirekt (subtile Unte
 
 ---
 
-## Fälle von Desinformation durch Konzernen
+## Fälle von Desinformation durch Konzerne
 * <a href="../konzerne/exxon-mobile#desinformation">ExxonMobile</a>
