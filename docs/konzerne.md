@@ -14,6 +14,7 @@
 * [Cargill](konzerne/cargill.html)
 * [Coca-Cola Company](konzerne/coca-cola_co.html)
 * [Ferrero](konzerne/ferrero.html)
+* [Kellogg Company](konzerne/kellogg_company.html)
 * [Kraft Foods Inc.](konzerne/kraft_foods_inc.html)
 * [McDonald's](konzerne/mcdonalds.html)
 * [Mondelēz International](konzerne/mondelez_international.html)
