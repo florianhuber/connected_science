@@ -17,7 +17,7 @@ Das Unternehmen beschäftigt 149.000 Personen in 70 Ländern.
 
 ## Kritik
 
-### <a name="umweltzerstörung">Umweltzerstörung</a>
+### <a name="umweltzerstoerung">Umweltzerstörung</a>
 > 2017 wurde Cargill die Beteiligung an der sich erneut verschlimmernden Abholzung des Tropischen Regenwaldes vorgeworfen. Das Unternehmen kaufte nach Recherchen von Umweltschützern und der New York Times Sojabohnen von Bauern, die das Land für deren Anbau zuvor durch Abholzung in Bolivien urbar gemacht hatten.   
 
 > Die Umweltschutzorganisation Mighty Earth veröffentlichte im Juli 2019 einen Bericht zu Verfehlungen des Unternehmens und nannte es "das schlimmste Unternehmen der Welt"

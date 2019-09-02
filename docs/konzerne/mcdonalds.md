@@ -16,7 +16,7 @@ Mit einem Umsatz von 22,3 Mrd. US-Dollar, bei einem Gewinn von 5,4 Mrd. USD, ste
 
 ## Kritik
 
-### <a name="umweltzerstörung">Umweltzerstörung</a>
+### <a name="umweltzerstoerung">Umweltzerstörung</a>
 > Die Umweltschutzorganisation Greenpeace warf McDonald’s in ihrem Bericht „Eating up the Amazon“ von 2006 vor, für den Rückgang des brasilianischen Regenwaldes mitverantwortlich zu sein. Greenpeace sieht einen Zusammenhang zwischen dem Konsum von Fleisch und dem Sojabohnenanbau auf illegal gerodeten Flächen im Amazonasgebiet. Sojaschrot ist das wichtigste eiweißhaltige Futtermittel in der Tiermast. Deshalb wurde McDonald’s in der Studie beispielhaft auch für andere Restaurants und Supermarktketten genannt.   
 Weitere Proteste von Greenpeace folgten unter anderem vor McDonald’s-Filialen. Das Greenpeace-Schiff Arctic Sunrise blockierte den Hafen des Hauptsojaexporteurs [Cargill](../konzerne/cargill.html) in Santarem. Im Anschluss an die Proteste entschied sich McDonald’s, mit Greenpeace zusammenzuarbeiten. In McDonald’s Produktpolitik war der Einkauf von Fleisch aus Amazonasgebiet bereits ausgeschlossen, deshalb einigte man sich in diesem Punkt sehr schnell. Greenpeace und McDonald’s stellten eine Expertengruppe zusammen und besuchten im Januar 2007 Brasilien, um die Problematik zu verhandeln. Cargill, das zuerst kein dringendes Problem in seiner Geschäftspolitik sah, konnte von dem Expertenteam überzeugt werden. Cargill half selbst, die restlichen Sojaexporteure zur Zustimmung zu bewegen. Die Lösung bestand darin, die Bauern zu zwingen, ihre Flächen wieder aufzuforsten. Andernfalls würde ihr Soja nicht gekauft werden
 
