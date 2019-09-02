@@ -5,4 +5,4 @@
 
 
 ## Fälle von Steuervermeidung durch Konzerne
-* <a href="../konzerne/apple_inc#steuervermeidung">ExxonMobile</a>
+* <a href="../konzerne/apple_inc#steuervermeidung">Apple Inc.</a>
