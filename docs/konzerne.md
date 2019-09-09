@@ -21,8 +21,9 @@
 * [Nestlé](konzerne/nestle.html)
 * [Zotter](konzerne/zotter_schokoladen_manufaktur.html)
 
-## Öl- und Gasprodukte
+## Öl-, Kohle- und Gasproduktion
 * [ExxonMobile](konzerne/exxon-mobile.html)
+* [Peabody Energy](konzerne/peabody-energy.html)
 
 ## Pharma- und Medizinprodukte
 * [Johnson & Johnson](konzerne/johnson&johnson.html)
