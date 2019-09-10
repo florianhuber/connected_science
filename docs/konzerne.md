@@ -24,6 +24,7 @@
 ## Öl-, Kohle- und Gasproduktion
 * [ExxonMobile](konzerne/exxon-mobile.html)
 * [Peabody Energy](konzerne/peabody-energy.html)
+* [Royal Dutch Shell](konzerne/shell.html)
 
 ## Pharma- und Medizinprodukte
 * [Johnson & Johnson](konzerne/johnson&johnson.html)
