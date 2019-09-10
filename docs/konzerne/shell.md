@@ -15,5 +15,4 @@
 
 
 ## Shell in den Medien
-* []()
 * <a target="_blank" href="https://www.spiegel.de/thema/shell/dossierarchiv-1.html">Thema (Spiegel Online)</a>
