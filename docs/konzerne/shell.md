@@ -4,7 +4,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/e/e8/Shell_logo.svg" height="200" alt="Shell logo">
 
-[official website](http://www.shell.com/)   
+<a target="_blank" href="http://www.shell.com/">official website</a>   
 
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Royal_Dutch_Shell)   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Royal_Dutch_Shell)
