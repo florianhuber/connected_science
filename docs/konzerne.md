@@ -25,7 +25,7 @@
 * [ExxonMobile](konzerne/exxon-mobile.html)
 * [Peabody Energy](konzerne/peabody-energy.html)
 * [Royal Dutch Shell](konzerne/shell.html)
-* [Saudi Aramco](konzerne/saudi_aramco.html)
+* [Saudi Aramco](konzerne/saudi-aramco.html)
 
 ## Pharma- und Medizinprodukte
 * [Johnson & Johnson](konzerne/johnson&johnson.html)
