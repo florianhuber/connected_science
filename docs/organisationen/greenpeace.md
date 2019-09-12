@@ -6,7 +6,7 @@
 
 <a target="_blank" href="https://www.greenpeace.org/international/en">official website</a>
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Greenpeace">Wikipedia (de)</a>
+<a target="_blank" href="https://de.wikipedia.org/wiki/Greenpeace">Wikipedia (de)</a>   
 <a target="_blank" href="https://en.wikipedia.org/wiki/Greenpeace">Wikipedia (en)</a>
 
 ---
