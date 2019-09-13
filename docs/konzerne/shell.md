@@ -6,8 +6,8 @@
 
 <a target="_blank" href="http://www.shell.com/">official website</a>   
 
-[Wikipedia (de)](https://de.wikipedia.org/wiki/Royal_Dutch_Shell)   
-[Wikipedia (en)](https://en.wikipedia.org/wiki/Royal_Dutch_Shell)
+<a target="_blank" href="https://de.wikipedia.org/wiki/Royal_Dutch_Shell">Wikipedia (de)</a>   
+<a target="_blank" href="https://en.wikipedia.org/wiki/Royal_Dutch_Shell">Wikipedia (en)</a>   
 
 ---
 
