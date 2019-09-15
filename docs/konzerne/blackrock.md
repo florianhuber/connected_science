@@ -17,3 +17,7 @@ In den Forbes Global 2000 der weltweit größten Unternehmen belegt BlackRock Pl
 
 
 > BlackRock ist Großaktionär bei Tausenden Unternehmungen weltweit. BlackRock war oder ist größter Einzelaktionär bei den Finanzunternehmen JPMorgan Chase, Bank of America und Citibank, bei [Apple](../konzerne/apple_inc.html), [McDonald’s](../konzerne/mcdonalds.html) und [Nestlé](../konzerne/nestle.html) (Stand August 2015) sowie bei den Energiekonzernen Exxon Mobil und Shell. (Stand Dezember 2013) Als einzige ausländische Anlagefirma hält BlackRock an allen 30 DAX-Unternehmen umfangreiche Beteiligungen und ist bei einem Drittel aller DAX-Unternehmen größter Einzelaktionär. Über verschiedene Fonds ist BlackRock größter Einzelaktionär bei der Deutschen Bank, der Lufthansa, der Bayer AG, der BASF und der Deutschen Börse.
+
+
+## Dokumentationen zu BlackRock
+* https://www.youtube.com/watch?v=Owh3k1RejxE
