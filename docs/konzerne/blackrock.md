@@ -20,4 +20,4 @@ In den Forbes Global 2000 der weltweit größten Unternehmen belegt BlackRock Pl
 
 
 ## Dokumentationen zu BlackRock
-* https://www.youtube.com/watch?v=Owh3k1RejxE
+* [![BlackRock - Die Schattenregierung der USA - phoenix](https://img.youtube.com/vi/Owh3k1RejxE/0.jpg)](https://www.youtube.com/watch?v=Owh3k1RejxE)

@@ -7,4 +7,4 @@
 
 ---   
 
-Ein Fair-Trade-Siegel bzw. Fairer-Handel-Siegel kennzeichnet Güter, die ganz oder auch nur teilweise aus einem nach bestimmten Kriterien definierten „fairem Handel“ stammen, bei deren Herstellung also festgesetzte soziale und teilweise auch ökologische Kriterien eingehalten werden sollen.
+> Ein Fair-Trade-Siegel bzw. Fairer-Handel-Siegel kennzeichnet Güter, die ganz oder auch nur teilweise aus einem nach bestimmten Kriterien definierten „fairem Handel“ stammen, bei deren Herstellung also festgesetzte soziale und teilweise auch ökologische Kriterien eingehalten werden sollen.
