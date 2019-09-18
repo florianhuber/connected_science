@@ -20,11 +20,4 @@ In den Forbes Global 2000 der weltweit größten Unternehmen belegt BlackRock Pl
 
 
 ## Dokumentationen zu BlackRock
-<iframe src="https://www.youtube.com/watch?v=JR_UyV32Ba4"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-
-<object data="https://www.youtube.com/watch?v=JR_UyV32Ba4"
-   width="560" height="315"></object>
-
-[![BlackRock - Die unheimliche Macht eines Finanzkonzerns | ARTE](https://img.youtube.com/vi/JR_UyV32Ba4/0.jpg)](https://www.youtube.com/watch?v=JR_UyV32Ba4)
+* <a href="http://www.youtube.com/watch?feature=player_embedded&v=JR_UyV32Ba4" target="_blank"><img src="https://img.youtube.com/vi/JR_UyV32Ba4/0.jpg" alt="video on youtube" width="240" height="180" border="10" />BlackRock - Die unheimliche Macht eines Finanzkonzerns | ARTE</a>
