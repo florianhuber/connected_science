@@ -4,7 +4,11 @@
 <a target="_blank" href="http://www.something.org/">official website</a>   
 
 ## youtube link
-[![Video Title - source name](http://img.youtube.com/vi/abc/0.jpg)](https://www.youtube.com/watch?v=abc)
+`[![Video Title - source name](http://img.youtube.com/vi/abc/0.jpg)](https://www.youtube.com/watch?v=abc)`   
+or, in pure html:   
+`<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>`
 
 ## List of headers
 ### Externe links
