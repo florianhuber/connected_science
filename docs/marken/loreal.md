@@ -1,0 +1,1 @@
+-> Nestle hat 23 Prozent Firmenanteile von L’Oréal

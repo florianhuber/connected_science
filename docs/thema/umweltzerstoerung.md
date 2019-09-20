@@ -7,3 +7,4 @@ Als Umweltzerstörung werden Prozesse bezeichnet, bei denen Umweltschäden entst
 ## Fälle von Umweltzerstörung durch Konzerne
 * <a href="../konzerne/cargill#umweltzerstoerung">Cargill</a>
 * <a href="../konzerne/mcdonalds#umweltzerstoerung">McDonald's</a>
+* <a href="../konzerne/nestle#umweltzerstoerung">Nestlé</a>
