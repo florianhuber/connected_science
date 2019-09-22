@@ -16,6 +16,7 @@
 * [Ferrero](konzerne/ferrero.html)
 * [Kellogg Company](konzerne/kellogg_company.html)
 * [Kraft Foods Inc.](konzerne/kraft_foods_inc.html)
+* [Mars Inc.](konzerne/mars_inc.html)
 * [McDonald's](konzerne/mcdonalds.html)
 * [Mondelēz International](konzerne/mondelez_international.html)
 * [Nestlé](konzerne/nestle.html)
