@@ -4,11 +4,23 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg" height="200" alt="Nestlé logo">   
 
-[official website](http://www.nestle.com/)
+<a target="_blank" href="http://www.nestle.com/">official website</a>   
 
-[Wikipedia (en)](https://en.wikipedia.org/wiki/Nestl%C3%A9)
+<a target="_blank" href="https://de.wikipedia.org/wiki/Nestl%C3%A9">Wikipedia (de)</a>   http://www.nestle.com/
+<a target="_blank" href="https://en.wikipedia.org/wiki/Nestl%C3%A9">Wikipedia (en)</a>   
 
 ---
+
+## Liste Nestlé Marken
+> Nestlé verfügt nach eigenen Angaben weltweit über 2 000 Marken.
+<a target="_blank" href="https://www.nestle.com/brands/brandssearchlist">Official list of brands</a>   
+
+Eine kleine Auswahl bekannter Nestlé Marken im deutschsprachigen Raum:   
+* [After Eight](../marken/after-eight.html)
+* [Beba](../marken/beba.html)
+* [Bübchen](../marken/buebchen.html)
+* [Buitoni](../marken/buitoni.html)
+
 
 ## Kritik an Nestlé
 
