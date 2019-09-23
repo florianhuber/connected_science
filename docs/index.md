@@ -4,6 +4,7 @@
 * [Chemie](chemie.html)
 * [Elemente](elemente.html)
 * [Geschichte](geschichte.html)
+* [Informationsquellen](informationsquellen.html)
 * [Konzerne](konzerne.html)
 * [Marken](marken.html)
 * [Mythologie](mythologie.html)
