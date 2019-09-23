@@ -5,7 +5,7 @@
 ## Bekleidungs- und Sportindustrie
 * [Adidas AG](konzerne/adidas_ag.html)
 * [H&M](konzerne/h&m.html)
-* [Vaude](konzerne/vaude,html)
+* [Vaude](konzerne/vaude.html)
 
 ## Elektronikindustrie
 * [Apple](konzerne/apple_inc.html)

@@ -1,6 +1,7 @@
 # Index
 
-<!--* [Biologie](biologie.html)
+<!--
+* [Biologie](biologie.html)
 * [Chemie](chemie.html)
 * [Elemente](elemente.html)
 * [Geschichte](geschichte.html)
@@ -8,6 +9,7 @@
 * [Personen](personen.html)
 * [Physik](physik.html)
 -->
+
 * [Informationsquellen](informationsquellen.html)
 * [Konzerne](konzerne.html)
 * [Marken](marken.html)
