@@ -1,19 +1,28 @@
+[Index](index.html)   
+
 # Konzerne
 
-## Bekleidungsindustrie
+## Bekleidungs- und Sportindustrie
+* [Adidas AG](konzerne/adidas_ag.html)
 * [H&M](konzerne/h&m.html)
+* [Vaude](konzerne/vaude,html)
 
 ## Elektronikindustrie
 * [Apple](konzerne/apple_inc.html)
 
-## Finanzdienstleister
-* [The Vanguard Group](konzerne/vanguard_group.html)
+## Finanzdienstleister, Investment
+* [Berkshire Hathaway](konzerne/berkshire_hathaway.html)
 * [BlackRock](konzerne/blackrock.html)
+* [The Vanguard Group](konzerne/vanguard_group.html)
+
+## Körperpflege
+* [Procter & Gamble](konzerne/procter-gamble.html)
 
 ## Nahrungsmittelindustrie
 * [Cargill](konzerne/cargill.html)
 * [Coca-Cola Company](konzerne/coca-cola_co.html)
 * [Ferrero](konzerne/ferrero.html)
+* [General Mills](konzerne/general_mills.html)
 * [Kellogg Company](konzerne/kellogg_company.html)
 * [Kraft Foods Inc.](konzerne/kraft_foods_inc.html)
 * [Mars Inc.](konzerne/mars_inc.html)

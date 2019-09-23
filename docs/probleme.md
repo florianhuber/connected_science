@@ -1,3 +1,5 @@
+[Index](index.html)   
+
 # Probleme
 
 Manche Themen können als Problem klassifiziert werden, da sie in Summe betrachtet mehr Unheil anrichten als dass sie Lösung bieten.   

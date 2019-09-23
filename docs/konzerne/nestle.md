@@ -6,7 +6,7 @@
 
 <a target="_blank" href="http://www.nestle.com/">official website</a>   
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Nestl%C3%A9">Wikipedia (de)</a>   http://www.nestle.com/
+<a target="_blank" href="https://de.wikipedia.org/wiki/Nestl%C3%A9">Wikipedia (de)</a>   
 <a target="_blank" href="https://en.wikipedia.org/wiki/Nestl%C3%A9">Wikipedia (en)</a>   
 
 ---

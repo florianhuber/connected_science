@@ -1,3 +1,5 @@
+[Index](index.html)   
+
 # Nachrichten und Berichte
 
 * Opioidkrise: [Johnson & Johnson](/konzerne/johnson&johnson.html) muss 572 Mio. Dollar zahlen - [orf.at](https://orf.at/#/stories/3135037/)
