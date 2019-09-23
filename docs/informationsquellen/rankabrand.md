@@ -2,7 +2,7 @@
 
 # Rank a Brand - Wie nachhaltig sind deine Lieblingsmarken?
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Adidas-group-logo-fr.svg" height="200" alt="Adidas logo">
+<!--<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Adidas-group-logo-fr.svg" height="200" alt="Adidas logo">-->
 
 <a target="_blank" href="https://www.rankabrand.de/">official website</a>   
 
