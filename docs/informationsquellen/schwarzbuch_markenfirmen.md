@@ -11,4 +11,4 @@
 
 ---
 
-> Das Buch listet mehr als 50 der größten Weltkonzerne wie adidas, [Coca-Cola](../konzerne/coca-cola_co.html), [McDonald’s](../konzerne/mcdonalds.html), DaimlerChrysler, [Nestlé](../konzerne/nestle.html), Procter & Gamble und Siemens auf, die laut Schwarzbuch Markenfirmen von Folter, Sklaverei, illegalen Medikamentenversuchen an Menschen, politischer und sozialer Diskriminierung, Ressourcenvernichtung und Umweltzerstörung profitieren sowie die Verfolgung von Gewerkschaftern und anderen Kritikern unterstützen.
+> Das Buch listet mehr als 50 der größten Weltkonzerne wie adidas, [Coca-Cola](../konzerne/coca-cola_co.html), [McDonald’s](../konzerne/mcdonalds.html), DaimlerChrysler, [Nestlé](../konzerne/nestle.html), [Procter & Gamble](../konzerne/procter-gamble.html) und Siemens auf, die laut Schwarzbuch Markenfirmen von Folter, Sklaverei, illegalen Medikamentenversuchen an Menschen, politischer und sozialer Diskriminierung, Ressourcenvernichtung und Umweltzerstörung profitieren sowie die Verfolgung von Gewerkschaftern und anderen Kritikern unterstützen.

@@ -20,3 +20,5 @@ https://www.business-wissen.de/artikel/branding-was-ist-eine-marke/
 * [Häagen-Dazs](marken/haeagen-dazs.html) | [Nestlé](konzerne/nestle.html) & [General Mills](konzerne/general_mills.html)
 * [Milka](marken/milka.html) | [Mondelēz International](konzerne/mondelez_international.html)
 * [Nutella](marken/nutella.html) | [Ferrero](konzerne/ferrero.html)
+* [Oreo](marken/oreo.html) | [Mondelēz International](../konzerne/mondelez_international.html)
+* [Pringles](marken/pringles.html) | [Kellog Company](konzerne/kellog_company.html)
