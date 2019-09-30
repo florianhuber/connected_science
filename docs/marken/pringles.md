@@ -14,7 +14,7 @@ https://de.wikipedia.org/wiki/Pringles
 
 ---
 
-> ... ist der Markenname für ein Snackprodukt, das aus Kartoffelflocken industriell hergestellt wird. Es gab rechtliche Streitigkeiten um die Verwendung des Begriffes Kartoffelchips, den die ursprüngliche Herstellerfirma [Procter & Gamble](../konzerne/procter-gamble.html) verlor. Zusammen mit Produkten anderer Hersteller gehören Pringles zur Gruppe der Stapelchips, während die herstellereigene Bezeichnung „Knabbergebäck“ lautet. Hersteller ist seit 2012 die US-amerikanische [Kellogg Company](../konzerne/kellog_company.html).
+> ... ist der Markenname für ein Snackprodukt, das aus Kartoffelflocken industriell hergestellt wird. Es gab rechtliche Streitigkeiten um die Verwendung des Begriffes Kartoffelchips, den die ursprüngliche Herstellerfirma [Procter & Gamble](../konzerne/procter-gamble.html) verlor. Zusammen mit Produkten anderer Hersteller gehören Pringles zur Gruppe der Stapelchips, während die herstellereigene Bezeichnung „Knabbergebäck“ lautet. Hersteller ist seit 2012 die US-amerikanische [Kellogg Company](../konzerne/kellogg_company.html).
 
 ---
 
