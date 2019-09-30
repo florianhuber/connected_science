@@ -4,17 +4,31 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_Nutella.svg" height="200" alt="Nutella logo">
 
-[official website](https://www.nutella.com/)
+<a target="_blank" href="https://www.nutella.com">official website</a>   
 
-[wikipedia (de)](https://de.wikipedia.org/wiki/Nutella)
+<a target="_blank" href="https://de.wikipedia.org/wiki/Nutella">Wikipedia (de)</a>   
+<a target="_blank" href="https://en.wikipedia.org/wiki/Nutella">Wikipedia (en)</a>
 
 ---
 > ... ist eine Nuss-Nougat-Creme des italienischen Herstellers [Ferrero](../konzerne/ferrero.html). Sie besteht überwiegend aus [Zucker](../nahrung/zucker.html) mit Zutaten von [Palmöl](..//nahrung/palmoel.html), gerösteten [Haselnüssen](../nahrung/haselnuss.html), Milchpulver, [Kakao](../nahrung/kakao.html), [Sojalecithin](../nahrung/sojalecithin.html) und Vanillin. Nutella ist heute unter anderem in den meisten Ländern Europas, den USA, Kanada, Mexiko, China, Japan, den Philippinen, Türkei, Australien, Südafrika und einigen Ländern Südamerikas erhältlich. In Deutschland gibt es Nutella seit 1965.  
 
-
 ---
 
-[Nährwertangaben](https://www.nutella.com/de/de/naehrwertangaben)
+## Nährwertangaben
+
+<a target="_blank" href="https://www.nutella.com/de/de/naehrwertangaben">Nährwertangaben von Nutella</a>   
+
+<a target="_blank" href="http://das-ist-drin.de/Ferrero-Nutella-880-g--430884/">Angaben zu 100g Haselnussaufstrich von das-ist-drin.de</a>   
+| Nährwert | pro 100 g  | Tagesbedarf: 2000 kcal |
+|---	|---	|---	|
+|Eiweiß   	| 6,0 g   	| 12,0%   	|
+|Kohl.hyd.   	|57,3 g |	21,2%   	|
+|davon Zucker   	|56,7 g   	|   	63,0% 	|
+|Fett   	| 31,6 g  	|   	45,1% 	|
+|davon gesättigt   	| 10,9 g 	  	|   54,5%	|
+|Ballaststoffe   	|  3,4 g 	 	| 13,6%  	|
+|Natrium   	| 0,037 g 	  	| 1,5%  	|
+|Energie   	| 544,0 kcal / 2277,6 kJ 	   	| 27,2%  	|
 
 ## Alternativen
 

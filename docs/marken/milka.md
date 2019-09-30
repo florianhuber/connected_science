@@ -4,9 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Milka_Logo.svg" height="200" alt="Milka logo">
 
-[official website](http://www.milka.de/)
+<a target="_blank" href="http://www.milka.de/">official website</a>   
 
-[Wikipedia (de)](https://de.wikipedia.org/wiki/Milka_(Marke))
+<a target="_blank" href="https://de.wikipedia.org/wiki/Milka_(Marke)">Wikipedia (de)</a>   
+<a target="_blank" href="https://en.wikipedia.org/wiki/Milka">Wikipedia (en)</a>
 
 ---
 
@@ -17,6 +18,7 @@
 
 ## Nährwertangaben
 
+[Angaben zu 100g Milchschokolade von das-ist-drin.de](http://das-ist-drin.de/Milka-Alpenmilch-100-g--416351/){:}
 | Nährwert | pro 100 g  | Tagesbedarf: 2000 kcal |
 |---	|---	|---	|
 |Eiweiß   	| 6,6 g   	| 13,2%   	|
@@ -27,5 +29,3 @@
 |Ballaststoffe   	|  1,8 g 	 	| 7,2%  	|
 |Natrium   	| 0,17 g 	  	| 7,1%  	|
 |Energie   	|530,0 kcal / 2219,0 kJ 	   	| 26,5%  	|
-
-[Angaben zu 100g Milchschokolade von das-ist-drin.de](http://das-ist-drin.de/Milka-Alpenmilch-100-g--416351/)
