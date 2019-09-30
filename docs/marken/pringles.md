@@ -19,16 +19,17 @@ https://de.wikipedia.org/wiki/Pringles
 ---
 
 [Angaben zu 100 g Pringles von das-ist-drin.de](http://das-ist-drin.de/Pringles-Original-170-g--6918/){:target="_blank"}   
-| Nährwert | pro 100 g  | Tagesbedarf: 2000 kcal |
-| ---	| ---	| ---	|
-| Eiweiß   	| 4,1 g   	| 8,2%   	|
-| Kohl.hyd.   	| 49,0 g |	18,1%   	|
-| davon Zucker   	| 1,9 g   	|   	2,1% 	|
-| Fett   	| 36,0 g  	|   	51,4% 	|
-| davon gesättigt   	| 10,0 g 	  	|   50,0%	|
-| Ballaststoffe   	|  3,6 g 	 	| 14,4%  	|
-| Natrium   	| 0,5 g 	  	| 20,8%  	|
-| Energie   	|  	 	540,0 kcal / 2260,9 kJ 	   	| 27,0%  	|
+
+Nährwert | pro 100 g | Tagesbedarf: 2000 kcal
+---	| ---	| ---
+Eiweiß | 4,1 g | 8,2%
+Kohl.hyd. | 49,0 g | 18,1%
+davon Zucker | 1,9 g | 2,1%
+Fett | 36,0 g | 51,4%
+davon gesättigt | 10,0 g | 50,0%
+Ballaststoffe | 3,6 g | 14,4%
+Natrium | 0,5 g | 20,8%
+Energie | 540,0 kcal / 2260,9 kJ | 27,0%
 
 
 ## Inhaltsstoffe
