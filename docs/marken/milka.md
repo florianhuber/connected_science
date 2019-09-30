@@ -19,13 +19,14 @@
 ## Nährwertangaben
 
 [Angaben zu 100g Milchschokolade von das-ist-drin.de](http://das-ist-drin.de/Milka-Alpenmilch-100-g--416351/){:target="_blank"}   
-| Nährwert | pro 100 g  | Tagesbedarf: 2000 kcal |
-|---	|---	|---	|
-|Eiweiß   	| 6,6 g   	| 13,2%   	|
-|Kohl.hyd.   	|58,5 g |	21,7%   	|
-|davon Zucker   	|57,5 g   	|   	63,9% 	|
-|Fett   	| 29,5 g  	|   	42,1% 	|
-|davon gesättigt   	| 17,5 g 	  	|   87,5%	|
-|Ballaststoffe   	|  1,8 g 	 	| 7,2%  	|
-|Natrium   	| 0,17 g 	  	| 7,1%  	|
-|Energie   	|530,0 kcal / 2219,0 kJ 	   	| 26,5%  	|
+
+Nährwert | pro 100 g | Tagesbedarf: 2000 kcal
+--- | --- | ---
+Eiweiß | 6,6 g | 13,2%
+Kohl.hyd. |58,5 g |	21,7%
+davon Zucker | 57,5 g | 63,9%
+Fett | 29,5 g | 42,1%
+davon gesättigt | 17,5 g | 87,5%
+Ballaststoffe | 1,8 g | 7,2%
+Natrium | 0,17 g | 7,1%
+Energie |530,0 kcal / 2219,0 kJ | 26,5%
