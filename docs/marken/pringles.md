@@ -2,7 +2,7 @@
 
 # Pringles
 
-<img src="https://upload.wikimedia.org/wikipedia/en/7/71/Pringles.svg" height="200" alt="Adidas logo">
+<img src="https://upload.wikimedia.org/wikipedia/en/7/71/Pringles.svg" height="200" alt="Pringles logo">
 
 <a target="_blank" href="https://www.pringles.com/">official website</a>   
 
@@ -15,6 +15,21 @@ https://de.wikipedia.org/wiki/Pringles
 ---
 
 > ... ist der Markenname für ein Snackprodukt, das aus Kartoffelflocken industriell hergestellt wird. Es gab rechtliche Streitigkeiten um die Verwendung des Begriffes Kartoffelchips, den die ursprüngliche Herstellerfirma [Procter & Gamble](../konzerne/procter-gamble.html) verlor. Zusammen mit Produkten anderer Hersteller gehören Pringles zur Gruppe der Stapelchips, während die herstellereigene Bezeichnung „Knabbergebäck“ lautet. Hersteller ist seit 2012 die US-amerikanische [Kellogg Company](../konzerne/kellog_company.html).
+
+---
+
+[Angaben zu 100 g Pringles von das-ist-drin.de](http://das-ist-drin.de/Pringles-Original-170-g--6918/){:target="_blank"}   
+| Nährwert | pro 100 g  | Tagesbedarf: 2000 kcal |
+| ---	| ---	| ---	|
+| Eiweiß   	| 4,1 g   	| 8,2%   	|
+| Kohl.hyd.   	| 49,0 g |	18,1%   	|
+| davon Zucker   	| 1,9 g   	|   	2,1% 	|
+| Fett   	| 36,0 g  	|   	51,4% 	|
+| davon gesättigt   	| 10,0 g 	  	|   50,0%	|
+| Ballaststoffe   	|  3,6 g 	 	| 14,4%  	|
+| Natrium   	| 0,5 g 	  	| 20,8%  	|
+| Energie   	|  	 	540,0 kcal / 2260,9 kJ 	   	| 27,0%  	|
+
 
 ## Inhaltsstoffe
 
