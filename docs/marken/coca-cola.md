@@ -14,7 +14,7 @@
 
 ---
 
-[Angaben zu 100 ml Coca-Cola von das-ist-drin.de](http://das-ist-drin.de/Coca-Cola-Coke-2-l--11202/){:target="_blank"}
+[Angaben zu 100 ml Coca-Cola von das-ist-drin.de](http://das-ist-drin.de/Coca-Cola-Coke-2-l--11202/){:target="_blank"}   
 | Nährwert | pro 100 ml  | Tagesbedarf: 2000 kcal |
 |---	|---	|---	|
 |Eiweiß   	| 0,0 g   	| 0,0%   	|
