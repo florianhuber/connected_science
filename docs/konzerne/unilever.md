@@ -15,7 +15,7 @@
 Mit einem Umsatz von 60,6 Mrd. US-Dollar, bei einem Gewinn von 6,9 Mrd. USD, steht Unilever laut Forbes Global 2000 auf Platz 103 der weltgrößten börsennotierten Unternehmen (Stand: GJ 2017). Das Unternehmen kam Mitte 2018 auf eine Marktkapitalisierung von ca. 156 Mrd. USD.   
 
 Eine kleine Auswahl bekannter Unilever Marken im deutschsprachigen Raum:   
-* [Bertolli](marken/bertolli.html)
+* [Bertolli](../marken/bertolli.html)
 * [Knorr](../marken/knorr.html)
 
 ## Kritik an Unilever
