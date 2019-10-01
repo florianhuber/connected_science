@@ -19,16 +19,17 @@
 <a target="_blank" href="https://www.nutella.com/de/de/naehrwertangaben">Nährwertangaben von Nutella</a>   
 
 <a target="_blank" href="http://das-ist-drin.de/Ferrero-Nutella-880-g--430884/">Angaben zu 100g Haselnussaufstrich von das-ist-drin.de</a>   
-| Nährwert | pro 100 g  | Tagesbedarf: 2000 kcal |
-|---	|---	|---	|
-|Eiweiß   	| 6,0 g   	| 12,0%   	|
-|Kohl.hyd.   	|57,3 g |	21,2%   	|
-|davon Zucker   	|56,7 g   	|   	63,0% 	|
-|Fett   	| 31,6 g  	|   	45,1% 	|
-|davon gesättigt   	| 10,9 g 	  	|   54,5%	|
-|Ballaststoffe   	|  3,4 g 	 	| 13,6%  	|
-|Natrium   	| 0,037 g 	  	| 1,5%  	|
-|Energie   	| 544,0 kcal / 2277,6 kJ 	   	| 27,2%  	|
+
+Inhaltsstoff | Nährwert pro 100 g | Tagesbedarf: 2000 kcal
+---	| --- | ---
+Eiweiß | 6,0 g | 12,0%
+Kohl.hyd. |57,3 g | 21,2%
+davon Zucker | 56,7 g | 63,0%
+Fett | 31,6 g | 45,1%
+davon gesättigt | 10,9 g | 54,5%
+Ballaststoffe | 3,4 g | 13,6%
+Natrium | 0,037 g | 1,5%
+Energie | 544,0 kcal / 2277,6 kJ | 27,2%
 
 ## Alternativen
 

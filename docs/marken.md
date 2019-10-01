@@ -12,13 +12,17 @@ Der Charakter einer Marke definiert sich also nicht über die Markenzeichen, son
 
 https://www.business-wissen.de/artikel/branding-was-ist-eine-marke/
 
-* [After Eight](marken/after-eight.html) | [Nestlé](konzerne/nestle.html)
-* [Beba](marken/beba.html) | [Nestlé](konzerne/nestle.html)
-* [Bübchen](marken/buebchen.html) | [Nestlé](konzerne/nestle.html)
-* [Buitoni](marken/buitoni.html) | [Nestlé](konzerne/nestle.html)
-* [Coca-Cola](marken/coca-cola.html) | [Coca Cola Company](konzerne/coca-cola_co.html)
-* [Häagen-Dazs](marken/haeagen-dazs.html) | [Nestlé](konzerne/nestle.html) & [General Mills](konzerne/general_mills.html)
-* [Milka](marken/milka.html) | [Mondelēz International](konzerne/mondelez_international.html)
-* [Nutella](marken/nutella.html) | [Ferrero](konzerne/ferrero.html)
-* [Oreo](marken/oreo.html) | [Mondelēz International](../konzerne/mondelez_international.html)
-* [Pringles](marken/pringles.html) | [Kellog Company](konzerne/kellog_company.html)
+Marke | Markeneigner
+--- | ---
+[After Eight](marken/after-eight.html) | [Nestlé](konzerne/nestle.html)
+[Beba](marken/beba.html) | [Nestlé](konzerne/nestle.html)
+[Bertolli](marken/bertolli.html) | [Unilever](konzerne/unilever.html) 
+[Bübchen](marken/buebchen.html) | [Nestlé](konzerne/nestle.html)
+[Buitoni](marken/buitoni.html) | [Nestlé](konzerne/nestle.html)
+[Coca-Cola](marken/coca-cola.html) | [Coca Cola Company](konzerne/coca-cola_co.html)
+[Häagen-Dazs](marken/haeagen-dazs.html) | [Nestlé](konzerne/nestle.html) & [General Mills](konzerne/general_mills.html)
+[Knorr](marken/knorr.html) | [Unilever](konzerne/unilever.html)
+[Milka](marken/milka.html) | [Mondelēz International](konzerne/mondelez_international.html)
+[Nutella](marken/nutella.html) | [Ferrero](konzerne/ferrero.html)
+[Oreo](marken/oreo.html) | [Mondelēz International](konzerne/mondelez_international.html)
+[Pringles](marken/pringles.html) | [Kellog Company](konzerne/kellog_company.html)

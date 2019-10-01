@@ -2,6 +2,8 @@
 
 ## link that opens separate tab
 <a target="_blank" href="http://www.something.org/">official website</a>   
+or   
+[Angaben zu 100g Milchschokolade von das-ist-drin.de](http://das-ist-drin.de/Milka-Alpenmilch-100-g--416351/){:target="_blank"}   
 
 ## youtube link
 `[![Video Title - source name](http://img.youtube.com/vi/abc/0.jpg)](https://www.youtube.com/watch?v=abc)`   

@@ -20,6 +20,7 @@ Eine kleine Auswahl bekannter Nestlé Marken im deutschsprachigen Raum:
 * [Beba](../marken/beba.html)
 * [Bübchen](../marken/buebchen.html)
 * [Buitoni](../marken/buitoni.html)
+* [Häagen-Dazs](marken/haeagen-dazs.html)
 
 
 ## Kritik an Nestlé
