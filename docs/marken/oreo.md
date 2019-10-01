@@ -11,6 +11,12 @@
 ---
 > .. ist der Markenname einer Kekssorte des US-amerikanischen Unternehmens Nabisco, einer Tochtergesellschaft von [Mondelēz International](../konzerne/mondelez_international.html).
 
+Beschreibung:   
+Kakaokekse mit einer Crèmefüllung mit Vanillegeschmack.   
+
+Zutaten / Inhaltsstoffe:   
+Weizenmehl, Zucker, pflanzliches Fett und pflanzliches Öl, fettarmes Kakaopulver 4,6 %, Glukose-Fruktose-Sirup, Backtriebmittel (Kaliumhydrogencarbonat, Ammoniumhydrogencarbonat, Natriumhydrogencarbonat), Speisesalz, Emulgatoren (Sojalecithin, Sonnenblumenlecithin), Aroma (Vanille).   
+
 ## Nährwertangaben
 
 <a target="_blank" href="http://das-ist-drin.de/Oreo-Original-176-g--426615/">Angaben zu 100g Keksen von das-ist-drin.de</a>   

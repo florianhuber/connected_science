@@ -14,6 +14,13 @@
 
 ---
 
+Beschreibung:   
+Nuss-Nougat-Brotaufstrich   
+
+Zutaten / Inhaltsstoffe:   
+Zucker, pflanzliches Fett, Haselnüsse, fettarmer Kakao, Magermilchpulver,
+Milchzucker, Emulgatoren Lecithine, Vanillin   
+
 ## Nährwertangaben
 
 <a target="_blank" href="https://www.nutella.com/de/de/naehrwertangaben">Nährwertangaben von Nutella</a>   
