@@ -20,7 +20,8 @@ Eine kleine Auswahl bekannter Nestlé Marken im deutschsprachigen Raum:
 * [Beba](../marken/beba.html)
 * [Bübchen](../marken/buebchen.html)
 * [Buitoni](../marken/buitoni.html)
-* [Häagen-Dazs](marken/haeagen-dazs.html)
+* [Häagen-Dazs](../marken/haeagen-dazs.html)
+* [Kitkat](../marken/kitkat.html)
 
 
 ## Kritik an Nestlé
@@ -31,3 +32,4 @@ Eine kleine Auswahl bekannter Nestlé Marken im deutschsprachigen Raum:
 ### <a name="palmoel">Palmöl</a>
 * <a target="_blank" href="https://utopia.de/ratgeber/nestle-marken-diese-produkte-gehoeren-zum-unternehmen/">Nestlé-Marken in der Kritik: Wasser, Regenwald, Tierversuche | Utopia</a>
 * <a target="_blank" href="https://utopia.de/ratgeber/solidar-suisse-nestle-bezieht-palmoel-aus-kinderarbeit/">Palmöl-Report: Nestlé bezieht Palmöl aus Kinderarbeit | Utopia</a>
+* <a target="_blank" href="https://www.greenpeace.ch/de/story/16047/nestle-verwendet-palmoel-aus-urwaldzerstoerung-auch-fuer-kit-kat/">Nestlé verwendet Palmöl aus Urwaldzerstörung, auch für Kit Kat | Greenpeace</a>
