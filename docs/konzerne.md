@@ -25,6 +25,7 @@
 * [Coca-Cola Company](konzerne/coca-cola_co.html)
 * [Ferrero](konzerne/ferrero.html)
 * [General Mills](konzerne/general_mills.html)
+* [The Hershey Company](konzerne/hershey_co.html)
 * [Kellogg Company](konzerne/kellogg_company.html)
 * [Kraft Foods Inc.](konzerne/kraft_foods_inc.html)
 * [Mars Inc.](konzerne/mars_inc.html)
