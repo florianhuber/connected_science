@@ -18,7 +18,9 @@
 ## Körperpflege
 * [Procter & Gamble](konzerne/procter-gamble.html)
 
-## Nahrungsmittelindustrie
+## Nahrungsmittel- und Genussmittelindustrie
+* [Barry Callebaut](konzerne/barry_callebaut.html)
+* [Cadbury](konzerne/cadbury.html)
 * [Cargill](konzerne/cargill.html)
 * [Coca-Cola Company](konzerne/coca-cola_co.html)
 * [Ferrero](konzerne/ferrero.html)
