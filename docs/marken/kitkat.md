@@ -10,7 +10,7 @@
 <a target="_blank" href="https://en.wikipedia.org/wiki/Kit_Kat">Wikipedia (en)</a>   
 
 ---
-> .. ist ein von [Nestlé](..konzerne/nestle.html) vertriebener und seit 1975 auf dem deutschen Markt erhältlicher Schokoriegel mit Waffelfüllung. Der ursprüngliche Hersteller Rowntree’s wurde 1988 von [Nestlé](..konzerne/nestle.html) übernommen.
+> .. ist ein von [Nestlé](../konzerne/nestle.html) vertriebener und seit 1975 auf dem deutschen Markt erhältlicher Schokoriegel mit Waffelfüllung. Der ursprüngliche Hersteller Rowntree’s wurde 1988 von [Nestlé](../Skonzerne/nestle.html) übernommen.
 
 
 # Kritik
