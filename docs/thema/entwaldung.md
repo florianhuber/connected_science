@@ -1,9 +1,9 @@
 [Themen](../themen.html)   
 
-# entwaldung
+# Entwaldung
 
 ---
 
-[Wikipedia (de)](https://de.wikipedia.org/wiki/Entwaldung)
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Entwaldung){:target="_blank"}   
 
 ---

@@ -16,7 +16,7 @@ ExxonMobil is one of the largest of the world's Big Oil companies. As of 2007, i
 ExxonMobil has been criticized for its slow response to cleanup efforts after the 1989 Exxon Valdez oil spill in Alaska, widely considered to be one of the world's worst oil spills in terms of damage to the environment. ExxonMobil has a history of lobbying for climate change denial and against the scientific consensus that global warming is caused by the burning of fossil fuels. The company has also been the target of accusations of improperly dealing with human rights issues, influence on American foreign policy, and its impact on the future of nations.
 
 
-## <a name="kritik">Kritik</a>
+## <a name="kritik">Kritik an ExxonMobile</a>
 
 ### <a name="desinformation">Desinformation durch ExxonMobil</a>
 ** [Exxon Knew about Climate Change almost 40 years ago - (Scientific American)](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago)
