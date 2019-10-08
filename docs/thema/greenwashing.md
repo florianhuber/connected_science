@@ -26,3 +26,6 @@ Zwei weitere Methoden sind ergänzend zu nennen, die der Blog nachhaltig-sein.in
 * Fremde Federn: Ein normaler technischer Fortschritt oder eine zugekaufte Technologie werden als unternehmenseigener Erfolg verkauft. (Beispiel: Eine gesetzlich vorgeschriebene Verringerung der CO2-Emissionen wird als Eigenleistung des Unternehmens ausgegeben)   
 
 Eine besondere Form des Greenwashing sind Kooperationsprojekte mit Partnern, die in der Öffentlichkeit ein positives Image haben und mit Umweltfreundlichkeit, uneigennützigem ökologischen Engagement oder Unabhängigkeit assoziiert werden. Meist handelt es sich bei diesen Projekten um Sponsoring. Solche Kooperationsprojekte sind nicht automatisch Greenwashing – allgemein anerkannte Kriterien zur Unterscheidung fehlen jedoch bislang. Deshalb haben sich einige Umweltorganisationen Richtlinien für Sponsoring oder Kooperationen gegeben, mit denen Greenwashing (oder entsprechenden Vorwürfen) begegnet werden soll. Dessen ungeachtet sind diese Kooperations- und Sponsoringprojekte häufig Gegenstand von internen Diskussionen und auch von Greenwashing-Vorwürfen.
+
+## Unternehmen, die Greenwashing betrieben haben:
+* [BP](../konzerne/bp#greenwashing)
