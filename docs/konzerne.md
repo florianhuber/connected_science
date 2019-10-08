@@ -18,6 +18,9 @@
 ## Körperpflege
 * [Procter & Gamble](konzerne/procter-gamble.html)
 
+## Möbelprodukte
+* [IKEA](konzerne/ikea.html)
+
 ## Nahrungsmittel- und Genussmittelindustrie
 * [Barry Callebaut](konzerne/barry_callebaut.html)
 * [Cadbury](konzerne/cadbury.html)
@@ -25,6 +28,7 @@
 * [Coca-Cola Company](konzerne/coca-cola_co.html)
 * [Ferrero](konzerne/ferrero.html)
 * [General Mills](konzerne/general_mills.html)
+* [Green & Black's](konzerne/green_blacks.html)
 * [The Hershey Company](konzerne/hershey_co.html)
 * [Kellogg Company](konzerne/kellogg_company.html)
 * [Kraft Foods Inc.](konzerne/kraft_foods_inc.html)
@@ -35,6 +39,7 @@
 * [Zotter](konzerne/zotter_schokoladen_manufaktur.html)
 
 ## Öl-, Kohle- und Gasproduktion
+* [BP](konzerne/bp.html)
 * [ExxonMobile](konzerne/exxon-mobile.html)
 * [Peabody Energy](konzerne/peabody-energy.html)
 * [Royal Dutch Shell](konzerne/shell.html)
