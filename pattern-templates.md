@@ -32,5 +32,9 @@ or, in pure html:
 * <a name="steuervermeidung">Steuervermeidung</a>
 * <a name="umweltzerstoerung">Umweltzerstörung</a>
 * <a name="desinformation">Desinformation durch ...</a>
+
++ reference to anchor:
+<a href="../konzerne/apple_inc#steuervermeidung">Apple Inc.</a>
+
 * Kritik
 * Arbeitsbedingungen bei Zulieferfirmen

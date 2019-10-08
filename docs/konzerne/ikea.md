@@ -22,3 +22,7 @@
 * [IKEA nimmt Palmöl auf die leichte Schulter - regenwald.org (10.02.2010)](https://www.regenwald.org/news/1479/ikea-nimmt-palmoel-auf-die-leichte-schulter){:target="_blank"}
 * [Palmöl für die Produktion von IKEA Kerzen - IKEA (09.12.2010)](https://www.ikea.com/ms/de_DE/about_ikea/pdf/PalmoelWebinfo.pdf){:target="_blank"}
 * [Retten Sie den Lebensraum von 130 Orang-Utans! Stoppen Sie Palmöl-Kerzen! - regenwald.org (20.05.2014)](https://www.regenwald.org/petitionen/643/an-ikea-retten-sie-den-lebensraum-von-130-orang-utans-stoppen-sie-palmoel-kerzen){:target="_blank"}
+
+### <a name="waldzerstoerung">Waldzerstörung</a>
+* [Kahlschlag in Karelien: Zerstört Ikea-Tochterfirma Urwald mit FSC-Segen?](https://www.pro-regenwald.de/news/2011/11/10/Kahlschlag_in_Karelien){:target="_blank"}
+* [Ikeas Bedarf an Holz ist geradezu gigantisch und auch vor Urwäldern macht IKEA nicht halt! Was versteht IKEA unter Nachhaltigkeit? – netzfrauen (20.03.2019)](https://netzfrauen.org/2019/03/20/ikea-2/){:target="_blank"}

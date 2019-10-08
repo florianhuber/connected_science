@@ -6,6 +6,7 @@
 
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Greenwashing){:target="_blank"}   
 
+Siehe auch [Desinformation](../thema/desinformation.html)   
 ---
 
 > .. ist eine kritische Bezeichnung für [PR-Methoden](../thema/public-relations.html), die darauf zielen, einem Unternehmen in der Öffentlichkeit ein umweltfreundliches und verantwortungsbewusstes Image zu verleihen, ohne dass es dafür eine hinreichende Grundlage gibt.
@@ -27,5 +28,5 @@ Zwei weitere Methoden sind ergänzend zu nennen, die der Blog nachhaltig-sein.in
 
 Eine besondere Form des Greenwashing sind Kooperationsprojekte mit Partnern, die in der Öffentlichkeit ein positives Image haben und mit Umweltfreundlichkeit, uneigennützigem ökologischen Engagement oder Unabhängigkeit assoziiert werden. Meist handelt es sich bei diesen Projekten um Sponsoring. Solche Kooperationsprojekte sind nicht automatisch Greenwashing – allgemein anerkannte Kriterien zur Unterscheidung fehlen jedoch bislang. Deshalb haben sich einige Umweltorganisationen Richtlinien für Sponsoring oder Kooperationen gegeben, mit denen Greenwashing (oder entsprechenden Vorwürfen) begegnet werden soll. Dessen ungeachtet sind diese Kooperations- und Sponsoringprojekte häufig Gegenstand von internen Diskussionen und auch von Greenwashing-Vorwürfen.
 
-## Unternehmen, die Greenwashing betrieben haben:
+## Unternehmen, die Greenwashing betreiben oder betrieben haben:
 * [BP](../konzerne/bp#greenwashing)
