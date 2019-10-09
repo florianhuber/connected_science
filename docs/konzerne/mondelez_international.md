@@ -4,9 +4,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Mondelez_international_2012_logo.svg" height="200" alt="Mondelēz International logo">   
 
-[official website](http://www.mondelezinternational.com/)
+[official website](http://www.mondelezinternational.com/){:target="_blank"}   
 
-[wikipedia (de)](https://de.wikipedia.org/wiki/Mondel%C4%93z_International)
+[wikipedia (de)](https://de.wikipedia.org/wiki/Mondel%C4%93z_International){:target="_blank"}   
 
 ---
 

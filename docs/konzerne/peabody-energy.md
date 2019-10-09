@@ -4,9 +4,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Peabody_logo_RGB.png" height="200" alt="Peabody Energy logo">   
 
-[official website](http://www.peabodyenergy.com/)
+[official website](http://www.peabodyenergy.com/){:target="_blank"}   
 
-[Wikipedia (en)](https://en.wikipedia.org/wiki/Peabody_Energy)
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Peabody_Energy){:target="_blank"}   
 
 ---
 > ... is the largest private-sector coal company in the world. Its primary business consists of the mining, sale, and distribution of coal, which is purchased for use in electricity generation and steelmaking. Peabody also markets, brokers, and trades coal through offices in China, Australia, the United Kingdom, and the United States.

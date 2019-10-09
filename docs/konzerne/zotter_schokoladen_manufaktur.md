@@ -4,9 +4,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Zotter_Logo.svg" height="200" alt="Zotter logo">   
 
-[official website](https://www.zotter.at/en/homepage.html)
+[official website](https://www.zotter.at/en/homepage.html){:target="_blank"}   
 
-[Wikipedia (en)](https://en.wikipedia.org/wiki/Zotter_Schokoladen_Manufaktur) (!)
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Zotter_Schokoladen_Manufaktur){:target="_blank"}   
 
 ---
 

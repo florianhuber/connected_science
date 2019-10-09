@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg" height="200" alt="McDonald's logo">
 
-[official website](https://www.mcdonalds.com/)   
+[official website](https://www.mcdonalds.com/){:target="_blank"}   
 
-[Wikipedia (de)](https://de.wikipedia.org/wiki/McDonald%E2%80%99s)   
-[Wikipedia (en)](https://en.wikipedia.org/wiki/McDonald%27s)
+[Wikipedia (de)](https://de.wikipedia.org/wiki/McDonald%E2%80%99s){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/McDonald%27s){:target="_blank"}   
 
 ---
 
