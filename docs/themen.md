@@ -24,7 +24,7 @@
 * [Lebensmittelversorgung](thema/lebensmittelversorgung.html)
 * [Lobbyismus](thema/lobbyismus.html)
 * [Luxus](thema/luxus.html)
-* [Marktdominanz](thema/marktdominanz.html)
+* [Marktkonzentration](thema/marktkonzentration.html)
 * [Öl, Kohle, Gas](thema/oel-kohle-gas.html)
 * [Palmöl](thema/palmoel.html)
 * [Profit](thema/profit.html)
