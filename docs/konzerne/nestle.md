@@ -4,16 +4,16 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg" height="200" alt="Nestlé logo">   
 
-<a target="_blank" href="http://www.nestle.com/">official website</a>   
+[official website](http://www.nestle.com/){:target="_blank"}   
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Nestl%C3%A9">Wikipedia (de)</a>   
-<a target="_blank" href="https://en.wikipedia.org/wiki/Nestl%C3%A9">Wikipedia (en)</a>   
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Nestl%C3%A9){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Nestl%C3%A9){:target="_blank"}   
 
 ---
 
-## Liste Nestlé Marken
-> Nestlé verfügt nach eigenen Angaben weltweit über 2 000 Marken.
-<a target="_blank" href="https://www.nestle.com/brands/brandssearchlist">Official list of brands</a>   
+## Nestlé Marken
+> Nestlé verfügt nach eigenen Angaben weltweit über 2 000 Marken.   
+[Official list of Nestlé brands](https://www.nestle.com/brands/brandssearchlist){:target="_blank"}   
 
 Eine kleine Auswahl bekannter Nestlé Marken im deutschsprachigen Raum:   
 * [After Eight](../marken/after-eight.html)
@@ -30,6 +30,12 @@ Eine kleine Auswahl bekannter Nestlé Marken im deutschsprachigen Raum:
 ### <a name="kinderarbeit">Kinderarbeit</a>
 ### <a name="marktkonzentration">Marktkonzentration</a>
 ### <a name="palmoel">Palmöl</a>
-* <a target="_blank" href="https://utopia.de/ratgeber/nestle-marken-diese-produkte-gehoeren-zum-unternehmen/">Nestlé-Marken in der Kritik: Wasser, Regenwald, Tierversuche | Utopia</a>
-* <a target="_blank" href="https://utopia.de/ratgeber/solidar-suisse-nestle-bezieht-palmoel-aus-kinderarbeit/">Palmöl-Report: Nestlé bezieht Palmöl aus Kinderarbeit | Utopia</a>
-* <a target="_blank" href="https://www.greenpeace.ch/de/story/16047/nestle-verwendet-palmoel-aus-urwaldzerstoerung-auch-fuer-kit-kat/">Nestlé verwendet Palmöl aus Urwaldzerstörung, auch für Kit Kat | Greenpeace</a>
+### <a name="boykott">Boykott</a>
+* [Nestlé-Marken in der Kritik: Wasser, Regenwald, Tierversuche - Utopia](https://utopia.de/ratgeber/nestle-marken-diese-produkte-gehoeren-zum-unternehmen/)
+* [Palmöl-Report: Nestlé bezieht Palmöl aus Kinderarbeit - Utopia](https://utopia.de/ratgeber/solidar-suisse-nestle-bezieht-palmoel-aus-kinderarbeit/)
+* [Nestlé verwendet Palmöl aus Urwaldzerstörung, auch für Kit Kat - Greenpeace](https://www.greenpeace.ch/de/story/16047/nestle-verwendet-palmoel-aus-urwaldzerstoerung-auch-fuer-kit-kat/){:target="_blank"}
+* ['Nestlé tötet Babys' Boykott gegen Nestlé Produkte wegen irreführender Werbung, die Mütter veranlassen könnte, ihre Babys, anstatt sie zu stillen, mit künstlicher Nahrung zu versorgen. - Wikipedia (de)](https://de.wikipedia.org/wiki/Nestl%C3%A9_t%C3%B6tet_Babys){:target="_blank"}
+
+## Initiativen von Nestlé
+
+* [Nestlé's Cocoa Plan](../initiativen/nestles_cocoa_plan.html)

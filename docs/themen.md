@@ -4,6 +4,7 @@
 
 * [Ausbeutung](thema/ausbeutung.html)
 * [Balance](thema/balance.html)
+* [Boykott](thema/boykott.html)
 * [Cleanup](thema/cleanup.html)
 * [CO2 Kompensation](thema/co2_kompensation.html)
 * [Desinformation](thema/desinformation.html)

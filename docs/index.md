@@ -11,6 +11,7 @@
 -->
 
 * [Informationsquellen](informationsquellen.html)
+* [Initiativen](initiativen.html)
 * [Konzerne](konzerne.html)
 * [Marken](marken.html)
 * [Nahrungsmittel](nahrungsmittel.html)
