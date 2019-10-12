@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/FairTrade-Logo.svg" height="200" alt="Fairtrade logo">   
 
-<a target="_blank" href="http://www.fairtrade.net">official website</a>
+[official website](http://www.fairtrade.net){:target="_blank"}      
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Fairtrade_Labelling_Organizations_International">Wikipedia (de)</a>   
-<a target="_blank" href="https://en.wikipedia.org/wiki/Fairtrade_International">Wikipedia (en)</a>
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Fairtrade_Labelling_Organizations_International){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Fairtrade_International){:target="_blank"}   
 
 ---
 

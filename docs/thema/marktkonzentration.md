@@ -22,7 +22,7 @@ Die wenigen verbleibenden Anbieter stehen unter einem geringen Preisdruck und ve
 
 ---
 
-[Oligopol - Wikipedia (de)]https://de.wikipedia.org/wiki/Oligopol
+[Oligopol - Wikipedia (de)](https://de.wikipedia.org/wiki/Oligopol){:target="_blank"}   
 
 > Die europäische [Mineralölwirtschaft](../thema/oel-kohle-gas.html) wird von den „Großen Fünf“ [BP/Aral](../konzerne/bp.html), [Esso (Exxon)](../konzerne/exxon-mobile.html), Jet (ConocoPhillips), [Shell](../konzerne/shell.html) und Total beherrscht, was sowohl die Produktion wie den Vertrieb von Kraftstoffen betrifft. Diesem Oligopol wird in Deutschland vorgeworfen, den Wettbewerb durch die Abgabe von Kraftstoffen zu überhöhten Preisen an freie Tankstellen gesetzwidrig behindert zu haben.   
 

@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/de/a/a2/Foodwatch_logo.svg" height="200" alt="Foodwatch logo">   
 
-<a target="_blank" href="http://www.foodwatch.org/de/startseite/">official website</a>
+[official website](http://www.foodwatch.org/de/startseite/){:target="_blank"}      
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Foodwatch">Wikipedia (de)</a>   
-<a target="_blank" href="https://en.wikipedia.org/wiki/Foodwatch">Wikipedia (en)</a>
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Foodwatch){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Foodwatch){:target="_blank"}   
 
 ---
 

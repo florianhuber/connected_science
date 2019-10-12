@@ -4,10 +4,10 @@
 
 <img src="https://res.cloudinary.com/devex/image/fetch/c_fit,h_110,w_250/https://neo-assets.s3.amazonaws.com/assets/0130/1200/wcf-logo_1.png" height="200" alt="World Cocoa Foundation logo">   
 
-<a target="_blank" href="http://www.worldcocoafoundation.org/">official website</a>   
+[official website](http://www.worldcocoafoundation.org/){:target="_blank"}      
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/World_Cocoa_Foundation">Wikipedia (de)</a>   
-<a target="_blank" href="https://en.wikipedia.org/wiki/World_Cocoa_Foundation">Wikipedia (en)</a>
+[Wikipedia (de)](https://de.wikipedia.org/wiki/World_Cocoa_Foundation){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/World_Cocoa_Foundation){:target="_blank"}   
 
 ---
 >  ... ist eine Non-Profit-Organisation zur weltweiten Unterstützung von [Kakaobauern](../thema/kakaoanbau.html) und ihren Familien. Ziel ist es, das Einkommen der Bauern zu erhöhen. Es sollen der verantwortungsbewusste und nachhaltige Kakaoanbau gefördert sowie die Gemeinde und die Genossenschaft der Kakaobauern gestärkt werden. Dazu gehören insbesondere
