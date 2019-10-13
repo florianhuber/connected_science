@@ -6,7 +6,7 @@ or
 [Angaben zu 100g Milchschokolade von das-ist-drin.de](http://das-ist-drin.de/Milka-Alpenmilch-100-g--416351/){:target="_blank"}   
 
 ## youtube link
-`[![Video Title - source name](http://img.youtube.com/vi/abc/0.jpg)](https://www.youtube.com/watch?v=abc)`{:target="_blank"}   
+[![Video Title - source name](http://img.youtube.com/vi/abc/0.jpg)](https://www.youtube.com/watch?v=abc){:target="_blank"}   
 or, in pure html:   
 `<a href="http://www.youtube.com/watch?feature=player_embedded&v={ID}" target="_blank"><img src="https://img.youtube.com/vi/{ID}/0.jpg" alt="video on youtube" target="_blank" width="240" height="180" border="10" title="Video titel | quelle" /></a>`
 
