@@ -1,8 +1,8 @@
 [Themen](../themen.html)   
 
-()
+# Klimawandel
 
-## Der Klimawandel wird schon seit Jahrzehnten prognostiziert
+## Prognosen zum Klimawandel der letzten Jahrzehnte
 
 `[![Hoimar von Ditfurth : Der Ast auf dem wir sitzen - ZDF (1978) 1/2](https://www.youtube.com/watch?v=rtluPMxhdjk/0.jpg)](https://www.youtube.com/watch?v=rtluPMxhdjk)`{:target="_blank"}   
 
