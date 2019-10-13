@@ -30,10 +30,11 @@ Eine kleine Auswahl bekannter Nestlé Marken im deutschsprachigen Raum:
 ### <a name="kinderarbeit">Kinderarbeit</a>
 ### <a name="marktkonzentration">Marktkonzentration</a>
 ### <a name="palmoel">Palmöl</a>
-### <a name="boykott">Boykott</a>
 * [Nestlé-Marken in der Kritik: Wasser, Regenwald, Tierversuche - Utopia](https://utopia.de/ratgeber/nestle-marken-diese-produkte-gehoeren-zum-unternehmen/)
 * [Palmöl-Report: Nestlé bezieht Palmöl aus Kinderarbeit - Utopia](https://utopia.de/ratgeber/solidar-suisse-nestle-bezieht-palmoel-aus-kinderarbeit/)
 * [Nestlé verwendet Palmöl aus Urwaldzerstörung, auch für Kit Kat - Greenpeace](https://www.greenpeace.ch/de/story/16047/nestle-verwendet-palmoel-aus-urwaldzerstoerung-auch-fuer-kit-kat/){:target="_blank"}
+
+### <a name="boykott">Boykott</a>
 * ['Nestlé tötet Babys' Boykott gegen Nestlé Produkte wegen irreführender Werbung, die Mütter veranlassen könnte, ihre Babys, anstatt sie zu stillen, mit künstlicher Nahrung zu versorgen. - Wikipedia (de)](https://de.wikipedia.org/wiki/Nestl%C3%A9_t%C3%B6tet_Babys){:target="_blank"}
 
 ## Initiativen von Nestlé

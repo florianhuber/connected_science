@@ -2,7 +2,17 @@
 
 # Klimawandel
 
-## Prognosen zum Klimawandel der letzten Jahrzehnte
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Mauna_Loa_CO2_monthly_mean_concentration_DE.svg" height="200" alt="Entwicklung CO2 Messungen Mauna Loa">
+
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Klimawandel){:target="_blank"}   
+
+## Messungen zu klimarelevanten Emissionen
+
+* [Messstation Mauna Loa - Wikipedia (de)](https://de.wikipedia.org/wiki/Messstation_Mauna_Loa)
+> Die Messstation Mauna Loa ist eine meteorologische Forschungsstation auf dem Vulkan Mauna Loa auf Hawaii.   
+Um herauszufinden, welchen Einfluss der Mensch auf die Zusammensetzung der Atmosphäre hat und wie stark die Emissionen des Treibhausgases [Kohlenstoffdioxid (CO2)](../chemie/co2.html) sind, wird in der Messstation seit 1958 der CO2-Gehalt der Luft gemessen. Die daraus entstandene Messreihe, die nach dem maßgeblich beteiligten Forscher Charles David Keeling benannte Keeling-Kurve, ist die längste kontinuierliche Aufzeichnung der CO2-Konzentration in der Atmosphäre. Die Messungen dokumentieren den steigenden Gehalt an CO2 in der Atmosphäre durch die Verbrennung [fossiler Kohlenwasserstoffe](../thema/oel-kohle-gas.html).   
+
+## Klimawandel in den Medien in den letzten Jahrzehnten
 
 [![Hoimar von Ditfurth : Der Ast auf dem wir sitzen - ZDF (1978) 1/2](https://img.youtube.com/vi/rtluPMxhdjk/0.jpg)](https://www.youtube.com/watch?v=rtluPMxhdjk){:target="_blank"}   
 
