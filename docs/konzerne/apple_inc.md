@@ -4,7 +4,6 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" height="200" alt="Apple logo">
 
-
 <a target="_blank" href="https://www.apple.com/">official website</a>   
 
 <a target="_blank" href="https://de.wikipedia.org/wiki/Apple">Wikipedia (de)</a>   

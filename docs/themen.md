@@ -31,6 +31,7 @@
 * [Profit](thema/profit.html)
 * [Public Relations](thema/public-relations.html)
 * [Recycling](thema/recycling.html)
+* [Sklaverei](thema/sklaverei.html)
 * [Steuervermeidung](thema/steuervermeidung.html)
 * [Textilverarbeitung](thema/textilverarbeitung.html)
 * [Tourismus](thema/tourismus.html)

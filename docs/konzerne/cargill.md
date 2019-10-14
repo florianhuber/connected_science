@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CargillLogo.svg" height="200" alt="Cargill logo">
 
-[official website](http://www.cargill.com/)   
+[official website](http://www.cargill.com/){:target="_blank"}   
 
-[Wikipedia (de)](https://de.wikipedia.org/wiki/Cargill)   
-[Wikipedia (en)](https://en.wikipedia.org/wiki/Cargill)
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Cargill){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Cargill){:target="_blank"}   
 
 ---
 
