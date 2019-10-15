@@ -8,10 +8,11 @@
 ---
 
 > Kinderarbeit ist von Kindern zu Erwerbszwecken verrichtete Arbeit.   
-Die Internationale Arbeitsorganisation (ILO) definiert die Obergrenze für Kinderarbeit unter normalen Umständen als 15 Jahre (Mindestalter-Konvention 138). Obwohl Konvention 138 nur von etwa einem Viertel der ILO-Mitgliedsstaaten ratifiziert wurde, ist diese Definition international anerkannt.
+Die [Internationale Arbeitsorganisation (ILO)](../organisationen/ilo.html) definiert die Obergrenze für Kinderarbeit unter normalen Umständen als 15 Jahre (Mindestalter-Konvention 138). Obwohl Konvention 138 nur von etwa einem Viertel der ILO-Mitgliedsstaaten ratifiziert wurde, ist diese Definition international anerkannt.   
 
 [Child labour in cocoa production - Wikipedia (en)](https://en.wikipedia.org/wiki/Child_labour_in_cocoa_production){:target="_blank"}   
 
-## Fälle von Kinderarbeit im Zusammenhang mit Konzernen
+## Unternehmen mit Bezug zu Kinderarbeit
 * [Barry Callebaut](../konzerne/barry_callebaut#kinderarbeit)
+* [Ferrero](../konzerne/ferrero#kinderarbeit)
 * [Nestlé](../konzerne/nestle#kinderarbeit)
