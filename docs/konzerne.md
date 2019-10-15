@@ -40,7 +40,7 @@
 
 ## Öl-, Kohle- und Gasproduktion
 * [BP](konzerne/bp.html)
-* [ExxonMobile](konzerne/exxon-mobile.html)
+* [ExxonMobile](konzerne/exxon-mobil.html)
 * [Peabody Energy](konzerne/peabody-energy.html)
 * [Royal Dutch Shell](konzerne/shell.html)
 * [Saudi Aramco](konzerne/saudi-aramco.html)

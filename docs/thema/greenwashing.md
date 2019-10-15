@@ -3,6 +3,7 @@
 # Greenwashing
 
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Greenwashing){:target="_blank"}   
+[lobbypedia.de](https://lobbypedia.de/wiki/Greenwashing){:target="_blank"}   
 
 Siehe auch: [Desinformation](../thema/desinformation.html)   
 
@@ -30,3 +31,4 @@ Eine besondere Form des Greenwashing sind Kooperationsprojekte mit Partnern, die
 ## Unternehmen mit Bezug zu Greenwashing
 * [Adidas](../konzerne/adidas_ag#greenwashing)
 * [BP](../konzerne/bp#greenwashing)
+* [ExxonMobile](../konzerne/exxon-mobil#greenwashing)
