@@ -26,5 +26,7 @@ In den Medien wird kritisiert, dass durch Kameras, die in den Spindräumen und �
 > Mit dem Prinzip „Double Irish With a Dutch Sandwich“ vermied Amazon weitgehend inländische Ertragsteuerzahlungen und leitete seine deutschen Unternehmensgewinne ins Niedrigsteuerland Luxemburg um. Hierzu gründete der Konzern 2003 und 2004 die Amazon Services Europe SARL, die Amazon Europe Holding Technologies SCS und die Amazon EU SARL mit aktuellem Sitz in Luxemburg. Über die Zeit gelang es Amazon, dort über zwei Milliarden US-Dollar steuerfrei anzusparen.   
 Im Jahr 2018 hat Amazon bei Gewinnen von 11,2 Milliarden Dollar in den USA offenbar keine Steuern gezahlt. Durch Nutzung von Steuergutschriften und Steuerbefreiungen erhielt das Unternehmen 2018 einen Steuerfreibetrag in Höhe von 129 Millionen Dollar. Das führte laut einem Bericht der Tageszeitung Washington Post zu einem effektiven Steuersatz von etwa minus einem Prozent.   
 
+### <a name="lobbyismus">[Lobbyismus] an Schulen
+[Leseförderung – So öffnet sich die Schultür für Amazon - lobbycontrol.de (2015.11.05)](https://www.lobbycontrol.de/2015/11/lesefoerderung-so-oeffnet-sich-die-schultuer-fuer-amazon/){:target="_blank"}   
 
 [The Jeff Bezos Empire in One Giant Chart - Visual Capitalist (2019.01.11)](https://www.visualcapitalist.com/jeff-bezos-empire-chart/){:target="_blank"}   

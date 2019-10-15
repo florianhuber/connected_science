@@ -13,3 +13,4 @@ Der Begriff hat negative Konnotationen (Nebenbedeutungen), sodass Interessenverb
 ## Fälle von Lobbyismus durch Unternehmen
 
 * [BlackRock](../konzerne/blackrock#lobbyismus)
+* [Amazon](../konzerne/amazon#lobbyismus)
