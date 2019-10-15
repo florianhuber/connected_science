@@ -43,7 +43,6 @@ Die wenigen verbleibenden Anbieter stehen unter einem geringen Preisdruck und ve
 
 ## Marktkonzentration im Lebensmittelsektor
 [The Illusion of Choice in Consumer Brands - Visual Capitalist (2016.07.21)](https://www.visualcapitalist.com/illusion-of-choice-consumer-brands/){:target="_blank"}   
-
 * [Coca Cola Company](../konzerne/coca-cola_co.html)
 * [General Mills](../konzerne/general_mills.html)
 * [Kellogg Company](../konzerne/kellogg_company.html)
@@ -51,3 +50,6 @@ Die wenigen verbleibenden Anbieter stehen unter einem geringen Preisdruck und ve
 * [Mars](../konzerne/mars_inc.html)
 * [Mondelēz International](../konzerne/mondelez_international.html)
 * [Unilever](../konzerne/unilever.html)
+
+## Weitere Fälle von wirtschaftlicher Übermacht
+* [BlackRock](../konzerne/blackrock#marktkonzentration)
