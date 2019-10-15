@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/ExxonMobil_Logo.svg" height="200" alt="ExxonMobil logo">
 
-[official website](http://www.exxonmobil.com/){:target="_blank"}     
+[official website](http://www.exxonmobil.com/){:target="_blank"}   
 
-[Wikipedia (de)](https://de.wikipedia.org/wiki/ExxonMobil){:target="_blank"}  
-[Wikipedia (en)](https://en.wikipedia.org/wiki/ExxonMobil){:target="_blank"}  
+[Wikipedia (de)](https://de.wikipedia.org/wiki/ExxonMobil){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/ExxonMobil){:target="_blank"}   
 
 ---
 
