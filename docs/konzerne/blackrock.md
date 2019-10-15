@@ -26,4 +26,4 @@ In den Forbes Global 2000 der weltweit größten Unternehmen belegt BlackRock Pl
 * [Wenn Superkapitalisten schlimmer als Marxisten sind - Welt (2016.08.29)](https://www.welt.de/wirtschaft/article157888487/Wenn-Superkapitalisten-schlimmer-als-Marxisten-sind.html){:target="_blank"}   
 
 ### <a name="dokumentation"/>[Dokumentationen](../informationsquellen/dokumentationen.html)
-[![BlackRock - Die unheimliche Macht eines Finanzkonzerns - ARTE](http://img.youtube.com/vi/JR_UyV32Ba4/0.jpg)](https://www.youtube.com/watch?v=JR_UyV32Ba4){:target="_blank"}   
+[![BlackRock - Die unheimliche Macht eines Finanzkonzerns - ARTE](http://img.youtube.com/vi/JR_UyV32Ba4/0.jpg)](https://www.youtube.com/watch?v=JR_UyV32Ba4 "BlackRock - Die unheimliche Macht eines Finanzkonzerns - ARTE"){:target="_blank"}   
