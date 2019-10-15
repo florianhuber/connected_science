@@ -17,7 +17,7 @@
 
 ## Kritik an Cadbury
 
-* [Cadbury withdraws from Fairtrade chocolate scheme but keeps logo on packaging > independent (28.11.2016)](https://www.independent.co.uk/news/business/news/cadbury-chocolate-fairtrade-logo-scheme-at-risk-mondelez-international-a7443226.html){:target="_blank"}  
+* [Cadbury withdraws from Fairtrade chocolate scheme but keeps logo on packaging - Independent (2016.11.28.)](https://www.independent.co.uk/news/business/news/cadbury-chocolate-fairtrade-logo-scheme-at-risk-mondelez-international-a7443226.html){:target="_blank"}  
 
 ### <a name="kinderarbeit">Kinderarbeit</a>
 [Kinderarbeit beim Kakaoanbau](../thema/kakaoanbau.html)

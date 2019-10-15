@@ -20,11 +20,11 @@ Mit einem Umsatz von 233 Milliarden US-Dollar im Jahr 2018, einem Gewinn von 10 
 > Amazon Deutschland war wiederholt wegen der Arbeitsbedingungen in deutschen Versandzentren in den Medien. Ähnliche Kritik häufte sich auch über anderssprachige Ableger des Handelshauses, z. B. Amazon.co.uk.   
 In den Medien wird kritisiert, dass durch Kameras, die in den Spindräumen und über den Fließbändern der Logistikzentren angebracht sind, eine ständige Überwachung am Arbeitsplatz stattfinde oder zumindest bei den Arbeitnehmern der Eindruck einer solchen ständigen Überwachung erweckt werde, was zu einem rechtlich nicht zulässigen psychischen Anpassungsdruck führe.   
 
+[Amazon und Wal-Mart: Pioniere der Ausbeutung - Die Zeit (2017.03.23)](https://www.zeit.de/2017/13/amazon-wal-mart-us-wirtschaft-ausbeutung-arbeitnehmer-lohnniveau/komplettansicht){:target="_blank"}   
+
 ### <a name="steuervermeidung">Steuervermeidung</a>
 > Mit dem Prinzip „Double Irish With a Dutch Sandwich“ vermied Amazon weitgehend inländische Ertragsteuerzahlungen und leitete seine deutschen Unternehmensgewinne ins Niedrigsteuerland Luxemburg um. Hierzu gründete der Konzern 2003 und 2004 die Amazon Services Europe SARL, die Amazon Europe Holding Technologies SCS und die Amazon EU SARL mit aktuellem Sitz in Luxemburg. Über die Zeit gelang es Amazon, dort über zwei Milliarden US-Dollar steuerfrei anzusparen.   
 Im Jahr 2018 hat Amazon bei Gewinnen von 11,2 Milliarden Dollar in den USA offenbar keine Steuern gezahlt. Durch Nutzung von Steuergutschriften und Steuerbefreiungen erhielt das Unternehmen 2018 einen Steuerfreibetrag in Höhe von 129 Millionen Dollar. Das führte laut einem Bericht der Tageszeitung Washington Post zu einem effektiven Steuersatz von etwa minus einem Prozent.   
 
-
-[Amazon und Wal-Mart: Pioniere der Ausbeutung - Die Zeit (2017.03.23)](https://www.zeit.de/2017/13/amazon-wal-mart-us-wirtschaft-ausbeutung-arbeitnehmer-lohnniveau/komplettansicht){:target="_blank"}   
 
 [The Jeff Bezos Empire in One Giant Chart - Visual Capitalist (2019.01.11)](https://www.visualcapitalist.com/jeff-bezos-empire-chart/){:target="_blank"}   

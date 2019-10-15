@@ -11,10 +11,10 @@
 
 ---
 
-> ..ist ein US-amerikanischer Getränkehersteller mit Schwerpunkt auf Erfrischungsgetränke und Sitz in Atlanta, Georgia in den USA. CEO ist James Quincey.
-Die Coca-Cola Company bezeichnet sich als das größte Getränkeunternehmen weltweit. Das Unternehmen verkauft über 3900 Produkte in mehr als 200 Ländern der Welt. Bis September 2012 war die Firma in Kuba, Nordkorea und Myanmar nicht vertreten. Seit September 2012 wird Myanmar jedoch wieder beliefert.
+> .. ist ein US-amerikanischer Getränkehersteller mit Schwerpunkt auf Erfrischungsgetränke und Sitz in Atlanta, Georgia in den USA. CEO ist James Quincey.   
+Die Coca-Cola Company bezeichnet sich als das größte Getränkeunternehmen weltweit. Das Unternehmen verkauft über 3900 Produkte in mehr als 200 Ländern der Welt. Bis September 2012 war die Firma in Kuba, Nordkorea und Myanmar nicht vertreten. Seit September 2012 wird Myanmar jedoch wieder beliefert.   
 Zwei Drittel des Umsatzes werden außerhalb der USA erzielt. Das Unternehmen beherrscht über die Hälfte des weltweiten Marktes, wobei die Produktion dieser Getränke vor allem durch nationale Lizenzabfüllbetriebe übernommen wird.   
-Das bekannteste Produkt ist die namengebende [Coca-Cola](../marken/coca-cola.html). Weitere Getränkemarken der Coca-Cola Company sind etwa Fanta, Sprite, mezzo mix, Lift, Fuzetea, Bonaqa, Apollinaris, Minute Maid (Cappy), Powerade und Glacéau.
+Das bekannteste Produkt ist die namengebende [Coca-Cola](../marken/coca-cola.html). Weitere Getränkemarken der Coca-Cola Company sind etwa Fanta, Sprite, mezzo mix, Lift, Fuzetea, Bonaqa, Apollinaris, Minute Maid (Cappy), Powerade und Glacéau.   
 
 ## Kritik
 
@@ -23,8 +23,10 @@ Im Juli 2001 wurde das Coca-Cola-Unternehmen wegen des angeblichen Einsatzes pol
 
 Vom Firmensitz von Coca-Cola in Atlanta aus sagte der Unternehmenssprecher Rafael Fernandez Quiros, "Coca-Cola bestreitet jegliche Verbindung zu Menschenrechtsverletzungen dieser Art" und fügte hinzu, "Wir besitzen oder betreiben die Anlagen nicht".
 
-Eine Dokumentation über die Kontroverse mit dem Titel The Coca-Cola Case wurde 2010 veröffentlicht.
+### <a name="verpackungsmuell"/><a name="dokumentation"/>[Verpackungsmüll](../thema/verpackungsmuell.html), [Dokumentation](../informationsquellen/dokumentationen.html)
+[Die Plastik-Invasion - Coca-Cola und der vermüllte Planet - ZDFinfo Doku (2019.05.15)](https://www.zdf.de/dokumentation/zdfinfo-doku/die-plastik-invasion-coca-cola-und-der-vermuellte-planet-104.html){:target="_blank"}   
+> Jede Sekunde werden weltweit zehn Tonnen Kunststoff produziert, davon landet ein Zehntel früher oder später in den Ozeanen.
 
 ## Coca Cola Company in den Medien
 
-* <a target="_blank" href="https://www.forbes.com/companies/coca-cola/#2d0c0846438c">Company profile at Forbes</a>
+[Company profile at Forbes](https://www.forbes.com/companies/coca-cola/#2d0c0846438c){:target="_blank"}      
