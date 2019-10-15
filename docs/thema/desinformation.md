@@ -18,6 +18,7 @@ Desinformation kann entweder direkt (Lügen, Betrug) oder indirekt (subtile Unte
 
 ## Fälle von Desinformation durch Konzerne
 * [ExxonMobile](../konzerne/exxon-mobil#desinformation)
+* [Ferrero](../konzerne/ferrero#desinformation)
 * [Peabody Energy](../konzerne/peabody-energy#desinformation)
 * [BP (Greenwashing)](../konzerne/bp#greenwashing)
 
