@@ -11,3 +11,6 @@ Als Umweltzerstörung werden Prozesse bezeichnet, bei denen Umweltschäden entst
 * [Cargill](../konzerne/cargill#umweltzerstoerung)
 * [McDonald's](../konzerne/mcdonalds#umweltzerstoerung)
 * [Nestlé](../konzerne/nestle#umweltzerstoerung)
+
+## Themen mit Bezug zu Umweltzerstörung
+* [Goldgewinnung](../thema/goldgewinnung#umweltzerstoerung)

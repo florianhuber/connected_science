@@ -2,7 +2,9 @@
 
 # Nachrichten und Berichte
 
-* 2019.10.14 - [Mars](../konzerne/mars_inc.html): Werk in Breitenbrunn soll geschlossen werden - [orf.at](https://burgenland.orf.at/stories/3017206)
+* 2019.10.18 - [Kobaltförderung](../thema/kobaltgewinnung.html) im Kongo: Hier sterben Menschen für unsere Akkus - [Spiegel online](https://www.spiegel.de/wissenschaft/mensch/kobalt-aus-dem-kongo-hier-sterben-menschen-fuer-unsere-e-autos-a-1291533.html){:target="_blank"}   
+
+* 2019.10.14 - [Mars](../konzerne/mars_inc.html): Werk in Breitenbrunn soll geschlossen werden - [orf.at](https://burgenland.orf.at/stories/3017206){:target="_blank"}   
 
 * 2019.10.09. - [Atmosfair](organisationen/atmosfair.html) streicht [CO2-Kompensation](thema/co2_kompensation.html) für [Kreuzfahrten](thema/tourismus.html) - [Spiegel online](https://www.spiegel.de/reise/aktuell/atmosfair-streicht-co2-kompensation-fuer-kreuzfahrten-a-1290671.html){:target="_blank"}   
 

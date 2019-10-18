@@ -2,6 +2,9 @@
 
 # Kinderarbeit
 
+Siehe auch:
+* [Ausbeutung](../thema/ausbeutung.html)
+
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Kinderarbeit){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Child_labour){:target="_blank"}   
 
