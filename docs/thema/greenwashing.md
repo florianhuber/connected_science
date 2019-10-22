@@ -32,3 +32,7 @@ Eine besondere Form des Greenwashing sind Kooperationsprojekte mit Partnern, die
 * [Adidas](../konzerne/adidas_ag#greenwashing)
 * [BP](../konzerne/bp#greenwashing)
 * [ExxonMobile](../konzerne/exxon-mobil#greenwashing)
+
+## Dokumentation zum Thema Greenwashing
+
+* 'Schluss mit grünen Lügen der Konzerne' - Rezension zu dem Film "The Green Lie" [orf.at (2018.02.03)](https://help.orf.at/stories/2893176/){:target="_blank"}   

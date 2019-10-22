@@ -27,7 +27,7 @@
 * [Luxus](thema/luxus.html)
 * [Marktkonzentration](thema/marktkonzentration.html)
 * [Öl, Kohle, Gas](thema/oel-kohle-gas.html)
-* [Palmöl](thema/palmoel.html)
+* [Palmölanbau](thema/palmoelanbau.html)
 * [Profit](thema/profit.html)
 * [Public Relations](thema/public-relations.html)
 * [Recycling](thema/recycling.html)

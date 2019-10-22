@@ -2,6 +2,8 @@
 
 # Nachrichten und Berichte
 
+* 2019.10.21 - Umweltfreundliches [Fliegen](../thema/flugverkehr.html): "Das Kerosin ist dann grün" - [Wiener Zeitung](https://www.wienerzeitung.at/nachrichten/wirtschaft/international/2034689-Umweltfreundliches-Fliegen-Das-Kerosin-ist-dann-gruen.html){:target="_blank"}   
+
 * 2019.10.18 - [Kobaltförderung](../thema/kobaltgewinnung.html) im Kongo: Hier sterben Menschen für unsere Akkus - [Spiegel online](https://www.spiegel.de/wissenschaft/mensch/kobalt-aus-dem-kongo-hier-sterben-menschen-fuer-unsere-e-autos-a-1291533.html){:target="_blank"}   
 
 * 2019.10.14 - [Mars](../konzerne/mars_inc.html): Werk in Breitenbrunn soll geschlossen werden - [orf.at](https://burgenland.orf.at/stories/3017206){:target="_blank"}   

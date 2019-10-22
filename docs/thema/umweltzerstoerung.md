@@ -14,3 +14,4 @@ Als Umweltzerstörung werden Prozesse bezeichnet, bei denen Umweltschäden entst
 
 ## Themen mit Bezug zu Umweltzerstörung
 * [Goldgewinnung](../thema/goldgewinnung#umweltzerstoerung)
+* [Palmölanbau](../thema/palmoelanbau#umweltzerstoerung)
