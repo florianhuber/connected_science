@@ -12,7 +12,7 @@ Siehe [Palmölanbau](../thema/palmoelanbau.html)
 
 >  ist ein Pflanzenöl, das aus dem Fruchtfleisch der Früchte der Ölpalme gewonnen wird. Palmkernöl wird aus den Kernen der Früchte gewonnen und besteht zu über 80 % aus gesättigten Fetten (überwiegend ist Laurinsäure gebunden). Ölpalmen sind dreimal so ertragreich wie Raps und beanspruchen für den gleichen Ertrag etwa 1/6 der Fläche von Soja.
 
-How the world got hooked on palm oil - [The Guardian (2019.02.19)](
+* How the world got hooked on palm oil - [The Guardian (2019.02.19)](
 https://www.theguardian.com/news/2019/feb/19/palm-oil-ingredient-biscuits-shampoo-environmental){:target="_blank"}   
 
 TODO   
