@@ -6,8 +6,8 @@
 
 Siehe [Palmöl (Nahrungsmittel)](../nahrung/palmoel.html)   
 
-[Wikipedia (de)](https://de.wikipedia.org/wiki/Palm%C3%B6l)){:target="_blank"}  
-[Wikipedia (en)](https://en.wikipedia.org/wiki/Palm_oil)){:target="_blank"}  
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Palm%C3%B6l){:target="_blank"}  
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Palm_oil){:target="_blank"}  
 
 ---
 
