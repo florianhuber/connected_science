@@ -19,3 +19,6 @@ Die [Internationale Arbeitsorganisation (ILO)](../organisationen/ilo.html) defin
 * [Barry Callebaut](../konzerne/barry_callebaut#kinderarbeit)
 * [Ferrero](../konzerne/ferrero#kinderarbeit)
 * [Nestlé](../konzerne/nestle#kinderarbeit)
+
+## Artikel zum Thema Kinderarbeit
+* 2019.10.21 - In Bolivien dürfen Kinder nicht mehr arbeiten - und das ist ein Problem [Spiegel online]](https://www.spiegel.de/politik/ausland/bolivien-und-seine-kinderarbeiter-zurueck-in-der-rechtlosigkeit-a-1289863.html){:target="_blank"}
