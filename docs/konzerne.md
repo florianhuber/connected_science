@@ -2,6 +2,14 @@
 
 # Konzerne
 
+## Agrar- und Chemieindustrie
+* [Bayer AG](konzerne/bayer_ag.html)
+* [ChemChina](konzerne/chemchina.html)
+* [Dow Chemical](konzerne/dow.html)
+* [DuPont de Nemours](konzerne/dupont.html)
+* [Monsanto](konzerne/monsanto.html)
+* [Syngenta](konzerne/syngenta.html)
+
 ## Bekleidungs- und Sportindustrie
 * [Adidas AG](konzerne/adidas_ag.html)
 * [H&M](konzerne/h&m.html)
@@ -47,6 +55,9 @@
 
 ## Pharma- und Medizinprodukte
 * [Johnson & Johnson](konzerne/johnson&johnson.html)
+
+
+
 
 ## Verbrauchsgüter
 * [Unilever](konzerne/unilever.html)

@@ -22,7 +22,7 @@ Siehe [Palmöl (Nahrungsmittel)](../nahrung/palmoel.html)
 * Palmölzertifikate sind wenig nachhaltig - [orf.at (2018.05.03)](https://science.orf.at/stories/2910708/){:target="_blank"}  
 
 
-## Fälle von Palmölverbrauch durch Konzerne
+## Unternehmen mit Bezug zu Palmölverbrauch
 * [Nestlé](../konzerne/nestle#palmoel)
 * [Palmöl: Nestlé und Mars brechen ihre Versprechen > Utopia (3.11.2017)](https://utopia.de/palmoel-nestle-mars-und-hershey-brechen-ihre-versprechen-68656/){:target="_blank"}  
 

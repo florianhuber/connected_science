@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Barry_Callebaut){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Barry_Callebaut){:target="_blank"}   
 
+* [Company profile at Forbes](https://www.forbes.com/companies/barry-callebaut/#701ab8414fac){:target="_blank"}
+
 ---
 
 > Barry Callebaut AG ist einer der grössten Schokoladenproduzenten der Welt.   

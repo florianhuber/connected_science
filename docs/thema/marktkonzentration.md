@@ -38,18 +38,27 @@ Die wenigen verbleibenden Anbieter stehen unter einem geringen Preisdruck und ve
 * Fortschreitende Unternehmenskonzentration kann möglicherweise selbstverstärkend wirken. Dominante Firmen haben eher die Macht, Konkurrenten aus dem Markt zu drängen (Dumpingpreise) oder Markteintrittsbarrieren für potenzielle Wettbewerber zu erhöhen.
 
 ## Thema Marktkonzentration in den Medien
-* [Mogelpackung Wettbewerb - Die Zeit (2003.04.23)](https://www.zeit.de/2003/18/Handelskonzentration_Kasten){:target="_blank"}
-* [Diese 9 Konzerne kontrollieren fast alles, was wir essen - Utopia (2018.11.29)](https://utopia.de/groesste-lebensmittelkonzerne-114604/){:target="_blank"}
+* 2003.04.23 - Mogelpackung Wettbewerb - [Die Zeit](https://www.zeit.de/2003/18/Handelskonzentration_Kasten){:target="_blank"}
+* 2018.11.29 - Diese 9 Konzerne kontrollieren fast alles, was wir essen - [Utopia](https://utopia.de/groesste-lebensmittelkonzerne-114604/){:target="_blank"}
 
 ## Marktkonzentration im Lebensmittelsektor
-[The Illusion of Choice in Consumer Brands - Visual Capitalist (2016.07.21)](https://www.visualcapitalist.com/illusion-of-choice-consumer-brands/){:target="_blank"}   
-* [Coca Cola Company](../konzerne/coca-cola_co.html)
-* [General Mills](../konzerne/general_mills.html)
-* [Kellogg Company](../konzerne/kellogg_company.html)
-* [Nestlé](../konzerne/nestle#marktkonzentration)
-* [Mars](../konzerne/mars_inc.html)
-* [Mondelēz International](../konzerne/mondelez_international.html)
-* [Unilever](../konzerne/unilever.html)
+* 2016.07.21 - The Illusion of Choice in Consumer Brands - [Visual Capitalist](https://www.visualcapitalist.com/illusion-of-choice-consumer-brands/){:target="_blank"}   
+Besprochene Konzerne:   
+  * [Coca Cola Company](../konzerne/coca-cola_co.html)
+  * [General Mills](../konzerne/general_mills.html)
+  * [Kellogg Company](../konzerne/kellogg_company.html)
+  * [Nestlé](../konzerne/nestle#marktkonzentration)
+  * [Mars](../konzerne/mars_inc.html)
+  * [Mondelēz International](../konzerne/mondelez_international.html)
+  * [Unilever](../konzerne/unilever.html)
+
+## Marktkonzentration im Saatgutsektor
+* 2016.09.20 - Six companies are about to merge into the biggest farm-business oligopoly in history - [Quartz] (https://qz.com/786382/monsanto-bayer-dupont-dow-chemical-and-syngenta-defend-their-coming-oligopoly-mon-dd-dow-syt/){:target="_blank"}
+Besprochene Konzerne:   
+  * [Bayer AG](../konzerne/bayer_ag.html) übernimmt [Monsanto](../konzerne/monsanto.html)
+  * [DuPont](../konzerne/dupont.html) übernimmt [Dow Chemical](../konzerne/dow.html)
+  * [ChemChina](../konzerne/chemchina.html) übernimmt [Syngenta](../konzerne/syngenta.html)
+
 
 ## Weitere Fälle von wirtschaftlicher Übermacht
 * [BlackRock](../konzerne/blackrock#marktkonzentration)

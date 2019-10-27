@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/The_Coca-Cola_Company){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/The_Coca-Cola_Company){:target="_blank"}   
 
+* [Company profile at Forbes](https://www.forbes.com/companies/coca-cola/#2d0c0846438c){:target="_blank"}      
+
 ---
 
 > .. ist ein US-amerikanischer Getränkehersteller mit Schwerpunkt auf Erfrischungsgetränke und Sitz in Atlanta, Georgia in den USA. CEO ist James Quincey.   
@@ -24,9 +26,10 @@ Im Juli 2001 wurde das Coca-Cola-Unternehmen wegen des angeblichen Einsatzes pol
 Vom Firmensitz von Coca-Cola in Atlanta aus sagte der Unternehmenssprecher Rafael Fernandez Quiros, "Coca-Cola bestreitet jegliche Verbindung zu Menschenrechtsverletzungen dieser Art" und fügte hinzu, "Wir besitzen oder betreiben die Anlagen nicht".
 
 ### <a name="verpackungsmuell"/><a name="dokumentation"/>[Verpackungsmüll](../thema/verpackungsmuell.html), [Dokumentation](../informationsquellen/dokumentationen.html)
+
 [Die Plastik-Invasion - Coca-Cola und der vermüllte Planet - ZDFinfo Doku (2019.05.15)](https://www.zdf.de/dokumentation/zdfinfo-doku/die-plastik-invasion-coca-cola-und-der-vermuellte-planet-104.html){:target="_blank"}   
-> Jede Sekunde werden weltweit zehn Tonnen Kunststoff produziert, davon landet ein Zehntel früher oder später in den Ozeanen.
+> Jede Sekunde werden weltweit zehn Tonnen Kunststoff produziert, davon landet ein Zehntel früher oder später in den Ozeanen.   
 
-## Coca Cola Company in den Medien
+2019.07.24 - Coca-Cola and Pepsico Are Breaking Free From Plastics Trade Group - [EcoWatch](https://www.ecowatch.com/coca-cola-pepsico-plastics-2639326311.html){:target="_blank"}   
 
-[Company profile at Forbes](https://www.forbes.com/companies/coca-cola/#2d0c0846438c){:target="_blank"}      
+2017.10.02 - Coca-Cola Produced More Than 110 Billion Plastic Bottles Last Year - [EcoWatch](https://www.ecowatch.com/coca-cola-plastic-bottles-2492093659.html){:target="_blank"}   

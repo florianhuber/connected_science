@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Amazon){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Amazon_(company)){:target="_blank"}   
 
+* [Company profile at Forbes](https://www.forbes.com/companies/amazon/#783876d76fb8){:target="_blank"}
+
 ---
 
 > Amazon.com, Inc. ist ein börsennotierter US-amerikanischer Onlineversandhändler mit einer breit gefächerten Produktpalette. Nach eigenen Angaben hat Amazon als Marktführer des Handels im Internet die weltweit größte Auswahl an Büchern, CDs und Videos. Über die integrierte Verkaufsplattform Marketplace können auch Privatpersonen oder andere Unternehmen im Rahmen des Onlinehandels neue und gebrauchte Produkte anbieten.

@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/BlackRock){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/BlackRock){:target="_blank"}   
 
+* [Company profile at Forbes](https://www.forbes.com/companies/blackrock/#685c63ca4216){:target="_blank"}
+
 ---
 
 > .. ist eine 1988 in New York City gegründete Fondsgesellschaft. Mit 6,84 Billionen US-Dollar (Stand: 30. Juni 2019, rund 6,2 Billionen €) verwalteten Vermögens stellt sie den größten unabhängigen Vermögensverwalter weltweit dar. Das von Laurence D. Fink geführte Anlage- und Risikomanagement-Unternehmen ist mit teils erheblichen Beteiligungen an allen 30 DAX-Unternehmen auch der mit Abstand größte Einzelaktionär an der Deutschen Börse. Das weltweite Geschäft mit Börsengehandelten Fonds (ETF) wird von BlackRocks Tochter iShares dominiert, die annähernd die Hälfte des Marktanteils auf sich vereint.   

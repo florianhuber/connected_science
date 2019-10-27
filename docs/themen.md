@@ -3,6 +3,7 @@
 # Themen
 
 * [Ausbeutung](thema/ausbeutung.html)
+* [Automatisierung](thema/automatisierung.html)
 * [Balance](thema/balance.html)
 * [Boykott](thema/boykott.html)
 * [Circular Economy](thema/circular_economy.html)
@@ -14,6 +15,7 @@
 * [Energieversorgung](thema/energieversorgung.html)
 * [Entwaldung](thema/entwaldung.html)
 * [Entwicklungshilfe](thema/entwicklungshilfe.html)
+* [Fast Fashion](thema/fast_fashion.html)
 * [Finanzierung von Kriegen](thema/finanzierung_von_krieg.html)
 * [Fleischkonsum](thema/fleischkonsum.html)
 * [Fleischproduktion](thema/fleischproduktion.html)
@@ -21,6 +23,7 @@
 * [Gemeinwohlökonomie](thema/gemeinwohloekonomie.html)
 * [Goldgewinnung](thema/goldgewinnung.html)
 * [Greenwashing](thema/greenwashing.html)
+* [Grüne Gentechnik](thema/gruene_gentechnik.html)
 * [Kakaoanbau](thema/kakaoanbau.html)
 * [Kapitalismus](thema/kapitalismus.html)
 * [Kinderarbeit](thema/kinderarbeit.html)

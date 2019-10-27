@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Cargill){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Cargill){:target="_blank"}   
 
+* [Company profile at Forbes](https://www.forbes.com/companies/cargill/#1775dd0a1960){:target="_blank"}
+
 ---
 
 > ... ist ein multinationales Unternehmen, dessen Hauptsitz sich in den USA befindet. Das Unternehmen befasst sich mit Lebens- und Futtermitteln sowie nachwachsenden Rohstoffen.   

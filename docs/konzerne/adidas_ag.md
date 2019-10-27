@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Adidas){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Adidas){:target="_blank"}   
 
+* [Company profile at Forbes](https://www.forbes.com/companies/adidas/#1a2729ba5e27){:target="_blank"}
+
 ---
 
 > ..ein international tätiger deutscher Sportartikelhersteller mit Sitz in Herzogenaurach.

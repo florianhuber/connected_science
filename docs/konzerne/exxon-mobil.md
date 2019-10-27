@@ -9,6 +9,10 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/ExxonMobil){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/ExxonMobil){:target="_blank"}   
 
+* [Ecowatch](https://www.ecowatch.com/tag/exxon){:target="_blank"}
+* [Forbes](https://www.forbes.com/companies/exxon-mobil/#f802e1601f07){:target="_blank"}
+* [Reuters](https://www.reuters.com/companies/XOM.N){:target="_blank"}
+
 ---
 
 > .. is an American multinational [oil and gas](../thema/oel-kohle-gas.html) corporation headquartered in Texas. It is the largest direct descendant of John D. Rockefeller's Standard Oil, and was formed on November 30, 1999 by the merger of Exxon (formerly the Standard Oil Company of New Jersey) and Mobil (formerly the Standard Oil Company of New York). ExxonMobil's primary brands are Exxon, Mobil, Esso, and ExxonMobil Chemical.   

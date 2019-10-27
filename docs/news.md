@@ -2,7 +2,7 @@
 
 # Nachrichten und Berichte
 
-* 2019.10.23 - Biete Waffen, suche Rohstoffe - [Spiegel online](https://www.spiegel.de/politik/ausland/wladimir-putin-und-der-afrika-gipfel-in-sotschi-biete-waffen-suche-rohstoffe-a-1292763.html)
+* 2019.10.23 - Biete Waffen, suche Rohstoffe - [Spiegel online](https://www.spiegel.de/politik/ausland/wladimir-putin-und-der-afrika-gipfel-in-sotschi-biete-waffen-suche-rohstoffe-a-1292763.html){:target="_blank"}   
 
 * 2019.10.21 - Umweltfreundliches [Fliegen](../thema/flugverkehr.html): "Das Kerosin ist dann grün" - [Wiener Zeitung](https://www.wienerzeitung.at/nachrichten/wirtschaft/international/2034689-Umweltfreundliches-Fliegen-Das-Kerosin-ist-dann-gruen.html){:target="_blank"}   
 

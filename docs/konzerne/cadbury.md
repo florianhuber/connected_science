@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cadbury.svg" height="200" alt="Cadbury logo">
 
-<a target="_blank" href="https://www.mondelezinternational.com/">official website</a>   
+[official website](https://www.mondelezinternational.com/){:target="_blank"}   
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Cadbury_plc">Wikipedia (de)</a>   
-<a target="_blank" href="https://en.wikipedia.org/wiki/Cadbury">Wikipedia (en)</a>   
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Cadbury_plc){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Cadbury){:target="_blank"}   
 
 ---
 

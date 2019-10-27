@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Apple){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Apple_Inc.){:target="_blank"}   
 
+* [Company profile at Forbes](https://www.forbes.com/companies/apple/#5ea91e435355){:target="_blank"}
+
 ---
 
 > .. ist ein US-amerikanischer Hard- und Softwareentwickler und ein Technologieunternehmen mit Hauptsitz im kalifornischen Cupertino, das Computer, Smartphones und Unterhaltungselektronik sowie Betriebssysteme und Anwendungssoftware entwickelt und vertreibt. Zudem betreibt es Internet-Vertriebsportale für Musik, Filme und Software.   
