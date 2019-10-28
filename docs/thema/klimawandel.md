@@ -19,3 +19,5 @@ Um herauszufinden, welchen Einfluss der Mensch auf die Zusammensetzung der Atmos
 [![Hoimar von Ditfurth : Der Ast auf dem wir sitzen - ZDF (1978) 2/2](https://img.youtube.com/vi/TETCYuxRNC4/0.jpg)](https://www.youtube.com/watch?v=TETCYuxRNC4){:target="_blank"}   
 
 [![Crash 2030 - Dokufiktion aus dem Jahr 1994 über die angebliche Bedrohung durch Klimawandel](https://img.youtube.com/vi/0KPOeFURZMw/0.jpg)](https://www.youtube.com/watch?v=0KPOeFURZMw){:target="_blank"}   
+
+* 2019.10.21 - Die Klimakatastrophe, erklärt in 11 Grafiken - [Moment] (https://www.moment.at/story/die-klimakatastrophe-erklaert-11-grafiken){:target="_blank"}

@@ -39,6 +39,7 @@
 * [Ökologische Landwirtschaft](thema/oeko_landwirtschaft.html)
 * [Öl, Kohle, Gas](thema/oel-kohle-gas.html)
 * [Palmölanbau](thema/palmoelanbau.html)
+* [Pestizide](thema/pestizide.html)
 * [Profit](thema/profit.html)
 * [Public Relations](thema/public-relations.html)
 * [Rebound](thema/rebound.html)
