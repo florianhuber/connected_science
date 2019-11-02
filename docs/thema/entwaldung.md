@@ -13,3 +13,6 @@ Entwaldung ist zudem gemeinsam mit der Verbrennung fossiler Brennstoffe eine der
 
 ## Unternehmen, die in Waldzerstörung involviert sind oder involviert waren:
 * [IKEA](../konzerne/ikea#waldzerstoerung)
+
+
+* 2019.11.01 - Holzmafia in Rumänien: Förster in Gefahr - [Spiegel Online](https://www.spiegel.de/panorama/justiz/holzmafia-in-rumaenien-zwei-morde-an-foerstern-a-1294047.html){:target="_blank"}   

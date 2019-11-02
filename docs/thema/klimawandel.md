@@ -21,3 +21,6 @@ Um herauszufinden, welchen Einfluss der Mensch auf die Zusammensetzung der Atmos
 [![Crash 2030 - Dokufiktion aus dem Jahr 1994 über die angebliche Bedrohung durch Klimawandel](https://img.youtube.com/vi/0KPOeFURZMw/0.jpg)](https://www.youtube.com/watch?v=0KPOeFURZMw){:target="_blank"}   
 
 * 2019.10.21 - Die Klimakatastrophe, erklärt in 11 Grafiken - [Moment] (https://www.moment.at/story/die-klimakatastrophe-erklaert-11-grafiken){:target="_blank"}
+
+## Klimawandel in den Medien
+* Thema Klimawandel in [Spiegel Online](https://www.spiegel.de/thema/klimawandel/){:target="_blank"}
