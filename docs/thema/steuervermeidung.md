@@ -9,3 +9,6 @@
 ## Unternehmen mit Bezug zu Steuervermeidung
 * [Amazon](../konzerne/amazon#steuervermeidung)
 * [Apple Inc.](../konzerne/apple_inc#steuervermeidung)
+
+
+* 2019.11.02 - Unruhe unter Großbritanniens Superreichen - [ORF.at](https://orf.at/stories/3142911/){:target="_blank"}   
