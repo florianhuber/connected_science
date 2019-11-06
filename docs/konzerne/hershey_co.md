@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/HersheyCo.svg" height="200" alt="The Hershey Company logo">
 
-<a target="_blank" href="http://www.thehersheycompany.com/">official website</a>   
+[official website](http://www.thehersheycompany.com){:target="_blank"}   
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Hershey_Company">Wikipedia (de)</a>   
-<a target="_blank" href="https://en.wikipedia.org/wiki/The_Hershey_Company">Wikipedia (en)</a>   
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Hershey_Company){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/The_Hershey_Company){:target="_blank"}   
 
 ---
 
