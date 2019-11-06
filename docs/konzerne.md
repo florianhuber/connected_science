@@ -14,6 +14,7 @@
 * [Adidas AG](konzerne/adidas_ag.html)
 * [H&M](konzerne/h&m.html)
 * [Vaude](konzerne/vaude.html)
+* [Zara](konzerne/zara.html)
 
 ## Elektronikindustrie
 * [Apple](konzerne/apple_inc.html)
