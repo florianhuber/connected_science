@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Vaude-Logo-2012.svg" height="200" alt="Vaude logo">   
 
-<a target="_blank" href="http://www.vaude.com/">official website</a>   
+[official website](http://www.vaude.com){:target="_blank"}   
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Vaude">Wikipedia (de)</a>   
-<a target="_blank" href="https://en.wikipedia.org/wiki/VAUDE">Wikipedia (en)</a>   
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Vaude){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/VAUDE){:target="_blank"}   
 
 ---
 

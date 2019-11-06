@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/P%26G_logo.png" height="200" alt="Procter & Gamble logo">   
 
-<a target="_blank" href="https://pg.com/">official website</a>   
+[official website](https://pg.com){:target="_blank"}   
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Procter_%26_Gamble">Wikipedia (de)</a>   
-<a target="_blank" href="https://en.wikipedia.org/wiki/Procter_%26_Gamble">Wikipedia (en)</a>   
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Procter_%26_Gamble){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Procter_%26_Gamble){:target="_blank"}   
 
 ---
 
@@ -25,8 +25,8 @@ Juli 2010 hat P&G die Marke Ambi Pur von der Sara Lee Corporation für 320 Milli
 Die Akquisitionen der letzten zwanzig Jahre zeigen, dass sich P&G zunehmend zu einem Schönheitspflege-Unternehmen entwickelt. Dies trägt dem Umstand Rechnung, dass in diesem Bereich deutlich höhere Wachstumsraten erzielt werden können als in den angestammten Geschäftsfeldern Waschmittel, Reinigungsprodukte, Windeln und Papierprodukte. Zudem wird in diesen weniger emotional besetzten Feldern die Abgrenzung der P&G-Markenartikel von Konkurrenzprodukten und Handelsmarken immer schwieriger, worunter die Margen leiden.
 
 ## Veräußerungen
-[Kellogg’s](../konzerne/kellogg_company.html) kauft die Marke Pringels von P&G für rund 2,7 Mrd. $ im Jahr 2012.
+[Kellogg’s](../konzerne/kellogg_company.html) kauft die Marke [Pringels](../marken/pringles.html) von P&G für rund 2,7 Mrd. $ im Jahr 2012.
 
 ## Procter & Gamble in den Medien
 
-* <a target="_blank" href="https://www.forbes.com/companies/procter-gamble/#337e0c3c4165">Company profile at Forbes</a>
+* [Company profile at Forbes](https://www.forbes.com/companies/procter-gamble/#337e0c3c4165){:target="_blank"}   

@@ -12,3 +12,7 @@
 ---
 
 > ..
+
+## ZZZ in den Medien
+
+(_22.11.2016_ - Independent) [ZZZ is making this and that](https://www.independent.co.uk/news/zzz is making this and that.html)
