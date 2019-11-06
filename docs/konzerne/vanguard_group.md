@@ -15,4 +15,5 @@
 
 ## Investments
 * [Chevron](../konzerne/chevron.html)
+* [ExxonMobil](../konzerne/exxon-mobil.html)
 * [Johnson & Johnson](../konzerne/johnson&johnson.html)
