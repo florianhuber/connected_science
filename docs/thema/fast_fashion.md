@@ -12,6 +12,6 @@
 * [H&M](../konzerne/h&m.html)
 
 
-_2019.10.27_ - H&M CEO Sees ‘Terrible’ Fallout as Consumer Shaming Spreads - [Bloomberg](https://www.bloomberg.com/news/articles/2019-10-27/h-m-ceo-sees-terrible-fallout-as-consumer-shaming-spreads?srnd=markets-vp){:target="_blank"}   
+_2019.10.27_ - Bloomberg - [H&M CEO Sees ‘Terrible’ Fallout as Consumer Shaming Spreads](https://www.bloomberg.com/news/articles/2019-10-27/h-m-ceo-sees-terrible-fallout-as-consumer-shaming-spreads?srnd=markets-vp){:target="_blank"}   
 
-_2019.10.20_ -  Ultrafast Fashion Wo Zara und H&M zu langsam sind [Spiegel Online](https://www.spiegel.de/wirtschaft/unternehmen/ultrafast-fashion-wenn-zara-und-h-m-zu-langsam-sind-a-1290385.html){:target="_blank"}   
+_2019.10.20_ - Spiegel Online - [Ultrafast Fashion Wo Zara und H&M zu langsam sind](https://www.spiegel.de/wirtschaft/unternehmen/ultrafast-fashion-wenn-zara-und-h-m-zu-langsam-sind-a-1290385.html){:target="_blank"}   
