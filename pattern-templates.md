@@ -10,6 +10,10 @@ or
 or, in pure html:   
 `<a href="http://www.youtube.com/watch?feature=player_embedded&v={ID}" target="_blank"><img src="https://img.youtube.com/vi/{ID}/0.jpg" alt="video on youtube" target="_blank" width="240" height="180" border="10" title="Video titel | quelle" /></a>`
 
+## news links
+(_22.11.2016_ - Independent) [ZZZ is making this and that](https://www.independent.co.uk/news/zzz is making this and that.html)
+
+
 ## List of headers
 ### Externe links
 * Dokumentationen zu ... -> links zu Videos
