@@ -9,7 +9,10 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/BP){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/BP){:target="_blank"}   
 
-* [Company profile at Forbes](https://www.forbes.com/companies/bp/#64552dc5384b){:target="_blank"}
+## Unternehmensprofile in den Medien
+* [Forbes](https://www.forbes.com/companies/bp/#64552dc5384b){:target="_blank"}
+* [Spiegel Online](https://www.spiegel.de/thema/bp/){:target="_blank"}
+
 ---
 
 > ..ist ein international tätiges, britisches Mineralölunternehmen mit Hauptsitz in London. Weltweit erwirtschaftete BP im Jahr 2012 einen Konzernumsatz von 396 Milliarden US-Dollar und beschäftigte 83.900 Menschen. Weltweit verfügt das Unternehmen über nachgewiesene Reserven in Höhe von 17,0 Mrd. Barrel Öläquivalent. Das Unternehmen besitzt rund 20.700 Tankstellen und bedient täglich 13 Millionen Kunden. Aufgrund einer nachhaltigen Ölkatastrophe – ausgelöst am 20. April 2010 von der BP-betriebenen Bohrplattform Deepwater Horizon im Golf von Mexiko – wurde das Unternehmen 2015 von der US-amerikanischen Umweltschutzbehörde USEPA zur Rekordstrafzahlung in Höhe von 20,8 Mrd. US-Dollar verurteilt.   

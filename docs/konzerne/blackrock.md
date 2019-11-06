@@ -9,7 +9,9 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/BlackRock){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/BlackRock){:target="_blank"}   
 
-* [Company profile at Forbes](https://www.forbes.com/companies/blackrock/#685c63ca4216){:target="_blank"}
+## Unternehmensprofile in den Medien
+* [Forbes](https://www.forbes.com/companies/blackrock/#685c63ca4216){:target="_blank"}
+* [Spiegel Online](https://www.spiegel.de/thema/blackrock/){:target="_blank"}
 
 ---
 

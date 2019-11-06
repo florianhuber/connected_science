@@ -9,7 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Cargill){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Cargill){:target="_blank"}   
 
-* [Company profile at Forbes](https://www.forbes.com/companies/cargill/#1775dd0a1960){:target="_blank"}
+## Unternehmensprofile in den Medien
+* [Forbes](https://www.forbes.com/companies/cargill/#1775dd0a1960){:target="_blank"}
 
 ---
 
@@ -24,3 +25,6 @@ Das Unternehmen beschäftigt 149.000 Personen in 70 Ländern.
 
 [Cargill Named "Worst Company in the World"](https://www.mightyearth.org/cargillreport){:target="_blank"}   
 > Die Umweltschutzorganisation Mighty Earth veröffentlichte im Juli 2019 einen Bericht zu Verfehlungen des Unternehmens und nannte es "das schlimmste Unternehmen der Welt"
+
+## Cargill in den Medienmanipulation
+(_2019.07.11_ - Spiegel Online) [Kritischer Bericht über Agrarkonzern Cargill - "Das schlimmste Unternehmen der Welt"](https://www.spiegel.de/wirtschaft/agrarkonzern-cargill-das-schlimmste-unternehmen-der-welt-a-1276654.html){:target="_blank"}   

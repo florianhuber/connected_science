@@ -9,7 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Berkshire_Hathaway){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Berkshire_Hathaway){:target="_blank"}   
 
-* [Company profile at Forbes](https://www.forbes.com/companies/berkshire-hathaway/#4e7a227bbef8){:target="_blank"}
+## Unternehmensprofile in den Medien
+* [Forbes](https://www.forbes.com/companies/berkshire-hathaway/#4e7a227bbef8){:target="_blank"}
 
 ---
 

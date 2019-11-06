@@ -9,7 +9,9 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Amazon){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Amazon_(company)){:target="_blank"}   
 
-* [Company profile at Forbes](https://www.forbes.com/companies/amazon/#783876d76fb8){:target="_blank"}
+## Unternehmensprofile in den Medien
+* [Forbes](https://www.forbes.com/companies/amazon/#783876d76fb8){:target="_blank"}
+* [Spiegel Online](https://www.spiegel.de/thema/amazon/){:target="_blank"}
 
 ---
 
