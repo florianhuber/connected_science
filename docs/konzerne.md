@@ -38,13 +38,14 @@
 * [Ferrero](konzerne/ferrero.html)
 * [General Mills](konzerne/general_mills.html)
 * [Green & Black's](konzerne/green_blacks.html)
-* [The Hershey Company](konzerne/hershey_co.html)
 * [Kellogg Company](konzerne/kellogg_company.html)
 * [Kraft Foods Inc.](konzerne/kraft_foods_inc.html)
 * [Mars Inc.](konzerne/mars_inc.html)
 * [McDonald's](konzerne/mcdonalds.html)
 * [Mondelēz International](konzerne/mondelez_international.html)
 * [Nestlé](konzerne/nestle.html)
+* [Storck KG](konzerne/storck_kg.html)
+* [The Hershey Company](konzerne/hershey_co.html)
 * [Zotter](konzerne/zotter_schokoladen_manufaktur.html)
 
 ## Öl-, Kohle- und Gasproduktion
