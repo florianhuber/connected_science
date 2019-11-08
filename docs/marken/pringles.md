@@ -4,13 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/7/71/Pringles.svg" height="200" alt="Pringles logo">
 
-<a target="_blank" href="https://www.pringles.com/">official website</a>   
+[official website](https://www.pringles.com){:target="_blank"}
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Pringles">Wikipedia (de)</a>   
-<a target="_blank" href="https://en.wikipedia.org/wiki/Pringles">Wikipedia (en)</a>   
-
-
-https://de.wikipedia.org/wiki/Pringles
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Pringles){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Pringles){:target="_blank"}   
 
 ---
 

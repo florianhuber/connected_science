@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/de/6/6d/Toblerone-Logo.svg" height="200" alt="Toblerone logo">
 
-<a target="_blank" href="http://www.toblerone.com/">official website</a>   
+[official website](http://www.toblerone.com/){:target="_blank"}
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Toblerone">Wikipedia (de)</a>   
-<a target="_blank" href="https://en.wikipedia.org/wiki/Toblerone">Wikipedia (en)</a>   
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Toblerone){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Toblerone){:target="_blank"}   
 
 ---
 
