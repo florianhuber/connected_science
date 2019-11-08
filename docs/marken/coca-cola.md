@@ -4,9 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Coca-Cola_logo.svg" height="200" alt="Coca-Cola logo">
 
-[official website](http://www.coca-cola.com/){:target="_blank"}
+[official website](http://www.coca-cola.com/){:target="_blank"}   
 
-[Wikipedia (de)](https://de.wikipedia.org/wiki/Coca-Cola){:target="_blank"}
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Coca-Cola){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Coca-Cola){:target="_blank"}   
 
 ---
 
@@ -27,6 +28,8 @@ Ballaststoffe | 0,0 g | 0,0%
 Natrium | 0 g | 0,0%
 Energie | 42,0 kcal / 175,8 kJ | 2,1%
 
+Die von der Weltgesundheitsorganisation WHO empfohlene Zuckerhöchstmenge am Tag liegt für Frauen bei 25 Gramm, für Männer bei 30 Gramm.   
+
 ## Kritik
 
 ### Zucker und Säure
@@ -44,6 +47,10 @@ Coca-Cola light enthält den Süßstoff Aspartam. Die FDA wertete eine große An
 
 Aspartam ist eine Phenylalaninquelle und darf von Menschen mit der Stoffwechselerkrankung Phenylketonurie nur in begrenzter Dosis eingenommen werden, da sie Phenylalanin im Körper nicht abbauen können. Deswegen wird auf den Flaschenetiketten bei Aspartam der Zusatz „enthält eine Phenylalaninquelle“ ergänzt.
 Ärzte raten Diabetikern vom Konsum gesüßter Getränke wie Cola-Cola light und Coke Zero ab, denn sie machen den Geschmackssinn unempfindlicher für Süße. Dadurch nimmt der Diabetiker bei seinen Mahlzeiten unbewusst erhöhte Mengen an Kohlenhydraten auf, wodurch solche Getränke indirekt zu einem im Schnitt höheren Blutzuckerspiegel führen.
+
+
+(Focus) [Von wegen gesund: Die "Cola Life" enthält eine Menge Zucker](https://www.focus.de/gesundheit/ernaehrung/gesunde-ernaehrung-essen-rezepte-stevia-softdrink-so-viel-ungesunden-zucker-enthaelt-die-cola-life_id_4683487.html){:target="_blank"}   
+> Acht Jahre nach der „Zero“-Version bringt Coca-Cola eine neue Variante auf den Markt: Coca-Cola „Life“. Softdrinks, die das pflanzliche Süßungsmittel Stevia enthalten, erwecken beim Verbraucher den Eindruck, sie seien zuckerarm. Doch das gesunde Image täuscht.
 
 ---
 
