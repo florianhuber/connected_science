@@ -25,3 +25,5 @@ Die Verbraucherorganisation Foodwatch kritisiert, der Hersteller der Milch-Schni
 [![Ferrero Check - WDR (2011))](http://img.youtube.com/vi/OPOqNoEOAjc/0.jpg)](https://www.youtube.com/watch?v=OPOqNoEOAjc "Ferrero Check - WDR (2011)"){:target="_blank"}   
 > Wie auch andere [Kakaounternehmen](../thema/kakaoanbau.html) steht Ferrero außerdem im Verdacht, [Ausbeutung](../thema/ausbeutung.html) und [Kinderarbeit](../thema/kinderarbeit.html) in seiner Produktionskette für Kakao und Haselnüsse zu tolerieren.    
 Ferrero gibt an, dass 2009/2010 ein Anteil von 10 % des verwendeten Kakaos aus zurückverfolgbaren, nachhaltigem Anbau komme. In der Sendung Ferrero Check des Senders WDR aus dem Jahre 2011 wird Ferrero eine „unzureichende“ Fairness attestiert. Ferrero habe kein einziges Produkt auf dem Markt gehabt, das als [Fair](../siegel/fair_trade_siegel.html) gekennzeichnet werden dürfe, ganz anders als etwa beim Konkurrenten [Mars Incorporated](../konzerne/mars_inc.html).   
+
+(Aktiv gegen Kinderarbeit) [Firmenseite über Ferrero](https://www.aktiv-gegen-kinderarbeit.de/firma/ferrero/){:target="_blank"}   

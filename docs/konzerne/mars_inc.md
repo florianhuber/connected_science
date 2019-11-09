@@ -19,3 +19,5 @@ Das Unternehmen ist an 421 Standorten in 78 Ländern vertreten und beschäftigt 
 
 ### <a name="umweltzerstoerung"/>[Umweltzerstörung](../thema/umweltzerstoerung.html)<a name="kinderarbeit"/>[Kinderarbeit](../thema/kinderarbeit.html)
 Laut der Studie Chocolate's Dark Secret der globalen Umweltschutzorganisation Mighty Earth stammt ein Großteil des von Mars und anderen großen Schokoladenproduzenten verarbeiteten Kakaos aus [illegalen Kakaoplantagen](../thema/kakaoanbau.html) in Nationalparks und anderen eigentlich unter Schutz stehenden Gebieten in der Elfenbeinküste und in Ghana. Mighty Earth wirft den Schokoladenproduzenten vor, durch Nachlässigkeit bei ihrer Rohstoffbeschaffung für das Verschwinden großer Waldflächen in diesen Ländern und somit für schwindende Bestände von Tierarten wie Schimpansen und Elefanten mit verantwortlich zu sein.   
+
+(Aktiv gegen Kinderarbeit) [Firmenseite über Mars Incorporated](https://www.aktiv-gegen-kinderarbeit.de/firma/mars/){:target="_blank"}   

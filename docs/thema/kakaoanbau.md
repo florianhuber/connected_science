@@ -36,6 +36,7 @@ In der investigativen TV-Dokumentation Schmutzige Schokolade II zeigt der dänis
 
 [Infoblatt 1: Die bittere Wahrheit über Schokolade](https://webshop.inkota.de/produkt/download-inkota-infoblaetter/infoblatt-1-die-bittere-wahrheit-ueber-schokolade){:target="_blank"}   
 
+(Wikipedia (en)) [Fair trade cocoa](https://en.wikipedia.org/wiki/Fair_trade_cocoa){:target="_blank"}   
 
 ## Problem Entwaldung
 * [Wie Schokoladenkonzerne die Regenwälder schützen wollen > Spiegel (04.03.2019)](https://www.spiegel.de/wirtschaft/kakaoanbau-schokoladenkonzerne-wollen-regenwald-schuetzen-a-1256049.html){:target="_blank"}   

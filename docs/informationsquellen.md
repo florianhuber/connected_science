@@ -7,6 +7,7 @@
 * [Übersicht über Dokumentationen](informationsquellen/dokumentationen.html)
 
 ## websites
+* [Aktiv gegen Kinderarbeit](informationsquellen/aktivgegenkinderarbeit.html)
 * [LobbyControl](informationsquellen/lobbycontrol.html)
 * [Rank a Brand](informationsquellen/rankabrand.html)
 

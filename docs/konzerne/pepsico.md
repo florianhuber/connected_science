@@ -22,3 +22,5 @@ PepsiCo besitzt neben den sechs großen Marken:
 * Frito-Lay
 * Quaker
 * Gatorade
+
+(Aktiv gegen Kinderarbeit) [Firmenseite über PepsiCo](https://www.aktiv-gegen-kinderarbeit.de/firma/pepsico/){:target="_blank"}   
