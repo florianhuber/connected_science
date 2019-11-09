@@ -20,5 +20,9 @@ Die [Internationale Arbeitsorganisation (ILO)](../organisationen/ilo.html) defin
 * [Ferrero](../konzerne/ferrero#kinderarbeit)
 * [Nestlé](../konzerne/nestle#kinderarbeit)
 
+## Themen mit Bezug zu Kinderarbeit
+* [Bananenanbau](../thema/bananenanbau.html)
+* [Kakaoanbau](..thema/kakaoanbau.html)
+
 ## Artikel zum Thema Kinderarbeit
-* 2019.10.21 - In Bolivien dürfen Kinder nicht mehr arbeiten - und das ist ein Problem [Spiegel online]](https://www.spiegel.de/politik/ausland/bolivien-und-seine-kinderarbeiter-zurueck-in-der-rechtlosigkeit-a-1289863.html){:target="_blank"}
+* (_2019.10.21_ - Spiegel Online) - [In Bolivien dürfen Kinder nicht mehr arbeiten - und das ist ein Problem](https://www.spiegel.de/politik/ausland/bolivien-und-seine-kinderarbeiter-zurueck-in-der-rechtlosigkeit-a-1289863.html){:target="_blank"}
