@@ -7,6 +7,8 @@ Unternehmen, die im Verdacht stehen, Ausbeutung und Kinderarbeit in ihrer Produk
 
 ---
 
+(öko-fair) [Bananen - Situation der Arbeiter und Bauern](http://www.oeko-fair.de/clever-konsumieren/essen-trinken/bananen/anbau-und-verarbeitung/konventioneller-anbau/situation-der-arbeiter-und-bauern/situation-der-arbeiter-und-bauern2){:target="_blank"}   
+
 ## Problem unfaire Arbeitsbedingungen, Sklaverei und Kinderarbeit
 
 * (_2012.08.22_ - NDR) [Der Preis der Bananen, 44:09 Minuten](https://www.youtube.com/watch?v=tAyJH9Cyt3w){:target="_blank"}   

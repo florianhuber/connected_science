@@ -21,7 +21,16 @@ In den Forbes Global 2000 der weltweit größten Unternehmen belegt Mondelēz In
 
 ---
 
-## Unilever in den Medien
+# Kritik
+
+Zahlreiche Kritiker werfen Mondelēz eine Gleichgültigkeit gegenüber den Vorwürfen vor, dass  Zulieferer von Rohstoffen offenbar Kinderarbeit und Ausbeutung von Arbeitern betreiben.   
+Die Reportage „Schmutzige Schokolade“ aus dem Jahre 2010 kommt zu dem Schluss, dass sich große Süßwarenhersteller (unter anderem auch Mondelēz, damals noch Kraft) der Kinderarbeit auf ihren Plantage in Westafrika zwar bewusst sind, aber zuwenig dagegen unternehmen.   
+Für den zweiten Teil der Dokumentation, welcher Ende 2012 veröffentlich worden ist, wurde überprüft, ob sich die Situation im den betroffenen Ländern mittlerweile verbessert hatte; dies war nicht der Fall. Die Journalisten kritisierten, „dass die weltweit agierenden Konzerne zwar viel Werbung mit Umdenken und Hilfen für afrikanische Kinder betreiben, dass in Wirklichkeit aber wenig vor Ort geschieht.“   
+Siehe [Ausbeutung im Kakaoanbau](../thema/kakaoanbau#ausbeutung)   
+
+(_2012.04.03_ - Aktiv gegen Kinderarbeit) [Firmenseite über Mondelēz](https://www.aktiv-gegen-kinderarbeit.de/firma/mondelez-vormals-kraft/){:target="_blank"}   
+
+## Mondelēz in den Medien
 * [The New York Times](https://www.nytimes.com/topic/company/mondelez-international-inc){:target="_blank"}   
 * [Reuters](https://www.reuters.com/finance/stocks/company-news/MDLZ.O){:target="_blank"}   
 * [EcoWatch](https://www.ecowatch.com/tag/mondelez){:target="_blank"}   

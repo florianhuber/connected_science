@@ -18,3 +18,5 @@ Rund 300 Tonnen biologischer Kakaobohnen und 150 Tonnen Kakaobutter werden dort 
 > Zotter is a bean-to-bar chocolate manufacturer and therefore carrying out the whole chocolate production process within the company on-site: from the roasting of the cocoa beans on rollers to the grinding in the conche. Thus, Zotter is the only company in Europe that produces chocolate from bean to bar using nothing but organic and fairtrade quality.
 
 ---
+
+(_2012.04.03_ - Aktiv gegen Kinderarbeit) [Firmenseite über Zotter](https://www.aktiv-gegen-kinderarbeit.de/firma/zotter/){:target="_blank"}   
