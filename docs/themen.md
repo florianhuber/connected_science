@@ -5,6 +5,7 @@
 * [Ausbeutung](thema/ausbeutung.html)
 * [Automatisierung](thema/automatisierung.html)
 * [Balance](thema/balance.html)
+* [Bananenanbau](thema/bananenanbau.html)
 * [Boykott](thema/boykott.html)
 * [Circular Economy](thema/circular_economy.html)
 * [Cleanup](thema/cleanup.html)
