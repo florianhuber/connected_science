@@ -2,7 +2,6 @@
 
 # Roundtable on Sustainable Palm Oil - RSPO
 
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FairTrade-Logo.svg/680px-FairTrade-Logo.svg.png" height="200" alt="Roundtable on Sustainable Palm Oil logo">
 
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Roundtable_on_Sustainable_Palm_Oil){:target="_blank"}   

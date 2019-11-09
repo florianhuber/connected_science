@@ -1,15 +1,23 @@
 [Themen](../themen.html)   
 
-# Kakaoanbau, Schokoladeproduktion
+# Kakaoanbau und Schokoladeproduktion
 
-Konventionalle Kakaounternehmen, die im Verdacht stehen, Ausbeutung und Kinderarbeit in seiner Produktionskette für Kakao zu tolerieren:   
+Innovative Schokoladenproduzenten, die aktiv faire Arbeitsbedingungen und nachhaltige Bewirtschaftung im Kakaoanbau anstreben:
+* [Alfred Ritter GmbH & Co. KG](../konzerne/ritter_gmbh.html)
+* [Lindt & Sprüngli](../konzerne/lindt_spruengli.html)
+* [Zotter Schokoladen Manufaktur](../konzerne/zotter_schokoladen_manufaktur.html)
+
+Konventionelle Kakaounternehmen, die im Verdacht stehen, Ausbeutung und Kinderarbeit in ihrer Produktionskette für Kakao zu tolerieren:   
 * [Barry Callebaut](../konzerne/barry_callebaut.html)
 * [Cadbury](../konzerne/cadbury.html)
+* [Ferrero](../konzerne/ferrero.html)
 * [Mars Inc.](../konzerne/mars_inc.html)
-* [Mondelēz](../konzerne/mondelez_international.html)
+* [Mondelēz International](../konzerne/mondelez_international.html)
 * [Nestlé](../konzerne/nestle.html)
 * [Storck](../konzerne/storck_kg.html)
 * [Unilever](../konzerne/unilever.html)
+
+(_2018.12.06_ - Die Zeit)[Deutsche essen Schokolade für gutes Gewissen](https://www.zeit.de/news/2018-12/06/deutsche-essen-schokolade-fuer-gutes-gewissen-181206-99-107837){:target="_blank"}   
 
 ---
 

@@ -31,19 +31,23 @@
 * [IKEA](konzerne/ikea.html)
 
 ## Nahrungsmittel- und Genussmittelindustrie
+* [Alfred Ritter GmbH & Co. KG](konzerne/ritter_gmbh.html)
 * [Barry Callebaut](konzerne/barry_callebaut.html)
 * [Cadbury](konzerne/cadbury.html)
 * [Cargill](konzerne/cargill.html)
 * [Coca-Cola Company](konzerne/coca-cola_co.html)
+* [Danone](konzerne/danone.html)
 * [Ferrero](konzerne/ferrero.html)
 * [General Mills](konzerne/general_mills.html)
 * [Green & Black's](konzerne/green_blacks.html)
 * [Kellogg Company](konzerne/kellogg_company.html)
 * [Kraft Foods Inc.](konzerne/kraft_foods_inc.html)
+* [Lindt & Sprüngli](konzerne/lindt_spruengli.html)
 * [Mars Inc.](konzerne/mars_inc.html)
 * [McDonald's](konzerne/mcdonalds.html)
 * [Mondelēz International](konzerne/mondelez_international.html)
 * [Nestlé](konzerne/nestle.html)
+* [PepsiCo](konzerne/pepsico.html)
 * [Storck KG](konzerne/storck_kg.html)
 * [The Hershey Company](konzerne/hershey_co.html)
 * [Zotter](konzerne/zotter_schokoladen_manufaktur.html)
@@ -57,9 +61,7 @@
 
 ## Pharma- und Medizinprodukte
 * [Johnson & Johnson](konzerne/johnson&johnson.html)
-
-
-
+* [Bayer AG](konzerne/bayer_ag.html)
 
 ## Verbrauchsgüter
 * [Unilever](konzerne/unilever.html)

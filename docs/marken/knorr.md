@@ -7,8 +7,7 @@
 [official website](http://www.knorr.de/){:target="_blank"}
 
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Knorr_(Lebensmittelhersteller)){:target="_blank"}   
-
-[Wikipedia (de)](https://en.wikipedia.org/wiki/Knorr_(brand)){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Knorr_(brand)){:target="_blank"}   
 
 ---
 
