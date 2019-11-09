@@ -17,6 +17,5 @@ Das Unternehmen ist der weltgrößte Anbieter von frischem Obst, frischem Gemüs
 
 # Kritik
 
-Dokumentarfilms „Bananas!*“ zu verhindern. Im Film wird Dole vorgeworfen, das giftige und damals in den USA schon verbotene Schädlingsbekämpfungsmittel DBCP illegal auf deren Plantagen angewendet zu haben. Im Juli 2009 erklärte Greenpeace, wer Produkte der Firma kaufe, leiste Beihilfe zur Zensur gegenüber kritischen Medien.[8] Die Methoden von Dole mittels umfassenden wirtschaftlichen und juristischen Druck freien Journalismus zu unterdrücken und die Arbeiter mundtot zu machen werden in dem Film "Big boys gone bananas!" von 2011 dargestellt.
-
-Die Autoren des Schwarzbuch Markenfirmen werfen dem Konzern „Ausbeutung von Plantagearbeitern, Einsatz von gefährlichen Pflanzengiften und Kinderarbeit“ vor.
+Dokumentarfilms „Bananas!*“ zu verhindern. Im Film wird Dole vorgeworfen, das giftige und damals in den USA schon verbotene Schädlingsbekämpfungsmittel DBCP illegal auf deren Plantagen angewendet zu haben. Im Juli 2009 erklärte [Greenpeace](../organisationen/greenpeace.html), wer Produkte der Firma kaufe, leiste Beihilfe zur Zensur gegenüber kritischen Medien. Die Methoden von Dole mittels umfassenden wirtschaftlichen und juristischen Druck freien Journalismus zu unterdrücken und die Arbeiter mundtot zu machen werden in dem Film "Big boys gone bananas!" von 2011 dargestellt.   
+Die Autoren des [Schwarzbuch Markenfirmen](../informationsquellen/schwarzbuch_markenfirmen.html) werfen dem Konzern „Ausbeutung von Plantagearbeitern, Einsatz von gefährlichen Pflanzengiften und [Kinderarbeit](../thema/kinderarbeit.html)“ vor.
