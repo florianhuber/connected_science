@@ -8,8 +8,6 @@
 
 > .. bezeichnet ein Geschäftsmodell des Textilhandels, bei dem die Kollektion laufend geändert und die Zeit von den neuesten Designs der Modeschöpfer zur Massenware in den Filialen stark verkürzt wird. Die stetige Veränderung des Sortiments soll die Kunden dazu bewegen, die Verkaufsflächen immer wieder aufzusuchen. Durch Auswerten von Abverkaufsdaten und schneller Reaktion auf diese (Quick Response) kann der Umsatz weiter erhöht werden. Dies stellt Warenwirtschaftssysteme vor Herausforderungen, die von größeren Unternehmen wie Inditex oder H&M jedoch bereits gemeistert werden.   
 
-
-
 ## Unternehmen mit Bezug zu Fast Fashion
 * [H&M](../konzerne/h&m.html)
 * [Zara](../marken/zara.html)

@@ -17,5 +17,4 @@ Siehe auch:
 
 > ... bezeichnet als Anglizismus (aus dem englischen „agriculture“ und „business“) neben der Landwirtschaft auch die ihr vor- und nachgelagerten wirtschaftlichen Aktivitäten. Gemeinsam bilden sie eine Wertschöpfungskette. Dieses Gesamtsystem wird als Agribusiness oder Agrar- und Ernährungswirtschaft, seltener auch als Nahrungswirtschaft oder im englischen als Food Chain, Food Supply Chain, Food Value Chain bzw. Food System bezeichnet.
 
-
 (GEO) [Lebensmittelproduktion - Die Macht der Lebensmittel-Giganten](https://www.geo.de/natur/oekologie/3329-rtkl-lebensmittelproduktion-die-macht-der-lebensmittel-giganten){:target="_blank"}   
