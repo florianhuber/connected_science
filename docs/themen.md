@@ -2,6 +2,7 @@
 
 # Themen
 
+* [Agribusiness](thema/agribusiness.html)
 * [Ausbeutung](thema/ausbeutung.html)
 * [Automatisierung](thema/automatisierung.html)
 * [Balance](thema/balance.html)

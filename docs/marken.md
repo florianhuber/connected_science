@@ -36,3 +36,4 @@ Marke | Markeneigner
 [Oreo](marken/oreo.html) | [Mondelēz International](konzerne/mondelez_international.html)
 [Pringles](marken/pringles.html) | [Kellog Company](konzerne/kellog_company.html)
 [Toblerone](marken/toblerone.html) | [Mondelēz International](konzerne/mondelez_international.html)
+[Zara](marken/zara.html) | [Inditex](konzerne/inditex.html)
