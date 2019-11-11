@@ -53,11 +53,11 @@ Besprochene Konzerne:
   * [Unilever](../konzerne/unilever.html)
 
 ## Marktkonzentration im Saatgutsektor
-* 2016.09.20 - Six companies are about to merge into the biggest farm-business oligopoly in history - [Quartz] (https://qz.com/786382/monsanto-bayer-dupont-dow-chemical-and-syngenta-defend-their-coming-oligopoly-mon-dd-dow-syt/){:target="_blank"}
-Besprochene Konzerne:   
-  * [Bayer AG](../konzerne/bayer_ag.html) übernimmt [Monsanto](../konzerne/monsanto.html)
-  * [DuPont](../konzerne/dupont.html) übernimmt [Dow Chemical](../konzerne/dow.html)
-  * [ChemChina](../konzerne/chemchina.html) übernimmt [Syngenta](../konzerne/syngenta.html)
+(_2016.09.20_ - Quartz) [Six companies are about to merge into the biggest farm-business oligopoly in history](https://qz.com/786382/monsanto-bayer-dupont-dow-chemical-and-syngenta-defend-their-coming-oligopoly-mon-dd-dow-syt/){:target="_blank"}   
+> Besprochene Konzerne:   
+[Bayer AG](../konzerne/bayer_ag.html) übernimmt [Monsanto](../konzerne/monsanto.html)   
+[DuPont](../konzerne/dupont.html) übernimmt [Dow Chemical](../konzerne/dow.html)   
+[ChemChina](../konzerne/chemchina.html) übernimmt [Syngenta](../konzerne/syngenta.html)   
 
 
 ## Weitere Fälle von wirtschaftlicher Übermacht

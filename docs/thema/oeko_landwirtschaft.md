@@ -12,4 +12,4 @@ Im Unterschied zur [konventionellen Landwirtschaft](../thema/konventionelle_land
 
 ---
 
-* 2019.10.22 - Klimakiller Ökolandbau? - [Spiegel online](https://www.spiegel.de/wissenschaft/natur/klimawandel-volle-umstellung-auf-oeko-landbau-bedeutet-mehr-emissionen-a-1292748.html)
+(_2019.10.22_ - Spiegel Online) [Klimakiller Ökolandbau?](https://www.spiegel.de/wissenschaft/natur/klimawandel-volle-umstellung-auf-oeko-landbau-bedeutet-mehr-emissionen-a-1292748.html)

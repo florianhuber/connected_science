@@ -18,9 +18,8 @@ Siehe [Palmöl (Nahrungsmittel)](../nahrung/palmoel.html)
 ## Probleme
 ## <a name="umweltzerstoerung"/>[Umweltzerstörung](../thema/umweltzerstoerung.html) durch Palmölanbau
 
-* Palmöl und Co verbrauchen riesige Flächen - [orf.at (2019.04.15)](https://science.orf.at/stories/2976199/){:target="_blank"}  
-* Palmölzertifikate sind wenig nachhaltig - [orf.at (2018.05.03)](https://science.orf.at/stories/2910708/){:target="_blank"}  
-
+(_2019.04.15_ - orf.at) [Palmöl und Co verbrauchen riesige Flächen](https://science.orf.at/stories/2976199/){:target="_blank"}   
+(_2018.05.03_ - orf.at) [Palmölzertifikate sind wenig nachhaltig](https://science.orf.at/stories/2910708/){:target="_blank"}   
 
 ## Unternehmen mit Bezug zu Palmölverbrauch
 * [Nestlé](../konzerne/nestle#palmoel)
