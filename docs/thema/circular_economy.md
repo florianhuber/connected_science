@@ -1,3 +1,5 @@
+[Themen](../themen.html)
 
+# Circular Economy
 
-https://www.visualcapitalist.com/the-circular-economy-redesigning-our-planets-future/
+Siehe [Kreislaufwirtschaft](../thema/kreislaufwirtschaft.html)
