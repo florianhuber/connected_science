@@ -1,8 +1,8 @@
 [Themen](../themen.html)   
 
-# Public Relations, Öffentlichkeitsarbeit
+# Rebound Effekt
 
-[Rebound Effekt](https://de.wikipedia.org/wiki/Rebound-Effekt_(%C3%96konomie)){:target="_blank"}  
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Rebound-Effekt_(%C3%96konomie)){:target="_blank"}  
 
 ---
 

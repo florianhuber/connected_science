@@ -6,7 +6,6 @@
 
 * [Coca-Cola Company](../konzerne/coca-cola_co#verpackungsmuell)
 
-
 (_2018.10.09_ - EcoWatch) [10 Worst Plastic Polluting Companies Found by Global Cleanups](https://www.ecowatch.com/worst-plastic-polluting-companies-2611144880.html){:target="_blank"}   
 > .. 10 Hauptverursacher von Plastikmüll, gefunden bei cleanup Aktionen:
 * [Coca-Cola](../konzerne/coca-cola_co.html)
@@ -24,3 +23,5 @@
 > Die Autorin geht der Frage nach, woher der Plastikmüll in ihrem Alltag kommt. Sie
  sammelt eine Woche lang den Müll, untersucht und systematisiert ihn dann am Ende des Experimentes.   
  Zuletzt gibt die Autorin dann noch ein paar persönliche Tipps, wie man ein wenig das tägliche Verpackungsaufkommen reduzieren kann.
+
+(_2018.05.15_ - Manager Magazin) [Was Unilever, Henkel und Co gegen Plastikmüll tun - Die Plastik-Zwickmühle](https://www.manager-magazin.de/unternehmen/industrie/plastikmuell-was-henkel-unilever-und-p-g-tun-a-1207800.html){:target="_blank"}   
