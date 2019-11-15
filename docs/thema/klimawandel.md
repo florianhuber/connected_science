@@ -25,5 +25,8 @@ Um herauszufinden, welchen Einfluss der Mensch auf die Zusammensetzung der Atmos
 ## Klimawandel in den Medien
 * Thema Klimawandel in [Spiegel Online](https://www.spiegel.de/thema/klimawandel/){:target="_blank"}
 
-(2019.11.11 - bento) [Zwischen Depression und Angst: Wie gehe ich mit meinen Gefühlen zum Klimawandel um?](https://www.bento.de/gefuehle/klimawandel-wie-mit-klimaangst-umgehen-zwischen-depression-und-angst-a-4f8e32c7-ea49-4644-a611-3baf714e7c73#refsponi){:target="_blank"}
+(2019.11.11 - bento) [Zwischen Depression und Angst: Wie gehe ich mit meinen Gefühlen zum Klimawandel um?](https://www.bento.de/gefuehle/klimawandel-wie-mit-klimaangst-umgehen-zwischen-depression-und-angst-a-4f8e32c7-ea49-4644-a611-3baf714e7c73#refsponi){:target="_blank"}   
 > Wie geht man am besten mit diesen Gefühlen zum Klimawandel um? Wie bleibt man trotz der Weltuntergangsszenarien positiv?
+
+(2019.08.31 - Spiegel Online) [Die Menschheit verliert die Kontrolle über den Zustand der Erde](https://www.spiegel.de/wissenschaft/mensch/klima-die-menschheit-verliert-die-kontrolle-ueber-den-zustand-der-erde-a-1284286.html){:target="_blank"}   
+> Gastbeitrag von Stefan Rahmstorf - Beschreibung von Kipppunkten, die bereits überschritten scheinen. Konkret beschrieben wird das Korallensterben am Great Barrier Reed und die Abwehrhaltung der Regierung in Australien.
