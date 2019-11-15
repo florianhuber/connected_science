@@ -7,8 +7,8 @@ Siehe auch [Greenwashing](../thema/greenwashing.html)
 
 ---
 
-[Wikipedia (de)](https://de.wikipedia.org/wiki/Desinformation)   
-[Wikipedia (en)](https://en.wikipedia.org/wiki/Disinformation)   
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Desinformation){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Disinformation){:target="_blank"}   
 
 ---
 > ... ist die gezielte Verbreitung falscher oder irreführender Informationen. Motivation der Desinformation ist meist die Beeinflussung der öffentlichen Meinung bzw. von Gruppen oder Einzelpersonen, um ein bestimmtes politisches oder wirtschaftliches Anliegen des Verbreitenden zu unterstützen.   

@@ -14,6 +14,7 @@
 * [Desinformation](thema/desinformation.html)
 * [Dürre](thema/duerre.html)
 * [Elektromobilität](thema/elektromobilitaet.html)
+* [Elektroschrott](thema/elektroschrott.html)
 * [Energieversorgung](thema/energieversorgung.html)
 * [Entwaldung](thema/entwaldung.html)
 * [Entwicklungshilfe](thema/entwicklungshilfe.html)
