@@ -10,6 +10,7 @@
 * [Boykott](thema/boykott.html)
 * [Circular Economy](thema/circular_economy.html)
 * [Cleanup](thema/cleanup.html)
+* [CO2 Emissionen](thema/co2_emissionen.html)
 * [CO2 Kompensation](thema/co2_kompensation.html)
 * [Desinformation](thema/desinformation.html)
 * [Dürre](thema/duerre.html)
