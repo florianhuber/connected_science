@@ -14,8 +14,6 @@
 
 * 2019.10.09. - [Atmosfair](organisationen/atmosfair.html) streicht [CO2-Kompensation](thema/co2_kompensation.html) für [Kreuzfahrten](thema/tourismus.html) - [Spiegel online](https://www.spiegel.de/reise/aktuell/atmosfair-streicht-co2-kompensation-fuer-kreuzfahrten-a-1290671.html){:target="_blank"}   
 
-* 2019.08.26. - Opioidkrise: [Johnson & Johnson](/konzerne/johnson&johnson.html) muss 572 Mio. Dollar zahlen - [orf.at](https://orf.at/#/stories/3135037/){:target="_blank"}   
-
 * 2017.02.06. - Studie wirft [H&M](konzerne/h&m.html) [Kinderarbeit](probleme/kinderarbeit.html) vor - [Spiegel online](
 https://www.spiegel.de/wirtschaft/service/h-m-primark-takko-studie-wirft-modeketten-kinderarbeit-in-burma-vor-a-1133370.html){:target="_blank"}   
 
