@@ -5,6 +5,7 @@
 * [Agribusiness](thema/agribusiness.html)
 * [Ausbeutung](thema/ausbeutung.html)
 * [Automatisierung](thema/automatisierung.html)
+* [Autos](thema/autos.html)
 * [Balance](thema/balance.html)
 * [Bananenanbau](thema/bananenanbau.html)
 * [Boykott](thema/boykott.html)
