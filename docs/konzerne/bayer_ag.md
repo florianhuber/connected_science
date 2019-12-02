@@ -19,4 +19,4 @@
 
 ---
 
-(_2019.11.28_ - Bloomberg) **[Bayer Criticizes Mexico for Blocking Imports of Herbicide]**{https://www.bloomberg.com/news/articles/2019-11-28/bayer-criticizes-mexico-for-blocking-imports-of-herbicide?srnd=materials}{:target="_blank"}   
+(_2019.11.28_ - Bloomberg) **[Bayer Criticizes Mexico for Blocking Imports of Herbicide]**(https://www.bloomberg.com/news/articles/2019-11-28/bayer-criticizes-mexico-for-blocking-imports-of-herbicide?srnd=materials){:target="_blank"}   
