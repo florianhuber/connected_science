@@ -34,6 +34,7 @@ Marke | Markeneigner
 [Milka](marken/milka.html) | [Mondelēz International](konzerne/mondelez_international.html)
 [Nutella](marken/nutella.html) | [Ferrero](konzerne/ferrero.html)
 [Oreo](marken/oreo.html) | [Mondelēz International](konzerne/mondelez_international.html)
+[Philadelphia](marken/philadelphia.html) | [The_Kraft_Heinz_Company](konzerne/kraft_heinz_co.html)
 [Pringles](marken/pringles.html) | [Kellog Company](konzerne/kellog_company.html)
 [Toblerone](marken/toblerone.html) | [Mondelēz International](konzerne/mondelez_international.html)
 [Zara](marken/zara.html) | [Inditex](konzerne/inditex.html)
