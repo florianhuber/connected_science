@@ -27,3 +27,8 @@ Die Verbraucherorganisation Foodwatch kritisiert, der Hersteller der Milch-Schni
 Ferrero gibt an, dass 2009/2010 ein Anteil von 10 % des verwendeten Kakaos aus zurückverfolgbaren, nachhaltigem Anbau komme. In der Sendung Ferrero Check des Senders WDR aus dem Jahre 2011 wird Ferrero eine „unzureichende“ Fairness attestiert. Ferrero habe kein einziges Produkt auf dem Markt gehabt, das als [Fair](../siegel/fair_trade_siegel.html) gekennzeichnet werden dürfe, ganz anders als etwa beim Konkurrenten [Mars Incorporated](../konzerne/mars_inc.html).   
 
 (Aktiv gegen Kinderarbeit) [Firmenseite über Ferrero](https://www.aktiv-gegen-kinderarbeit.de/firma/ferrero/){:target="_blank"}   
+
+[Ferrero und Nachhaltigkeit](https://www.ferrerocsr.com/index.php?lang=EN){:target="_blank"}   
+
+### <a name="palmoelanbau"/>[Palmölanbau](../thema/palmoelanbau.html)
+[WWF Ranking: Ferrero’s palm oil is the most sustainable in the industry](https://www.ferrerocsr.com/fc-3952?newsRVP=1487){:target="_blank"}   
