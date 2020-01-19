@@ -21,6 +21,7 @@ Mit einem Umsatz von 60,6 Mrd. US-Dollar, bei einem Gewinn von 6,9 Mrd. USD, ste
 Eine kleine Auswahl bekannter Unilever Marken im deutschsprachigen Raum:   
 * [Bertolli](../marken/bertolli.html)
 * [Knorr](../marken/knorr.html)
+* [Langnese](../marken/langnese.html)
 
 ## Kritik an Unilever
 

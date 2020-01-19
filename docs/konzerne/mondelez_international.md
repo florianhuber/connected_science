@@ -20,8 +20,13 @@ In den Forbes Global 2000 der weltweit größten Unternehmen belegt Mondelēz In
 [wikipedia Category:Mondelēz brands](https://en.wikipedia.org/wiki/Category:Mondel%C4%93z_brands)
 
 ---
+Eine kleine Auswahl bekannter Mondelēz Marken im deutschsprachigen Raum:   
+* [Milka](../marken/milka.html)
+* [Oreo](../marken/oreo.html)
+* [Philadelphia](../marken/philadelphia.html)
+* [Toblerone](../marken/toblerone.html)
 
-# Kritik
+# Kritik an Mondelēz
 
 Zahlreiche Kritiker werfen Mondelēz eine Gleichgültigkeit gegenüber den Vorwürfen vor, dass  Zulieferer von Rohstoffen offenbar Kinderarbeit und Ausbeutung von Arbeitern betreiben.   
 Die Reportage „Schmutzige Schokolade“ aus dem Jahre 2010 kommt zu dem Schluss, dass sich große Süßwarenhersteller (unter anderem auch Mondelēz, damals noch Kraft) der Kinderarbeit auf ihren Plantage in Westafrika zwar bewusst sind, aber zuwenig dagegen unternehmen.   
