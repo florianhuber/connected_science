@@ -23,6 +23,9 @@ Eine kleine Auswahl bekannter Nestlé Marken im deutschsprachigen Raum:
 * [Häagen-Dazs](../marken/haeagen-dazs.html)
 * [Kitkat](../marken/kitkat.html)
 
+## Nestlé in den Medien
+(_2019.06.05_ - orange handelsblatt) [Warum Nestlé so unbeliebt ist](https://orange.handelsblatt.com/artikel/40262){:target="_blank"}   
+> Der Lebensmittelhersteller Nestlé steht ständig in der Kritik: Wasserausbeutung! Regenwaldzerstörung! Ungesunde Babynahrung! Wir zeigen dir, was hinter den Skandalen steckt – und was Nestlé dazu sagt.   
 
 ## Kritik an Nestlé
 
