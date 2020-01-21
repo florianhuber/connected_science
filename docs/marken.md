@@ -35,6 +35,7 @@ Marke | Markeneigner
 [Langnese](marken/langnese.html) | [Unilever](konzerne/unilever.html)
 [Manner](marken/manner.html) | [Manner AG](konzerne/manner.html)
 [Milka](marken/milka.html) | [Mondelēz International](konzerne/mondelez_international.html)
+[Nespresso](marken/nespresso.html) | [Nestlé](konzerne/nestle.html)
 [Napoli](marken/napoli.html) | [Manner AG](konzerne/manner.html)
 [Nutella](marken/nutella.html) | [Ferrero](konzerne/ferrero.html)
 [Oreo](marken/oreo.html) | [Mondelēz International](konzerne/mondelez_international.html)

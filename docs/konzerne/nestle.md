@@ -22,6 +22,7 @@ Eine kleine Auswahl bekannter Nestlé Marken im deutschsprachigen Raum:
 * [Buitoni](../marken/buitoni.html)
 * [Häagen-Dazs](../marken/haeagen-dazs.html)
 * [Kitkat](../marken/kitkat.html)
+* [Nespresso](../marken/nespresso.html)
 
 ## Nestlé in den Medien
 (_2019.06.05_ - orange handelsblatt) [Warum Nestlé so unbeliebt ist](https://orange.handelsblatt.com/artikel/40262){:target="_blank"}   
