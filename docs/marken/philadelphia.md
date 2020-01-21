@@ -4,9 +4,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/de/f/f1/Philadelphia-Logo.svg" height="200" alt="Philadelphia logo">
 
-<a target="_blank" href="http://www.philadelphia.de/">official website</a>   
+[official website](http://www.philadelphia.de/){:target="_blank"}
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Philadelphia_(Frischk%C3%A4se)">Wikipedia (de)</a>   
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Philadelphia_(Frischk%C3%A4se)){:target="_blank"}   
 
 ---
 > ... ist eine Frischkäsezubereitung der Doppelrahmstufe, hergestellt von [Mondelēz International](../konzerne/mondelez_international.html) und [The Kraft Heinz Company].    
