@@ -42,6 +42,7 @@ Marke | Markeneigner
 [Philadelphia](marken/philadelphia.html) | [Mondelēz International](konzerne/mondelez_international.html)
 [Pringles](marken/pringles.html) | [Kellog Company](konzerne/kellog_company.html)
 [S.Pellegrino](marken/san-pellegrino.html) | [Nestlé](konzerne/nestle.html)
+[Smarties](marken/smarties.html) | [Nestlé](konzerne/nestle.html)
 [Schöller](marken/schoeller.html) | [Nestlé](konzerne/nestle.html)
 [Toblerone](marken/toblerone.html) | [Mondelēz International](konzerne/mondelez_international.html)
 [Zara](marken/zara.html) | [Inditex](konzerne/inditex.html)
