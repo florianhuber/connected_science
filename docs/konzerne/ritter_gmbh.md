@@ -18,6 +18,11 @@
 Der Schokoladenhersteller hat eine eigene Kakaoplantage in Nicaragua angelegt. Ritter Sport bezeichnet die Anlage als „größte zusammenhängende Kakaoplantage der Welt“.   
 Obwohl das Unternehmen seit 1990 auch ökologisch wirtschaftende Kooperativen Kakao produzierender Bauern in Nicaragua unterstützt, wurde bisher kein Fair-Trade-Siegel beantragt.   
 
+[Ritter Sport und Nachhaltigkeit](https://www.ritter-sport.de/de/familienunternehmen/nachhaltigkeit.html){:target="_blank"}   
+[Kooperation mit Fairtrade](https://www.fairtrade-deutschland.de/was-ist-fairtrade/fairtrade-siegel/fairtrade-rohstoff-partner/ritter-sport.html){:target="_blank"}   
+
+---
+
 (_2018.03.27_ - Greenpeace Magazin) [Alfred Ritter: «Den besten Kakao kriege ich nicht mit Sklaven»](https://www.greenpeace-magazin.de/ticker/alfred-ritter-den-besten-kakao-kriege-ich-nicht-mit-sklaven){:target="_blank"}
 
 (_2018.03.14_ - Stuttgarter Zeitung) - [Plantage in Nicaragua | Wo der Kakao für Ritter Sport herkommt](https://www.stuttgarter-zeitung.de/inhalt.plantage-in-nicaragua-wo-der-kakao-fuer-ritter-sport-herkommt.e3c6f2bf-6d1e-4318-8e9e-779001286db6.html){:target="_blank"}   

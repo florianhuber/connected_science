@@ -42,6 +42,8 @@
 * [Green & Black's](konzerne/green_blacks.html)
 * [Kellogg Company](konzerne/kellogg_company.html)
 * [Kraft Foods Inc.](konzerne/kraft_foods_inc.html)
+* [Josef Manner & Comp. AG](konzerne/manner.html)
+* [The Kraft Heinz Company](konzerne/kraft_heinz_co.html)
 * [Lindt & Sprüngli](konzerne/lindt_spruengli.html)
 * [Mars Inc.](konzerne/mars_inc.html)
 * [McDonald's](konzerne/mcdonalds.html)

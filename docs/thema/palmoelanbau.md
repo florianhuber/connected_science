@@ -6,8 +6,8 @@
 
 Siehe [Palmöl (Nahrungsmittel)](../nahrung/palmoel.html)   
 
-[Wikipedia (de)](https://de.wikipedia.org/wiki/Palm%C3%B6l){:target="_blank"}  
-[Wikipedia (en)](https://en.wikipedia.org/wiki/Palm_oil){:target="_blank"}  
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Palm%C3%B6l){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Palm_oil){:target="_blank"}   
 
 ---
 
@@ -23,6 +23,7 @@ Siehe [Palmöl (Nahrungsmittel)](../nahrung/palmoel.html)
 
 ## Unternehmen mit Bezug zu Palmölverbrauch
 * [Nestlé](../konzerne/nestle#palmoel)
+* [Ferrero](../konzerne/ferrero#palmoelanbau)
 * [Palmöl: Nestlé und Mars brechen ihre Versprechen > Utopia (3.11.2017)](https://utopia.de/palmoel-nestle-mars-und-hershey-brechen-ihre-versprechen-68656/){:target="_blank"}  
 
 ## Palmölfreie Alternativen

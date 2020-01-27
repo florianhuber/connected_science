@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Milka_Logo.svg" height="200" alt="Milka logo">
 
-<a target="_blank" href="http://www.milka.de/">official website</a>   
+[official website](http://www.milka.de/){:target="_blank"}   
 
-<a target="_blank" href="https://de.wikipedia.org/wiki/Milka_(Marke)">Wikipedia (de)</a>   
-<a target="_blank" href="https://en.wikipedia.org/wiki/Milka">Wikipedia (en)</a>
+[Wikipedia (de)](https://de.wikipedia.org/wiki/Milka_(Marke)){:target="_blank"}   
+[Wikipedia (en)](https://en.wikipedia.org/wiki/Milka){:target="_blank"}   
 
 ---
 
