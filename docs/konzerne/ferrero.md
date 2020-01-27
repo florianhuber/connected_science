@@ -26,6 +26,12 @@ Die Verbraucherorganisation Foodwatch kritisiert, der Hersteller der Milch-Schni
 > Wie auch andere [Kakaounternehmen](../thema/kakaoanbau.html) steht Ferrero außerdem im Verdacht, [Ausbeutung](../thema/ausbeutung.html) und [Kinderarbeit](../thema/kinderarbeit.html) in seiner Produktionskette für Kakao und Haselnüsse zu tolerieren.    
 Ferrero gibt an, dass 2009/2010 ein Anteil von 10 % des verwendeten Kakaos aus zurückverfolgbaren, nachhaltigem Anbau komme. In der Sendung Ferrero Check des Senders WDR aus dem Jahre 2011 wird Ferrero eine „unzureichende“ Fairness attestiert. Ferrero habe kein einziges Produkt auf dem Markt gehabt, das als [Fair](../siegel/fair_trade_siegel.html) gekennzeichnet werden dürfe, ganz anders als etwa beim Konkurrenten [Mars Incorporated](../konzerne/mars_inc.html).   
 
+### <a name="kinderarbeit"/>[Kinderarbeit](../thema/kinderarbeit.html)
+[Petition "Ferrero: Stop child labour!](https://act.wemove.eu/campaigns/ferrero-kinder)   
+Nutella, Kinder Bueno oder Ferrero-Rocher werden mutmaßlich mit Haselnüssen hergestellt, für die Kinder arbeiten müssen. Unsere Nachforschungen zeigen, dass die Haselnüsse, die unter anderem in verschiedenen Produkten des Unternehmens Ferrero verarbeitet werden, von Kindern in der Türkei gepflückt werden.   
+Wir fordern Sie auf, angemessene Preise für Haselnüsse aus der Türkei zu zahlen und sicherzustellen, dass die Arbeiter/innen einen existenzsichernden, fairen Lohn erhalten und Kinderarbeit unverzüglich eingestellt wird!   
+(_2019.12.20_ - The Guardian) [Ferrero Rocher chocolates may be tainted by child labour](https://www.theguardian.com/global-development/2019/dec/20/are-ferrero-rocher-chocolates-tainted-by-child-labour)
+
 (Aktiv gegen Kinderarbeit) [Firmenseite über Ferrero](https://www.aktiv-gegen-kinderarbeit.de/firma/ferrero/){:target="_blank"}   
 
 [Ferrero und Nachhaltigkeit](https://www.ferrerocsr.com/index.php?lang=EN){:target="_blank"}   
