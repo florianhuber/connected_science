@@ -16,8 +16,13 @@
 
 ## Unternehmensprofile in den Medien
 * [Spiegel Online](https://www.spiegel.de/thema/bayer/){:target="_blank"}
+* [The Guardian](https://www.theguardian.com/business/bayer){:target="_blank"}
+* [Bloomberg](https://www.bloomberg.com/profile/company/BAYN:GR){:target="_blank"}
 
 ---
 
-(_2019.11.28_ - Bloomberg) **[Bayer Criticizes Mexico for Blocking Imports of Herbicide](https://www.bloomberg.com/news/articles/2019-11-28/bayer-criticizes-mexico-for-blocking-imports-of-herbicide?srnd=materials){:target="_blank"}**
+(_2019.11.21_ - The Guardian) [Revealed: Bayer AG discussed plans to give not-for-profit funding for influence](https://www.theguardian.com/business/2019/nov/21/bayer-ag-emails-business-interests-funding){:target="_blank"}
+> Emails between two senior executives and a journalist show discussions aimed at giving Bayer a voice in press foundation initiatives.   
+
+(_2019.11.28_ - Bloomberg) [Bayer Criticizes Mexico for Blocking Imports of Herbicide](https://www.bloomberg.com/news/articles/2019-11-28/bayer-criticizes-mexico-for-blocking-imports-of-herbicide?srnd=materials){:target="_blank"}
 > Mexico joins list of countries looking to cut out glyphosate.   
