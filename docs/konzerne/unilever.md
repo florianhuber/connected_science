@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Unilever){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Unilever){:target="_blank"}   
 
+[LinkedIn](https://de.linkedin.com/company/unilever){:target="_blank"}   
+
 ---
 
 > ... ist ein niederländisch-britischer Konzern. Das Unternehmen ist weltweit einer der größten Hersteller von Verbrauchsgütern. Die Hauptgeschäftsbereiche umfassen die Produktion von Nahrungsmitteln, Kosmetika, Körperpflege- sowie Haushalts- und Textilpflegeprodukten. Unilever beschäftigte 2016 weltweit 168.000 Mitarbeiter in über 100 Ländern (1990 noch 304.000). In Deutschland waren 2013 rund 5.000 Mitarbeiter tätig (1962 waren es 36.000, 27.400 Beschäftigte 1990 und 8.000 Ende 2005).   

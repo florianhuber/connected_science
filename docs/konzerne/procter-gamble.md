@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Procter_%26_Gamble){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Procter_%26_Gamble){:target="_blank"}   
 
+[LinkedIn](https://de.linkedin.com/company/procter-and-gamble){:target="_blank"}   
+
 ---
 
 > Das Unternehmen hat sich seit seiner Gründung unter anderem durch Entwicklungen im Konsumgütermarkt einen Namen gemacht und hat immer wieder neue Wege im Marketing beschritten. Besonderes Kennzeichen ist das ausschließlich an den einzelnen Marken orientierte Marketing, während der Konzern und sein Name meist im Hintergrund bleiben. Procter & Gamble gilt daher auch als Pionier des Markenmanagements. Die konsequente Nutzung der Fernsehwerbung und besonders in der ersten Hälfte des 20. Jahrhunderts der Radiowerbung geht ebenfalls auf P&G zurück. Unter anderem basiert auch der Begriff Seifenoper auf der Kommunikationsstrategie von P&G, ab den 1930er Jahren Radioshows zu sponsern bzw. selbst zu produzieren.

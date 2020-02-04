@@ -8,6 +8,8 @@
 
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Alfred_Ritter_GmbH_%26_Co._KG){:target="_blank"}   
 
+[LinkedIn](https://de.linkedin.com/company/ritter-sport){:target="_blank"}   
+
 ---
 
 > .. ist ein deutscher Lebensmittelhersteller aus Baden-Württemberg, der durch die Schokoladenmarke Ritter Sport bekannt ist.   

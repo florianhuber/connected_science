@@ -30,13 +30,14 @@
 ## Möbelprodukte
 * [IKEA](konzerne/ikea.html)
 
-## Nahrungsmittel- und Genussmittelindustrie
+## Lebensmittel-, Nahrungsmittel- und Genussmittelindustrie
 * [Alfred Ritter GmbH & Co. KG](konzerne/ritter_gmbh.html)
 * [Barry Callebaut](konzerne/barry_callebaut.html)
 * [Cadbury](konzerne/cadbury.html)
 * [Cargill](konzerne/cargill.html)
 * [Coca-Cola Company](konzerne/coca-cola_co.html)
 * [Danone](konzerne/danone.html)
+* [Felix Austria GmbH](konzerne/felix_austria_gmbh.html)
 * [Ferrero](konzerne/ferrero.html)
 * [General Mills](konzerne/general_mills.html)
 * [Green & Black's](konzerne/green_blacks.html)

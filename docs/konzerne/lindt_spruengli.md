@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Lindt_%26_Spr%C3%BCngli){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Lindt_%26_Spr%C3%BCngli){:target="_blank"}   
 
+[LinkedIn](https://de.linkedin.com/company/lindt-&-sprungli){:target="_blank"}   
+
 ---
 
 > ..  ist ein international tätiger Schweizer Schokoladenhersteller mit Sitz in der Schweiz.   

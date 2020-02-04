@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/PepsiCo){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/PepsiCo){:target="_blank"}   
 
+[LinkedIn](https://de.linkedin.com/company/pepsico){:target="_blank"}   
+
 ---
 
 > .. ist ein US-amerikanischer Getränke- und Lebensmittelkonzern mit Firmensitz in Purchase im Bundesstaat New York. PepsiCo ist derzeit der größte Konkurrent der [Coca-Cola Company](../konzerne/coca-cola_co.html).   

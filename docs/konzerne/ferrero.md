@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Ferrero_(Unternehmen)){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Ferrero_SpA){:target="_blank"}   
 
+[LinkedIn](https://de.linkedin.com/company/ferrero){:target="_blank"}   
+
 ---
 
 > ... ist einer der größten international tätigen italienischen Süßwarenhersteller.   

@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Nestl%C3%A9){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Nestl%C3%A9){:target="_blank"}   
 
+[LinkedIn](https://de.linkedin.com/company/nestle-s-a-){:target="_blank"}   
+
 ---
 
 ## Nestlé Marken

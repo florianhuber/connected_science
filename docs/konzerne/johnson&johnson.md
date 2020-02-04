@@ -9,6 +9,8 @@
 [Wikipedia (de)](https://de.wikipedia.org/wiki/Johnson_%26_Johnson){:target="_blank"}   
 [Wikipedia (en)](https://en.wikipedia.org/wiki/Johnson_%26_Johnson){:target="_blank"}   
 
+[LinkedIn](https://de.linkedin.com/company/johnson-&-johnson){:target="_blank"}   
+
 ---
 
 > ... ist ein weltweit tätiger amerikanischer Pharmazie- und Konsumgüterhersteller mit Hauptsitz in New Brunswick im US-Bundesstaat New Jersey. Das Unternehmen ist im Dow Jones Industrial Average gelistet (Symbol: JNJ). Johnson & Johnson ist mit 71,9 Milliarden US-Dollar Umsatz, bei einem Gewinn von 16,4 Milliarden US-Dollar, 2016 eines der größten Gesundheitsunternehmen der Welt. Die Pharmasparte firmiert in erster Linie unter Janssen und machte 2015 31,4 Milliarden US-Dollar Umsatz. Es gibt auch OTC- resp. Medizinprodukte-Sparten.
