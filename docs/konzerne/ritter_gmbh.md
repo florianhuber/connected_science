@@ -27,6 +27,6 @@ Obwohl das Unternehmen seit 1990 auch ökologisch wirtschaftende Kooperativen Ka
 
 (_2018.03.27_ - Greenpeace Magazin) [Alfred Ritter: «Den besten Kakao kriege ich nicht mit Sklaven»](https://www.greenpeace-magazin.de/ticker/alfred-ritter-den-besten-kakao-kriege-ich-nicht-mit-sklaven){:target="_blank"}
 
-(_2018.03.14_ - Stuttgarter Zeitung) - [Plantage in Nicaragua | Wo der Kakao für Ritter Sport herkommt](https://www.stuttgarter-zeitung.de/inhalt.plantage-in-nicaragua-wo-der-kakao-fuer-ritter-sport-herkommt.e3c6f2bf-6d1e-4318-8e9e-779001286db6.html){:target="_blank"}   
+(_2018.03.14_ - Stuttgarter Zeitung) [Plantage in Nicaragua - Wo der Kakao für Ritter Sport herkommt](https://www.stuttgarter-zeitung.de/inhalt.plantage-in-nicaragua-wo-der-kakao-fuer-ritter-sport-herkommt.e3c6f2bf-6d1e-4318-8e9e-779001286db6.html){:target="_blank"}   
 
-(_2017.02.17_ - Stuttgarter Zeitung) - [Kakao aus nachhaltigem Anbau | Ritter Sport erreicht eigene Ziele früher](https://www.stuttgarter-zeitung.de/inhalt.kakao-aus-nachhaltigem-anbau-ritter-sport-erreicht-eigene-ziele-frueher.e8bb5cdb-59eb-4b04-9c56-8b6495ea9e8b.html){:target="_blank"}   
+(_2017.02.17_ - Stuttgarter Zeitung) [Kakao aus nachhaltigem Anbau - Ritter Sport erreicht eigene Ziele früher](https://www.stuttgarter-zeitung.de/inhalt.kakao-aus-nachhaltigem-anbau-ritter-sport-erreicht-eigene-ziele-frueher.e8bb5cdb-59eb-4b04-9c56-8b6495ea9e8b.html){:target="_blank"}   
