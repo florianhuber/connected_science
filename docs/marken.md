@@ -24,6 +24,7 @@ Marke | Markeneigner
 --- | ---
 [After Eight](marken/after-eight.html) | [Nestlé](konzerne/nestle.html)
 [Beba](marken/beba.html) | [Nestlé](konzerne/nestle.html)
+[Bensdorp](marken/bensdorp.html) | [Barry Callebaut](konzerne/barry_callebaut.html)>[Mondelēz International](konzerne/mondelez_international.html)
 [Bertolli](marken/bertolli.html) | [Unilever](konzerne/unilever.html)
 [Bübchen](marken/buebchen.html) | [Nestlé](konzerne/nestle.html)
 [Buitoni](marken/buitoni.html) | [Nestlé](konzerne/nestle.html)
