@@ -22,7 +22,7 @@ Die [Internationale Arbeitsorganisation (ILO)](../organisationen/ilo.html) defin
 
 ## Themen mit Bezug zu Kinderarbeit
 * [Bananenanbau](../thema/bananenanbau.html)
-* [Kakaoanbau](..thema/kakaoanbau.html)
+* [Kakaoanbau](../thema/kakaoanbau.html)
 
 ## Artikel zum Thema Kinderarbeit
 ### Artikel zum Thema Kinderarbeit mit Bezug zu Nespresso <a name="nespresso"/a>
@@ -32,4 +32,4 @@ Die [Internationale Arbeitsorganisation (ILO)](../organisationen/ilo.html) defin
 * (_2019.10.21_ - Spiegel Online) - [In Bolivien dürfen Kinder nicht mehr arbeiten - und das ist ein Problem](https://www.spiegel.de/politik/ausland/bolivien-und-seine-kinderarbeiter-zurueck-in-der-rechtlosigkeit-a-1289863.html){:target="_blank"}
 
 ### Artikel zum Thema Kinderarbeit mit Bezug zu Kakaoanbau <a name="kakaoanbau"/a>
-* (_2015.08.14_ - Make Chocolate Fair) [US-Studie belegt: Kinderarbeit im Kakaoanbau in Westafrika nimmt weiter zu](https://at.makechocolatefair.org/news/us-studie-belegt-kinderarbeit-westafrika-nimmt-weiter-zu){:target="_blank"}   
+* (_2015.08.14_ - Make Chocolate Fair) - [US-Studie belegt: Kinderarbeit im Kakaoanbau in Westafrika nimmt weiter zu](https://at.makechocolatefair.org/news/us-studie-belegt-kinderarbeit-westafrika-nimmt-weiter-zu){:target="_blank"}   

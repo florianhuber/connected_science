@@ -40,12 +40,17 @@ Eine kleine Auswahl bekannter Nestlé Marken im deutschsprachigen Raum:
 * [Nespresso und Kinderarbeit in Guatemala](../thema/kinderarbeit#nespresso)]
 ### <a name="marktkonzentration">Marktkonzentration</a>
 ### <a name="palmoelanbau">Palmöl</a>
-* [Nestlé-Marken in der Kritik: Wasser, Regenwald, Tierversuche - Utopia](https://utopia.de/ratgeber/nestle-marken-diese-produkte-gehoeren-zum-unternehmen/)
-* [Palmöl-Report: Nestlé bezieht Palmöl aus Kinderarbeit - Utopia](https://utopia.de/ratgeber/solidar-suisse-nestle-bezieht-palmoel-aus-kinderarbeit/)
-* [Nestlé verwendet Palmöl aus Urwaldzerstörung, auch für Kit Kat - Greenpeace](https://www.greenpeace.ch/de/story/16047/nestle-verwendet-palmoel-aus-urwaldzerstoerung-auch-fuer-kit-kat/){:target="_blank"}
+* (_2019.12.24_ - Utopia) - [Nestlé-Marken: Diese Produkte gehören zum Unternehmen](https://utopia.de/ratgeber/nestle-marken-diese-produkte-gehoeren-zum-unternehmen/){:target="_blank"}   
+> Nestlé steht wegen fragwürdiger Geschäftspraktiken schon länger in der Kritik. Alle Nestlé-Marken kennt aber fast niemand, denn immerhin handelt es sich um den größten Nahrungsmittelkonzern der Welt. Wir zeigen, hinter welchen Marken Nestlé steckt.   
+
+* (_2019.09.19_ - Utopia) - [Palmöl-Report: Nestlé bezieht Palmöl aus Kinderarbeit](https://utopia.de/ratgeber/solidar-suisse-nestle-bezieht-palmoel-aus-kinderarbeit/){:target="_blank"}   
+> Als einer der größten Lebensmittelkonzerne der Welt verarbeitet Nestlé Unmengen von Palmöl. Nun erhebt eine Schweizer Hilfsorganisation schwere Vorwürfe gegen den Lebensmittelkonzern: Nestlé soll Palmöl von Plantagen in Malaysia gekauft haben, auf denen Kinder- und Zwangsarbeit stattfindet.   
+
+* (_2010.03.16_ - Greenpeace Schweiz) - [Nestlé verwendet Palmöl aus Urwaldzerstörung, auch für Kit Kat](https://www.greenpeace.ch/de/story/16047/nestle-verwendet-palmoel-aus-urwaldzerstoerung-auch-fuer-kit-kat/){:target="_blank"}   
+> Nestlé verwendet Palmöl aus indonesischer Urwald- und Torflandzerstörung. Produkte wie Kit Kat bringen die selten gewordenen Orang-Utans an den Rand der Ausrottung und beschleunigen den Klimawandel. Dies zeigt ein brandneuer Bericht von Greenpeace International.   
 
 ### <a name="trinkwasserabfuellung">Nicht-nachhaltige Trinkwasserabfüllung</a>
-(_2019.11.10_ - SRF) [Geschäft mit dem Grundwasser - Wegen Nestlé sitzt Vittel bald auf dem Trockenen](https://www.srf.ch/news/international/geschaeft-mit-dem-grundwasser-wegen-nestle-sitzt-vittel-bald-auf-dem-trockenen)   
+(_2019.11.10_ - SRF) [Geschäft mit dem Grundwasser - Wegen Nestlé sitzt Vittel bald auf dem Trockenen](https://www.srf.ch/news/international/geschaeft-mit-dem-grundwasser-wegen-nestle-sitzt-vittel-bald-auf-dem-trockenen){:target="_blank"}   
 Siehe: [Vittel](../marken/vittel.html)   
 
 
