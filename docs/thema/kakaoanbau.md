@@ -21,7 +21,7 @@ Konventionelle Kakaounternehmen, die im Verdacht stehen, Ausbeutung und Kinderar
 
 ---
 
-## Problem <a name="ausbeutung"/a> Ausbeutung, unfaire Arbeitsbedingungen, Sklaverei und Kinderarbeit
+## Problem <a name="ausbeutung"/a> Ausbeutung, unfaire Arbeitsbedingungen, Sklaverei und <a href="kinderarbeit#kakaoanbau">Kinderarbeit</a>
 
 * (_2016_ - Galileo | ProSieben) [Der lange Weg der Schokolade, 15:20 Minuten](https://www.youtube.com/watch?v=nu0KvZuDeBM){:target="_blank"}   
 > Jeder Deutsche isst rund zehn Kilogramm Schokolade pro Jahr. Doch diese beachtliche Menge an Kakao muss erst einmal eine lange Reise hinter sich bringen, bis sie bei uns in den Supermarkt-regalen landet.
