@@ -37,7 +37,7 @@ Eine kleine Auswahl bekannter Nestlé Marken im deutschsprachigen Raum:
 
 ### <a name="umweltzerstoerung">Umweltzerstörung</a>
 ### <a name="kinderarbeit">Kinderarbeit</a>
-* [Nespresso und Kinderarbeit in Guatemala] (../thema/kinderarbeit#nespresso)]
+* [Nespresso und Kinderarbeit in Guatemala](../thema/kinderarbeit#nespresso)]
 ### <a name="marktkonzentration">Marktkonzentration</a>
 ### <a name="palmoelanbau">Palmöl</a>
 * [Nestlé-Marken in der Kritik: Wasser, Regenwald, Tierversuche - Utopia](https://utopia.de/ratgeber/nestle-marken-diese-produkte-gehoeren-zum-unternehmen/)
