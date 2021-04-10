@@ -1,6 +1,10 @@
 [Filme](../filme.html)
 
+# The Green Lie - 2018
+
 <img src="https://image.film.at/images/cfs_poster_480w_678h/3015861/green-lie-plakat.png" height="200" alt="Seaspiracy film poster">   
+
+> Umweltschonende Elektroautos, nachhaltiges Palmöl, faire Produktion: Hurra, wenn wir den Konzernen Glauben schenken, können wir mit unseren Kaufentscheidungen die Welt retten! Eine populäre und gefährliche Lüge, wie Werner Boote („Plastic Planet“, „Alles unter Kontrolle“) gemeinsam mit Journalistin und Umweltexpertin Kathrin Hartmann in dieser brisanten Doku darlegt.
 
 [The Green Lie - Die grüne Lüge - film.at](https://www.film.at/green-lie){:target="_blank"}   
 [The Green Lie (Trailer) - YouTube](https://www.youtube.com/watch?v=e_AY6p3KZ8I){:target="_blank"}   
@@ -9,4 +13,6 @@
 
 [The Green Lie - International Movie Database](https://www.imdb.com/title/tt5887760){:target="_blank"}
 
-Siehe auch Thema [Greenwashing](../thema/greenwashing.html)   
+Siehe auch Themen: 
+* [Greenwashing](../thema/greenwashing.html)   
+* [Thechnikgläubigkeit, Solutionism](../thema/solutionism.html)   
