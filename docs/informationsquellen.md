@@ -5,6 +5,7 @@
 ## Filme, Videos
 * [Filme](filme.html)
 * [Übersicht über Dokumentationen](informationsquellen/dokumentationen.html)
+* [Filme für die Erde](https://filmsfortheearth.org/de/filme){:target="_blank"}   
 
 ## websites
 * [Aktiv gegen Kinderarbeit](informationsquellen/aktivgegenkinderarbeit.html)
@@ -13,3 +14,6 @@
 
 ## Bücher
 * [Schwarzbuch Markenfirmen](informationsquellen/schwarzbuch_markenfirmen.html)
+
+## Berichte über positive Entwicklungen
+* [Gute Nachrichten ... braucht der Mensch!](https://www.gute-nachrichten.com.de/){:target="_blank"}   

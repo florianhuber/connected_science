@@ -36,3 +36,7 @@ Eine besondere Form des Greenwashing sind Kooperationsprojekte mit Partnern, die
 ## Dokumentation zum Thema Greenwashing
 
 * 'Schluss mit grünen Lügen der Konzerne' - Rezension zu dem Film "The Green Lie" [orf.at (2018.02.03)](https://help.orf.at/stories/2893176/){:target="_blank"}   
+
+## Beispiel für "Gut gemeint aber .."
+Die Menge an alten Fishernetzen im Meer ist so riesig, da hilft es nicht daraus eine Handvoll Sonnenbrillen zu machen da sie eher das Gefühl geben eh eine Lösung gefunden zu haben und sich anderen Themen zuzuwenden.   
+* [Die ersten Sonnenbrillen aus alten Fischernetzen - Gute Nachrichten](https://www.gute-nachrichten.com.de/2015/09/wirtschaft/die-ersten-sonnenbrillen-aus-alten-fischernetzen/){:target="_blank"}   

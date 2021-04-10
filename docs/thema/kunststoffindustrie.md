@@ -2,6 +2,9 @@
 
 # Kunststoffindustrie
 
+Siehe auch:
+* [Dokumentation: Plastic Planet](../filme/plastic_planet.html)
+
 * [Konzerne: Die Aktivitäten der Plastik-Lobby - (Heinrich Böll Stiftung)](https://www.boell.de/de/2019/05/27/konzerne-die-aktivitaeten-der-plastik-lobby)
 
 (_2018.05.15_ - Manager Magazin) [Vom Rohstoff zum Verpackungsmüll - So verdient die Plastikindustrie Milliarden](https://www.manager-magazin.de/fotostrecke/plastik-so-verdient-die-kunststoff-industrie-milliarden-fotostrecke-160488.html){:target="_blank"}   

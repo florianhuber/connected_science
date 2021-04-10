@@ -1,0 +1,20 @@
+[Themen](../thema.html)
+
+# Mythen zum Thema Überbevölkerung
+
+
+> FAKTEN ZUR RESSOURCEN VERTEILUNG
+Mit einer Ressourcenentnahme von rund 60 Milliarden Tonnen jährlich entnimmt und verwendet der Mensch heute um etwa 50 Prozent mehr Ressourcen als noch vor dreißig Jahren. Fast die Hälfte der globalen Ressourcenentnahme - nicht deren Verbrauch - findet in Asien statt, gefolgt von Nordamerika mit fast 20 Prozent und Europa und Lateinamerika mit jeweils 13 Prozent.
+Für die Nutzung natürlicher Ressourcen und den daraus resultierenden materiellen Wohlstand gibt es derzeit keine gerechte Verteilung unter den auf unserem Planeten lebenden Menschen. Zurzeit nehmen Europa und andere reiche westliche Staaten weit mehr als den ihnen zustehenden Anteil in Anspruch.
+Einwohnerinnen und Einwohner reicher Länder konsumieren bis zu zehnmal mehr natürliche Ressourcen als jene der ärmsten Länder. Im Durchschnitt konsumieren die Einwohnerinnen und Einwohner Nordamerikas etwa 90 Kilogramm Ressourcen pro Tag und Kopf. In Europa liegt der Pro-Kopf-Verbrauch bei etwa 45 Kilogramm pro Tag - in Afrika nur bei etwa zehn Kilogramm pro Tag.
+Mit fast drei Tonnen pro Kopf und Jahr ist Europa der Kontinent mit den größten Netto-Importen von Ressourcen. Europa profitiert vom Transfer von Ressourcen aus armen Ländern mit geringem Konsum in reiche Länder mit hohem Konsum. Das derzeitige Welthandelssystem unterstützt dieses große Ungleichgewicht in der globalen Verteilung der Ressourcennutzung.
+Österreich liegt beim Ressourcenverbrauch pro Kopf mit rund 60 Kilogramm pro Tag über dem EU-Durchschnitt. Nur Irland, Finnland und Dänemark haben einen noch höheren Verbrauch.
+Energie-, land- und wasserintensive Ressourcenentnahmen schaffen ökologische und soziale Probleme. Wie die Fallstudien zur Ölgewinnung in Nigeria, zum Kupferabbau und dessen Verarbeitung in Peru oder zur Produktion von Palmöl in Indonesien und Malaysia zeigen, sind die Auswirkungen in den Entwicklungs- und Schwellenländern am stärksten spürbar: die Zerstörung fruchtbaren Landes, Wasserknappheit oder Verschmutzung durch giftige Substanzen sowie Menschenrechtsverletzungen, schlechte Arbeitsbedingungen und geringe Löhne.
+
+> FAKTEN ZUR RESSOURCEN NUTZUNG
+Wer vor „Überbevölkerung” warnt, meint damit meist die Knappheit natürlicher Ressourcen der Erde und deren Ausbeutung und Nutzung, die mit dem größten Umweltproblem, dem Klimawandel, im Zusammenhang steht.
+Tatsache ist aber: Nur etwa ein Viertel der Weltbevölkerung hat genügend Kaufkraft, um vom System des globalen Ressourcenabbaus und vom Ressourcenhandel zu profitieren. 80 Prozent der Weltbevölkerung leben von weniger als zehn Dollar pro Tag. Der Begriff „Überbevölkerung” beschreibt daher oft die Angst der wohlhabenden Gesellschaften, dass die heute armen Menschen in der Zukunft verständlicherweise nach weiterem Wirtschaftswachstum und mehr Konsum verlangen werden. Die Ausweitung des derzeitigen ressourcenintensiven Wirtschaftsmodells Europas und anderer hochentwickelter Länder von heute sieben auf in Zukunft zehn Milliarden Menschen ist mit Hinblick auf die Umwelt weder möglich noch wirtschaftlich und sozial aufrechtzuerhalten. Unser Wachstumsmodell mit hohem Konsumniveau ist durch zunehmende Ungleichheit und einen alarmierend hohen Ressourcenverbrauch einer kleinen Minderheit der Weltbevölkerung gekennzeichnet.
+Die industrielle Entwicklung der vergangenen zweihundert Jahre basierte auf billiger fossiler Energie und billigen Rohstoffen. Der Treibstoff der Globalisierung und des wachsenden Welthandels war „billiges” Öl. In den letzten Jahren sind die Preise für Rohstoffe und Energie bereits gestiegen, hauptsächlich aufgrund der verstärkten Nachfrage von Schwellenländern wie China. Die Preise für Ressourcen sind aber nach wie vor zu niedrig und entsprechen nicht den wahren Kosten, die den Menschen und Gesellschaften weltweit durch ihre Nutzung entstehen: Umweltverschmutzung, Lärmentwicklung und Klimawandel sind nicht
+berücksichtigt worden.
+
+[Quelle](http://www.wernerboote.com/cms/wernerboote/index.php?idcatside=146){:target="_blank"}   
