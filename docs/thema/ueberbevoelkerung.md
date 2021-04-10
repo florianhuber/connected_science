@@ -1,4 +1,4 @@
-[Themen](../thema.html)
+[Themen](../themen.html)
 
 # Überbevölkerung
 
