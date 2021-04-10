@@ -8,4 +8,4 @@ Siehe auch:
 
 ---
 
-Abbau und Gewinnung von Rohstoffen durch [Bergbau](https://de.wikipedia.org/wiki/Bergbau){:target="_blank"}.
+Abbau und Gewinnung von Rohstoffen durch [Bergbau](https://de.wikipedia.org/wiki/Bergbau){:target="_blank"}   
