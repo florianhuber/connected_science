@@ -25,3 +25,7 @@ https://noe.orf.at/stories/3111648/
 
 
 https://www.derstandard.at/story/2000128091487/oesterreich-versiegelt-und-zugebaut?amplified=True
+
+
+Image Data Labelling and Annotation — Everything you need to know
+https://towardsdatascience.com/image-data-labelling-and-annotation-everything-you-need-to-know-86ede6c684b1
