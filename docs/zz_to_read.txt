@@ -29,3 +29,7 @@ https://www.derstandard.at/story/2000128091487/oesterreich-versiegelt-und-zugeba
 
 Image Data Labelling and Annotation — Everything you need to know
 https://towardsdatascience.com/image-data-labelling-and-annotation-everything-you-need-to-know-86ede6c684b1
+
+
+Tutorial - HTML - Image Links
+https://www.tutorialspoint.com/html/html_image_links.htm
